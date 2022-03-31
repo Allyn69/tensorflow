@@ -1,0 +1,4057 @@
+From d719f0d4e7789f6032bb454826b3f4f2a96a57e6 Mon Sep 17 00:00:00 2001
+From: Allyn Scott Charpentier et.al <allyncharpentier@rocketmail.com>
+Date: Fri, 10 Apr 2020 02:15:16 -0700
+Subject: [PATCH] web ser er branch aadvicer one whiterow iPad for another day in a I was like 25 pound turkeychil I am down 190lies 28
+
+---
+ 3-doc-audio.png  | Bin 0 -> 922 bytes
+ 3-doc-binary.png | Bin 0 -> 812 bytes
+ 3-doc-blank.png  | Bin 0 -> 812 bytes
+ 3-doc-doc.png    | Bin 0 -> 979 bytes
+ 3-doc-image.png  | Bin 0 -> 961 bytes
+ 3-doc-ppt.png    | Bin 0 -> 795 bytes
+ 3-doc-txt.png    | Bin 0 -> 788 bytes
+ 3-doc-video.png  | Bin 0 -> 1131 bytes
+ 3-doc-xls.png    | Bin 0 -> 811 bytes
+ 3-doc-zip.png    | Bin 0 -> 1238 bytes
+ 404.html         |   31 +++++++++++++++++++++++++++++++
+ HT201471.html    | 1734 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ blank.png        | Bin 0 -> 224 bytes
+ disk48.png       | Bin 0 -> 3644 bytes
+ document.png     | Bin 0 -> 979 bytes
+ document_ppt.png | Bin 0 -> 795 bytes
+ document_xls.png | Bin 0 -> 811 bytes
+ document_zip.png | Bin 0 -> 1238 bytes
+ favicon.ico      | Bin 0 -> 1718 bytes
+ footer-pc.html   |   53 +++++++++++++++++++++++++++++++++++++++++++++++++++++
+ footer.html      |   23 +++++++++++++++++++++++
+ header-pc.html   |   35 +++++++++++++++++++++++++++++++++++
+ header.html      |   31 +++++++++++++++++++++++++++++++
+ image_doc.png    | Bin 0 -> 961 bytes
+ iso_doc.png      | Bin 0 -> 812 bytes
+ left-arrow24.png | Bin 0 -> 1683 bytes
+ multifile.js     |   64 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ npm.html         |  774 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ plain_doc.png    | Bin 0 -> 812 bytes
+ scripts.js       |   54 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ sound_doc.png    | Bin 0 -> 922 bytes
+ styles-pc.css    |  274 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ styles.css       |   99 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ text_doc.png     | Bin 0 -> 788 bytes
+ upload.png       | Bin 0 -> 792 bytes
+ video_doc.png    | Bin 0 -> 1131 bytes
+ windows_app.png  | Bin 0 -> 812 bytes
+ 37 files changed, 3172 insertions(+)
+ create mode 100644 3-doc-audio.png
+ create mode 100644 3-doc-binary.png
+ create mode 100644 3-doc-blank.png
+ create mode 100644 3-doc-doc.png
+ create mode 100644 3-doc-image.png
+ create mode 100644 3-doc-ppt.png
+ create mode 100644 3-doc-txt.png
+ create mode 100644 3-doc-video.png
+ create mode 100644 3-doc-xls.png
+ create mode 100644 3-doc-zip.png
+ create mode 100644 404.html
+ create mode 100644 HT201471.html
+ create mode 100644 blank.png
+ create mode 100644 disk48.png
+ create mode 100644 document.png
+ create mode 100644 document_ppt.png
+ create mode 100644 document_xls.png
+ create mode 100644 document_zip.png
+ create mode 100644 favicon.ico
+ create mode 100644 footer-pc.html
+ create mode 100644 footer.html
+ create mode 100644 header-pc.html
+ create mode 100644 header.html
+ create mode 100644 image_doc.png
+ create mode 100644 iso_doc.png
+ create mode 100644 left-arrow24.png
+ create mode 100644 multifile.js
+ create mode 100644 npm.html
+ create mode 100644 plain_doc.png
+ create mode 100644 scripts.js
+ create mode 100644 sound_doc.png
+ create mode 100644 styles-pc.css
+ create mode 100644 styles.css
+ create mode 100644 text_doc.png
+ create mode 100644 upload.png
+ create mode 100644 video_doc.png
+ create mode 100644 windows_app.png
+
+diff --git a/3-doc-audio.png b/3-doc-audio.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..ab5dc8d2f59bc31ec319c2b8311ff83d8c89686a
+GIT binary patch
+literal 922
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z5Hl*x
+zdK&Q-$bRSP;uw;_nv@{Hx>(UbiU~hq!r2(PIqh%zBdb{v4%yBVZ8l85R(A17jSByt
+z`Ig1YcztyiE?t-*w_{`0RV}lqTkfTsC)zTkzJL4r_2VVGT(=krbhA6m{AFNZ`SJ28
+zzg4rk4>K$H&zWhQ-X{>MySO#6!iM4074wFOKCy2>XMJkq8cx~Hv8&x>a#d%^HpdLP
+z3XUhwnLqlQe4N~Dmb}>Vi=swD+L;-NoFeR%Y+>I2=i647S#M?T*LtRCE%YQ~#=_v`
+zep4Af<tv}8XXyHP;7R9FP{{rNFaP(&KVS&V1o`~!^!;AUjsnM+!<zU71lF*~AJAGW
+zAaH5fCq@><sR>W5W0a@=_Wz~b60$9`HKek+L4m``!9(?h`EflTv&4Su6KPD+5qaOr
+zzJL3Dw$AdI)m+>EmrVX9=bqet`tu*5<oi`No|72m#RanqU+rRaU{b6)^30}7;H;}b
+zVTn*QL!!jIhyV1?GM_Py*H&7`tS~WhTCG+CyWpao9cl~=J0E7d9w}uw<MdjA!_T$j
+znbIqU7iSkg^Z8+ASSZVoW4z3=Q0DuQj%Q9e3@MU5^$XAbkP6($+wiAfxT0&(i<l`H
+zddJufJn!u7=VF-l;*ikwD<y76nH_TE-|{-u^K8uivi#WIwLwnJR{K|Z73Fa}nfiQP
+z1Y5%<&(QrcvJ87aDO6nz*kRY(TD*FOw9^l7?~g1Wv+T}S%74pDp8JX=;QJj*@tnL4
+zoo!ps@6kCe{JHYnZ-yCLH(Utv+1aq_<2J<u)@zC%+Faho`_X;}yUSPE?8ZpPA1A)e
+zY3>tsEo5!vWU!Ms!t_z3!FghQIQ!Wd_wS@10K)`%$sg=5`*Ruozx%uqlx{s;{an^L
+HB{Ts5nMO&b
+
+literal 0
+Hc$@<O00001
+
+diff --git a/3-doc-binary.png b/3-doc-binary.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..96e5aee16240f85acdfda2a1713ac0c06dc9feab
+GIT binary patch
+literal 812
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z2tRH6
+zXSW|nZ}fC=49Q@9Ga-=cfB}bd^?&6ro22VF9$t*N@%+RBA7SNB*G`EuDGFeq0+kKl
+z>wXnJST_B=(U&Umucx*jkG($c^o{RDu}37|ZoRhV^76f}ZvHy`Nb|AH^4E!T0?%LL
+z*|=U|>&o(Zm%kdETaljKb|ZYktt-~&Usg$^U)gNx{6^a&_to6zCAK}ruX;;af4@w~
+z{+0iK$z7Z2fqP%wn_SP)a=@Qs575p3|1V*BXbB9643OjBPRZ^%Y{1h3bo!G`u`IGb
+ztTNW@us^lwwbKL>eM`M3A0_Ipm)gF5neu3ke?@A?XPbxfwtlK`n-i?Tduc`2=bZ(|
+zm+kzl@jvV<YwQA(Rb1aHpWglGQN8+|%%QDz^Tl_RK2^K5)AjnVKUeD)O#6MfTzPx<
+zY3=#XRvlU;RNlAi@_cCv^AF+q4e^Zi?uDH1_ep)SnEv6E*z@XRJEI>h^K_n9`!pjg
+zbldqWUd5}cCY+DmkZrMfx%oqzCD|vA-t)ElEWlOBoBr*KTFlHVLejteo5JTEQJuqH
+z!n^av?vu}rthUV(o?ak##`MXwTFI{g8a<&k?Y=Re1lGq{E}sXoIX(|$b2`H2xWawE
+zbKgzd!x{JRNEpzpJw<aLuiIF@`TSj`>ji24`G;0Y^55nRJ9x=o>eHLb9WB9&Yokj=
+z*DL_K)RupGLDrW1)$5u>O)^hxe*RF%ulL*BU$^rfum?TvUZh_d4Ni5Qu6{1-oD!M<
+D4$wbu
+
+literal 0
+Hc$@<O00001
+
+diff --git a/3-doc-blank.png b/3-doc-blank.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..96e5aee16240f85acdfda2a1713ac0c06dc9feab
+GIT binary patch
+literal 812
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z2tRH6
+zXSW|nZ}fC=49Q@9Ga-=cfB}bd^?&6ro22VF9$t*N@%+RBA7SNB*G`EuDGFeq0+kKl
+z>wXnJST_B=(U&Umucx*jkG($c^o{RDu}37|ZoRhV^76f}ZvHy`Nb|AH^4E!T0?%LL
+z*|=U|>&o(Zm%kdETaljKb|ZYktt-~&Usg$^U)gNx{6^a&_to6zCAK}ruX;;af4@w~
+z{+0iK$z7Z2fqP%wn_SP)a=@Qs575p3|1V*BXbB9643OjBPRZ^%Y{1h3bo!G`u`IGb
+ztTNW@us^lwwbKL>eM`M3A0_Ipm)gF5neu3ke?@A?XPbxfwtlK`n-i?Tduc`2=bZ(|
+zm+kzl@jvV<YwQA(Rb1aHpWglGQN8+|%%QDz^Tl_RK2^K5)AjnVKUeD)O#6MfTzPx<
+zY3=#XRvlU;RNlAi@_cCv^AF+q4e^Zi?uDH1_ep)SnEv6E*z@XRJEI>h^K_n9`!pjg
+zbldqWUd5}cCY+DmkZrMfx%oqzCD|vA-t)ElEWlOBoBr*KTFlHVLejteo5JTEQJuqH
+z!n^av?vu}rthUV(o?ak##`MXwTFI{g8a<&k?Y=Re1lGq{E}sXoIX(|$b2`H2xWawE
+zbKgzd!x{JRNEpzpJw<aLuiIF@`TSj`>ji24`G;0Y^55nRJ9x=o>eHLb9WB9&Yokj=
+z*DL_K)RupGLDrW1)$5u>O)^hxe*RF%ulL*BU$^rfum?TvUZh_d4Ni5Qu6{1-oD!M<
+D4$wbu
+
+literal 0
+Hc$@<O00001
+
+diff --git a/3-doc-doc.png b/3-doc-doc.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..398925e3314cc64c90f11b7cd255091e83f11503
+GIT binary patch
+literal 979
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z5HtE1
+zycgL7q$NCE978f#--I0GY<3XX(z<1W*d?c^4Xn`{ShWR0HZ*KW;LcRkz0owYQF`JN
+z7k;5HhKDw7uijm}`Eg<7v-4aLjM@pTYZ^p1FohjJ;w%qdaPa!Jw=B{we6Ow7gxo2;
+zt9<3mPJzwupD!yeubxm*Bw#wh;Lvp?y&1ti|M?#sikY`LyZ4w^%kO>ri+l|x>=RVr
+znev{=dQpdqtHeGYvxEuD*1hI_^l`HI>*Qs-Zrr;!$6!)Tz}_X#;|~O|^2rE3-|(}F
+zv!wUTwSQ6fjr4m|_#3#)KJD6Is9|5Iz&DYl%*D_%h*fL-=ZTNGzn0eSIDacd_+8li
+zSCedioYUu@T_`aBvKHGGSEX(Gb8g%-T5k1wv&IKtg#Z8l=1wIrVi{L}!szXEU#}w$
+z0<G*ZoK5TkF_k>|3Kh)$k7U!74WFc|?&#DGKeT3(P@1W^0E=V6>#VRS(<g@$X8Ebk
+zJz(&~;d9W{_4ih<YiWtpvDt5PzW!TgWt8oOwY9VMeJfg!{7pvt9^?6fN7GW7rnz&>
+zU8E7G`^Qk`>alczs51gv3Y;x|oM|&L-|9F)@2K69M2jQA4`X)C{TJhwIcuKhzsPH0
+zfsg$X{SPg@9sFs#??(Q_!-`>3?sU~OmsZ~|^4;4ieWXy*^WE&4=GzO^uJEtD{ZaFq
+z;-P{LQPu5A_Y>~k+a42~|B$UP#w~K%+|$;7T)&H$%4I#eWSSlD#`(wtf#|}WF><FL
+zzDup`I<|Yw?6S8Jcek~@tm>I~XJT;Xp3kh)|EMlYE?IdseaCls$&?*OYFA92KFhT9
+ze?f5Q)rnaX-e2avS1x%{C13Tw>TBO?%}2sLC(W6XTB%s5d)j=#>j%tVB;K5{w2bL3
+ztrD`IDBb)i!<J3H;hB!d<ldLEg$#8p@&}U6J$xYK-&*{#?APH8y*Cn3LetVN6z=8I
+m{pxm3YJNu{69i87dmw)1@qu59CM3QEC3sI)KbLh*2~7a>V|hIQ
+
+literal 0
+Hc$@<O00001
+
+diff --git a/3-doc-image.png b/3-doc-image.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..fc61fbe266b460e542b19ab78f3c16976b2422cb
+GIT binary patch
+literal 961
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z2)`0@
+zRMrF1+dN$yLo!(3Om*ZsY{0|vdD5R{_9t$0ZTlZ~V(WFA1)&RyBb;lvjy9RjaGmDT
+zwlgKNCg%VfCOYDfox6JLzDIRwyO=Dsn10y`Tj(gKz1(OJ&Glr(3|^Uef}6iYC@h`1
+zkYUc513EnolP{eKVDL*z5OX`=nVF`+pl)oyt^8n#$?io{HXWP)TXOU7{JQ?_pV!=d
+z@!#vf$<_MoKa|t>p6#+Z_wVXE+4u24hyVZ2tDtHI42>TkAG{6U=*8?P;H%2fq;P}l
+zUt_{k_9dc!*tDagwY7JfC{FV36KV3b($-d7dp|*x;|5z0Ys(L{du>k*tF1fV#2#Up
+zc6VlV{<E|1?%i8<k>gL*-g}4grF2ej5>8lV=O^jUy8PqhUlASCcxISAW-5z*tp0VQ
+zfUcy0@G;gmoyYuNB`Zc5B|PilzERve|H^TvEhz{7ycK=%{da%NiZpJ&*$qqV#1^SG
+zZwP*n)}vajW&u>>t|YcFMc}%QrqdB~=a|*<AI}RsuQ8C2iMHg;W)uoYlSr>^`xjhs
+zN&MR}<NI&R^aWn`mei<f9+0`hAj8*QEiiZThpX;a1s<^<Vmxyso?&BF`w8nuclPD-
+zy`P+tqn5{!vo-4XiD0cdUD;5vfSlRl=T_c)_A_zQ%pHsZ`hSg|bKiXSL1sbEjORZE
+zU1Cn34E~dMV871e9q9)m^;=Gh-~6~}?^cEf?=CvYZ#LxGb@|-;r1R@l<4jyztsT}h
+z_$@DPh^$YIIWW!pzDF4QU)>7+7i+(-xGJc%aqhkh{e=BLSvV$WA8G%;XVu2_i%ZTl
+z$wX{(j(y}h`Lf{KtxR3Dzt5dtwPo=k*#_56`F-l&!gH-_FV1Uq<-E;yLp0!f*9Weg
+z?%a9Pa|O>>ond{Dy!B7{QN~x>&ayhZ5WTe{@8F#KF$ef|%x<hVV!j_6HS<%oSCAJd
+Od3(D0xvX<aXaWE!*>5}m
+
+literal 0
+Hc$@<O00001
+
+diff --git a/3-doc-ppt.png b/3-doc-ppt.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..b990556dcb0ded0e981beaf3ed708846cbf6059b
+GIT binary patch
+literal 795
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z2;X*}
+zuPg$jmwUQ6hGek5nS7A*h=PD?v6uGC^L8zBM5Q-0#%yo6vU$0K5woRA!lq4!@67w)
+zSn}-r_r}8qniyCV7#KMm7?=bakeCh1jZ-e=O-$Zmm+f8g_U-IP5l5NV6nJY+4(M4F
+zx@GRA+AG$p_h;{K;aRl)#Y^Q^u?4&z`zzO$p0U)|KbX&dDe7(JS)u-ZSKagT(~Sz=
+z@z$^G)=dT)lw0}gCeY9S|F8JdRRHvUBFM>aL%p*O8wi|Tw$s(@t_agkKfb_SuMD{w
+z9nAk-S(Y8IkRn{vypE|gZqaIo0~2i8`81lBPSmkhEa5rq@#*tybN@}YQjzOSeA6SR
+zUF}FtxZ*j<$5Pi~o8iHqM=ZN^nOkS~>QyvKd_22(j{lrw_I=7yH#%9{*c|>SE^55L
+z@N4IvAZ8^-W|tX-cC&i?<}G^Azk0=)g3f}%pLcere4f$x<*uub$bpFcdX@9m^UV1<
+ziM_w`xV88EKqVomA0`C{7x^-Gs%tbK*v0MgB#S|9kH9;%ovT(A7W4S1XZSS9@aCM_
+zRHJgo*VtvB(l?cTCsjBeUn_6eoqzb}y5PO%c4~B~i$p8z6FA4F@Q?Rng4k!#tiv;7
+z_Vz^{G=27Y8xzm<UD<j*(&_ry^{)04<`+IwHw&6>F~8a@F804U--8)3|J|=G-+jwr
+zeqPzbUB6{tT-su{m~RF1s|KqDAnL#YzBvqU&aF5-LGf@HDB*az`njxgN@xNAh5;8p
+
+literal 0
+Hc$@<O00001
+
+diff --git a/3-doc-txt.png b/3-doc-txt.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..7c2849d97bb2b19c1128821336e64abdd005528a
+GIT binary patch
+literal 788
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z2&ZPd
+z?VS&#4Lw~PLo!(3TxbNTI=tX#u>6zOfW!k0jLd925(Wuqj6J+O3=IGO_g!0E19Zp*
+zkmk2xw{s60@O<HlU8tSXy5@rDuBPx4ENofKk_)s`Sl3Sw-P2U9{(&cK;vbKkE%ICn
+z0SkXv$Z4vEhT63@K9<P1{jDc7SZ?~#RkM~=ZniP~zWb@u1;*?pcXTt9CN!qYt+Pt}
+zH0Kmk+kx}05zj-pIx3lz=hW(Lof@=DVg2>jyZ=~hkN<Jt*|Mvpcg?>}n13lSsK0cP
+zezHTk+5HKpzwIy5Jg?Q+uxE>0MV|d#?xqtz0?sdbB$0S-;dR;W^N-)Ze$U#Jr+1)q
+zL3u*;^+pDcH}`7U`7|4Hof5WQFjkD6z%o5clW`Tt8&f;wgU9W%-8>#oJGFI%u)rzT
+zWMc)78^8S~v?TIzoU6Tlz5le32GjMZO<$jfwakAX8SsA{!~azhjP>^$E9y>K9I*X!
+z^uvR<d>L~#xw^>i_>ot1e)psKZ-3bQmTg>a$RH8tx9_Gro6(%Y^9)yJ_r}ff<hSot
+zs(mHFQ+n?h*Yjk@y&MwB`*jLrB?45>pFA*w+2AJQ3C>?v-XHL_)Zo;4D*v+WENekd
+zTGxw{QyNqn+FCBeD=FxFco?*~IpTZETL+%m2f1gcF!}Fiz9g%-R$B4;=>`1^5lLcf
+pT+FSFha3_Y7z9XY@Vq&GfZt10?d{d<R~JEP!PC{xWt~$(6953)6I=iQ
+
+literal 0
+Hc$@<O00001
+
+diff --git a/3-doc-video.png b/3-doc-video.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..debb9ac2507b5843dda6bad0f3b839489e6b2b2f
+GIT binary patch
+literal 1131
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z5Hn`*
+zy!ns}q)j|s978f#-%Q@^cO-zv<@4hUPMoTqN6P{>^47@psQQ^~)a!I?*!IEe+KtEQ
+zX_GTw#cN;S+QPKf0fWjBneqJR-$^;eF{(S3Jbpaw)Y;imatBVz^L}DvwSO;hH&DXZ
+zckwZsJti+^yH*~5(Ray1%J|YAozv3GW`*nQcyqXMUOHRxRO!0vC#Ne+Jbq4(-&B0&
+z;fBR~ugEGj?=i4Q()_;W$I7I|x6T+|FJ}=ie7555(ZI$0lm5?mvqg9^_mS`agpX_N
+z?-GeQGIMd6c;*?8%ZH!)|CFq6nOAO~Wt+Bc$N!&fU%2jM-;7oG7j9_d(f|GLO=bg&
+z0QNQY>!;n<*vEUuF2-&BdD}N1W#62U*}7Z8cjv|Ay^P_BkJcT&Q=WIE+P1PUFi&*l
+zCkA<75dQzqw`4^ZFnCo!;rDj>-aKhXo|eB2e$v~$vbTFmZufdQW!jY^bAwfT|5lv5
+zaH3pJaCdd}rfVGxoC<9+lbqkZV&B!>eJXqN%|DuwPfyk6-7MSv_tL57b6%P~4>IqT
+zx*!ttZ&zB>zh%=_f7Dr0Q><6IxnqJjo4ZcEX}Z;k<r{YHIx+j5iL%AhI6jws(%!uX
+z6&3z3o-MZbQ^mRSUzb^*<?yr0w`O2cXfE4*m%VVh?(3Bc<zt_vsNC<3Y}gU~;DFP!
+zlo*}%26MLOA35yLYrMT^y8Q}=xm2xVn&tJUmw)U}xPB=vB>GOa+Yk5I-4paB=Nwo5
+zW3zaR`}I3Pi@RT!|B)2_-@-b**5bnFj15zYs;7$p<0Dt8S29!R|7(wL)+IjQchsw9
+zv0pg*H{{*M<6c{5N|!OTFh4dp@~K{>I^)O_rjL97A1qlec_!q%oO`bDVomd^n*Z-r
+z^P1zG&hM7rDz~|3$KF)sb23|fml!Jh{^F<!f2Sv~U+i%6mkRk^t17p@KM-|zUuI|N
+zjNb*4#l6Q5^EDJKVDrmgZ^sya_{iP1o$q5hzgK-a6PP#a;F&Xlw~u6;>Xkb!|IOoN
+z_tbA6YOXFfROWr;|9Il2!iK3uzL(1%EO0+%W1OV7PFnCIoA{)9ss1TjnZMZReY^5P
+zDNfFN=Huz$bhWM1BrV5GR&nNYLH%jV3?C;gY~`(#`{*?DQ*`@{j4!D(pT<m&&uWqG
+o-KVg5j`i>7(iZm*yypGG+AnMCxI6XB8&F2{boFyt=akR{01PnL#{d8T
+
+literal 0
+Hc$@<O00001
+
+diff --git a/3-doc-xls.png b/3-doc-xls.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..70409296515d09ed441c6b421719cfd0992cfbbc
+GIT binary patch
+literal 811
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z2*2$2
+zD4GJKw|crbhGek5ndHdT;2`2;U3GoN&YX*fBw{-pyCWrd>@UjezqY8_+Guux?UsXd
+z26OHL-Ysy>l>>7=-+Cz!qg2*ZA0d=>>I-Y#Kh~9ZU0#SwB+of{aNg-%JyjPtjZ-&t
+zyle>5Ke-#oW0}sOleBKaJ3BBBBDWwMA@|NmIPKIMCO*C<Zx%7b$#c~wKZ$j-y{dVf
+z`_orO&wHs?g4gO707K{h|GBT_Hvj`88RUVtle;sIIPkc{#+~w#{I{iif{_qUUH07@
+za+(4gIHfJzZdE>>S~@*($B)_1e_Ge+Z8&T=vssW&X7Rjl4-NOJbW~N9Ywt<Ea=C85
+z=1Pu5ocG>vy_fj9C0{(1_2BXhv-bz<PdzwOC}Ci&(2-_i_s7I{ez?4ZQQ+0fcAK`T
+zbwpXr_z-@0{c{7wYhFN231I>*#&Yue_8-_LD0Zmnl$XF-wuisXKU}}hFnh1}>irGJ
+z?wY>1x;J-2)<XVYx#vFG{C@MFrGL-2Im^8Se3_*K9wz?c-m!Mm(&Z~=f4x!-ve;^g
+zwMvJTS(WHL!&jN|?>Ct`UO9Ad&4<1~|K9~u^*I;KyLT7t-uwApT1^>E=DQDByV<_I
+z?HcJQaJJ$PSnBz_5Y9!J3Cvm`U+%Ly?f`U@Hk7@;qES5mKSS+QbAF4y$HzD6#Fz8$
+nKeyrBp_tg;Y`@s<nSWruy3?B>q?lO;l#o1K{an^LB{Ts5LIEpb
+
+literal 0
+Hc$@<O00001
+
+diff --git a/3-doc-zip.png b/3-doc-zip.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..baa16132fb28f9ba6cc2e61f5cbd4c858cf8cd78
+GIT binary patch
+literal 1238
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z5Hqf-
+zYzzJmq{}>A978f#-%Q)@#q221&fKKH(KK}`n3(#2`3YkUgX4y+TZLG5AAa`a-@XHp
+zoZA==vVUL<;%u6#utcckhwqJvswy*Dr=C8@(suIf+jDiFZ{K`cW&3+3)3OH51g;q<
+zREu^%=+(Sg%c36|PfuX`Fx$I9uy2CO$*6hHr@IFBeE9o;NB5k@=}#;l!gJo_+%P$t
+z)$Nh!9ekjdUEh`G^{#u|r!PIq;Co|rA^(PY*+tE-q2_$=6Vv$%rltPYus^`JWr1Hs
+z;GBQ^ng2*nzE}T_Wrq_}&FceSze##)zx=&o-tM0nR*D;W8P+`!@Y^5#B(kjGr*ila
+z;eY?5I-cm?;nQYPllxJeB)@4#OtamF1_A5O$)Eq7ws<q8=Jw}fE}h&OWjZH6@V|@P
+z{*T*K{l5MY?eBR)#g9wx%(vruvqr_?Z=QbE*R2d!s>NA1$|l|7<NCGYvD2S5Ul$)|
+z*v0<q*8BP-yAKCq`=ibrvSWM04~&HW|6d9#KLSROFDM4yPCxJN5-4(9SxG5sYgb2x
+zsNmW((TiFj_P^$T4T_6y`aXMZWYirdxHf8QZ^w*Km(>zVZ7a^37aw~$bNM~vz2%E7
+z&h1@ZeeZA0`Mt&WYn7EX|4H>8i&-1C`>>hL+;7!Eo9`&p1Xc8gD>gNVyGSuUne)Gt
+z@ow5?OZk=#6YUSrw@=WzZ!Pev-ErOOi7BG1uD()v+`mEZn&XL(bsx-r^1H?uy}Q}J
+z_WJAN-+J!sWtYCNPciJklec$2N}d+Ib5P>S_Ia!96Rp|S<)*$pQwuabhkMJ_tX`)5
+z?*AqCPqo~m=A-#wqUa5k@asa+8;=+5w3)b*gZ+b?x#iWlA0KDf3s`^McyC)&SM{;=
+zM{Qm1s01=D4a%JJ*4Qmix|((04DYY3bKD&C^O-+ncN#z3BRuV;e3ZTLd^ZNm@M-KH
+zcDX1#J96Bp@w$rH%9=Y%n7%w#%FSKe*KhdG?p>sF|L@M=Ez)oPX0EDF*ttbtYwD>(
+z7aSkUWeBT(42e*`u*f#}z?b}w*<zPhdCvJ-e^#Aw`$o3KliRz*J723<1=a+dImZ5U
+z<p-+^{%T(H{yCZ~o2;o((9BpNSY6DN*Koi0$h#Y1+S7#Ru>Xh<J^ttDx-O2pz28d0
+zx%h4|XYN0(qo#P^^*obo!(7E*4{MAiW_))L-|(-zsiBnX;ctC&d%G3e>@*we555W0
+z`rlRivxu9^ipzQH_qh$mE@yvAXcr2e<y>`t_sn^UixLuq9OIV<{C}GEpZnHtaY?3I
+wLh9U7w;tTkS{?D_=`#7E+sFR=4$%6*csx4Cdav(RaZsN3boFyt=akR{0F8|S-v9sr
+
+literal 0
+Hc$@<O00001
+
+diff --git a/404.html b/404.html
+new file mode 100644
+index 0000000..31dacb5
+--- /dev/null
++++ b/404.html
+@@ -0,0 +1,31 @@
++<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
++<html xmlns="http://www.w3.org/1999/xhtml">
++
++<head>
++<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
++<title>File Not Found</title>
++<meta name="viewport" content="width=device-width">
++<meta name="description" content="**APPNAME** - **IPHONENAME**" />
++<meta name="generator" content="**APPNAME**, Xcode, PhotoShop, Visual Studio, Notepad" />
++<meta name="keywords" content="**APPNAME**" />
++<meta name="robots" content="noindex,nofollow" />
++<meta name="author" content="www.**APPURL**.com" />
++<meta name="copyright" content="www.**APPURL**.com" />
++<link rel="icon" href="/favicon.ico" type="image/x-icon" />
++<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
++<link rel="stylesheet" href="/styles.css" type="text/css" />
++<script language="javascript" src="/scripts.js"></script>
++</head>
++
++<body>
++
++<center>
++File or Folder Not Found.  
++
++<br /><br />
++
++Open Disk:    <a href='/'><img src='disk48.png' width='48' height='48' align='absmiddle'></a>
++</center>
++
++</body>
++</html>
+diff --git a/HT201471.html b/HT201471.html
+new file mode 100644
+index 0000000..c1a41f3
+--- /dev/null
++++ b/HT201471.html
+@@ -0,0 +1,1734 @@
++
++<!DOCTYPE html>
++    <html lang="en" prefix="og: http://ogp.me/ns#" dir="ltr">
++        <head>
++            <meta http-equiv="X-UA-Compatible" content="IE=edge" />
++            <meta name="viewport" content="width=device-width, initial-scale=1" />
++            <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
++            <title lang="en">Identify your iPad model - Apple Support</title>
++            <link rel="dns-prefetch" href="https://www.apple.com/" />
++            <link rel="preconnect" href="https://www.apple.com/" crossorigin />
++            
++            <link rel="canonical" href="https://support.apple.com/en-us/HT201471" />
++            
++                
++                    <link rel="alternate" hreflang="en-ie" href="https://support.apple.com/en-ie/HT201471">
++                
++                    <link rel="alternate" hreflang="en-il" href="https://support.apple.com/en-il/HT201471">
++                
++                    <link rel="alternate" hreflang="en-in" href="https://support.apple.com/en-in/HT201471">
++                
++                    <link rel="alternate" hreflang="en-ae" href="https://support.apple.com/en-ae/HT201471">
++                
++                    <link rel="alternate" hreflang="en-za" href="https://support.apple.com/en-za/HT201471">
++                
++                    <link rel="alternate" hreflang="no-no" href="https://support.apple.com/no-no/HT201471">
++                
++                    <link rel="alternate" hreflang="en-al" href="https://support.apple.com/en-al/HT201471">
++                
++                    <link rel="alternate" hreflang="en-is" href="https://support.apple.com/en-is/HT201471">
++                
++                    <link rel="alternate" hreflang="el-gr" href="https://support.apple.com/el-gr/HT201471">
++                
++                    <link rel="alternate" hreflang="en-am" href="https://support.apple.com/en-am/HT201471">
++                
++                    <link rel="alternate" hreflang="nl-nl" href="https://support.apple.com/nl-nl/HT201471">
++                
++                    <link rel="alternate" hreflang="en-au" href="https://support.apple.com/en-au/HT201471">
++                
++                    <link rel="alternate" hreflang="he-il" href="https://support.apple.com/he-il/HT201471">
++                
++                    <link rel="alternate" hreflang="hu-hu" href="https://support.apple.com/hu-hu/HT201471">
++                
++                    <link rel="alternate" hreflang="en-jo" href="https://support.apple.com/en-jo/HT201471">
++                
++                    <link rel="alternate" hreflang="en-bh" href="https://support.apple.com/en-bh/HT201471">
++                
++                    <link rel="alternate" hreflang="es-cl" href="https://support.apple.com/es-cl/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-sn" href="https://support.apple.com/fr-sn/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-ca" href="https://support.apple.com/fr-ca/HT201471">
++                
++                    <link rel="alternate" hreflang="es-co" href="https://support.apple.com/es-co/HT201471">
++                
++                    <link rel="alternate" hreflang="pl-pl" href="https://support.apple.com/pl-pl/HT201471">
++                
++                    <link rel="alternate" hreflang="en-bn" href="https://support.apple.com/en-bn/HT201471">
++                
++                    <link rel="alternate" hreflang="pt-pt" href="https://support.apple.com/pt-pt/HT201471">
++                
++                    <link rel="alternate" hreflang="en-sa" href="https://support.apple.com/en-sa/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-be" href="https://support.apple.com/fr-be/HT201471">
++                
++                    <link rel="alternate" hreflang="ar-eg" href="https://support.apple.com/ar-eg/HT201471">
++                
++                    <link rel="alternate" hreflang="en-bw" href="https://support.apple.com/en-bw/HT201471">
++                
++                    <link rel="alternate" hreflang="en-sg" href="https://support.apple.com/en-sg/HT201471">
++                
++                    <link rel="alternate" hreflang="en-ke" href="https://support.apple.com/en-ke/HT201471">
++                
++                    <link rel="alternate" hreflang="hr-hr" href="https://support.apple.com/hr-hr/HT201471">
++                
++                    <link rel="alternate" hreflang="en-om" href="https://support.apple.com/en-om/HT201471">
++                
++                    <link rel="alternate" hreflang="zh-mo" href="https://support.apple.com/zh-mo/HT201471">
++                
++                    <link rel="alternate" hreflang="de-at" href="https://support.apple.com/de-at/HT201471">
++                
++                    <link rel="alternate" hreflang="en-gu" href="https://support.apple.com/en-gu/HT201471">
++                
++                    <link rel="alternate" hreflang="en-gw" href="https://support.apple.com/en-gw/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-gn" href="https://support.apple.com/fr-gn/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-gq" href="https://support.apple.com/fr-gq/HT201471">
++                
++                    <link rel="alternate" hreflang="cs-cz" href="https://support.apple.com/cs-cz/HT201471">
++                
++                    <link rel="alternate" hreflang="en-ph" href="https://support.apple.com/en-ph/HT201471">
++                
++                    <link rel="alternate" hreflang="zh-tw" href="https://support.apple.com/zh-tw/HT201471">
++                
++                    <link rel="alternate" hreflang="ko-kr" href="https://support.apple.com/ko-kr/HT201471">
++                
++                    <link rel="alternate" hreflang="en-hk" href="https://support.apple.com/en-hk/HT201471">
++                
++                    <link rel="alternate" hreflang="sk-sk" href="https://support.apple.com/sk-sk/HT201471">
++                
++                    <link rel="alternate" hreflang="ru-ru" href="https://support.apple.com/ru-ru/HT201471">
++                
++                    <link rel="alternate" hreflang="en-qa" href="https://support.apple.com/en-qa/HT201471">
++                
++                    <link rel="alternate" hreflang="sv-se" href="https://support.apple.com/sv-se/HT201471">
++                
++                    <link rel="alternate" hreflang="da-dk" href="https://support.apple.com/da-dk/HT201471">
++                
++                    <link rel="alternate" hreflang="en-us" href="https://support.apple.com/en-us/HT201471">
++                
++                    <link rel="alternate" hreflang="en-mk" href="https://support.apple.com/en-mk/HT201471">
++                
++                    <link rel="alternate" hreflang="en-mn" href="https://support.apple.com/en-mn/HT201471">
++                
++                    <link rel="alternate" hreflang="en-eg" href="https://support.apple.com/en-eg/HT201471">
++                
++                    <link rel="alternate" hreflang="en-mo" href="https://support.apple.com/en-mo/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-ne" href="https://support.apple.com/fr-ne/HT201471">
++                
++                    <link rel="alternate" hreflang="en-mt" href="https://support.apple.com/en-mt/HT201471">
++                
++                    <link rel="alternate" hreflang="nl-be" href="https://support.apple.com/nl-be/HT201471">
++                
++                    <link rel="alternate" hreflang="zh-cn" href="https://support.apple.com/zh-cn/HT201471">
++                
++                    <link rel="alternate" hreflang="en-mz" href="https://support.apple.com/en-mz/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-ml" href="https://support.apple.com/fr-ml/HT201471">
++                
++                    <link rel="alternate" hreflang="en-my" href="https://support.apple.com/en-my/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-mu" href="https://support.apple.com/fr-mu/HT201471">
++                
++                    <link rel="alternate" hreflang="en-ng" href="https://support.apple.com/en-ng/HT201471">
++                
++                    <link rel="alternate" hreflang="el-cy" href="https://support.apple.com/el-cy/HT201471">
++                
++                    <link rel="alternate" hreflang="en-vn" href="https://support.apple.com/en-vn/HT201471">
++                
++                    <link rel="alternate" hreflang="ja-jp" href="https://support.apple.com/ja-jp/HT201471">
++                
++                    <link rel="alternate" hreflang="de-ch" href="https://support.apple.com/de-ch/HT201471">
++                
++                    <link rel="alternate" hreflang="en-nz" href="https://support.apple.com/en-nz/HT201471">
++                
++                    <link rel="alternate" hreflang="ro-ro" href="https://support.apple.com/ro-ro/HT201471">
++                
++                    <link rel="alternate" hreflang="it-ch" href="https://support.apple.com/it-ch/HT201471">
++                
++                    <link rel="alternate" hreflang="tr-tr" href="https://support.apple.com/tr-tr/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-fr" href="https://support.apple.com/fr-fr/HT201471">
++                
++                    <link rel="alternate" hreflang="en-gb" href="https://support.apple.com/en-gb/HT201471">
++                
++                    <link rel="alternate" hreflang="fi-fi" href="https://support.apple.com/fi-fi/HT201471">
++                
++                    <link rel="alternate" hreflang="en-ca" href="https://support.apple.com/en-ca/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-tn" href="https://support.apple.com/fr-tn/HT201471">
++                
++                    <link rel="alternate" hreflang="ar-ae" href="https://support.apple.com/ar-ae/HT201471">
++                
++                    <link rel="alternate" hreflang="en-kw" href="https://support.apple.com/en-kw/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-cf" href="https://support.apple.com/fr-cf/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-ci" href="https://support.apple.com/fr-ci/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-ch" href="https://support.apple.com/fr-ch/HT201471">
++                
++                    <link rel="alternate" hreflang="es-us" href="https://support.apple.com/es-us/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-cm" href="https://support.apple.com/fr-cm/HT201471">
++                
++                    <link rel="alternate" hreflang="en-lb" href="https://support.apple.com/en-lb/HT201471">
++                
++                    <link rel="alternate" hreflang="ar-sa" href="https://support.apple.com/ar-sa/HT201471">
++                
++                    <link rel="alternate" hreflang="de-de" href="https://support.apple.com/de-de/HT201471">
++                
++                    <link rel="alternate" hreflang="en-lk" href="https://support.apple.com/en-lk/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-ma" href="https://support.apple.com/fr-ma/HT201471">
++                
++                    <link rel="alternate" hreflang="zh-hk" href="https://support.apple.com/zh-hk/HT201471">
++                
++                    <link rel="alternate" hreflang="pt-br" href="https://support.apple.com/pt-br/HT201471">
++                
++                    <link rel="alternate" hreflang="de-li" href="https://support.apple.com/de-li/HT201471">
++                
++                    <link rel="alternate" hreflang="es-es" href="https://support.apple.com/es-es/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-mg" href="https://support.apple.com/fr-mg/HT201471">
++                
++                    <link rel="alternate" hreflang="es-mx" href="https://support.apple.com/es-mx/HT201471">
++                
++                    <link rel="alternate" hreflang="it-it" href="https://support.apple.com/it-it/HT201471">
++                
++                    <link rel="alternate" hreflang="en-ug" href="https://support.apple.com/en-ug/HT201471">
++                
++                    <link rel="alternate" hreflang="id-id" href="https://support.apple.com/id-id/HT201471">
++                
++                    <link rel="alternate" hreflang="de-lu" href="https://support.apple.com/de-lu/HT201471">
++                
++                    <link rel="alternate" hreflang="en-md" href="https://support.apple.com/en-md/HT201471">
++                
++                    <link rel="alternate" hreflang="fr-lu" href="https://support.apple.com/fr-lu/HT201471">
++                
++                    <link rel="alternate" hreflang="en-me" href="https://support.apple.com/en-me/HT201471">
++                
++                    <link rel="alternate" hreflang="th-th" href="https://support.apple.com/th-th/HT201471">
++                 
++                   
++
++            
++                <meta name="description" content="Find out which iPad model you have.
++
++" />
++                <meta property="og:url" content="https://support.apple.com/en-us/HT201471" />
++                <meta property="og:title" content="Identify your iPad model" />
++                <meta property="og:description" content="Find out which iPad model you have.
++
++" />
++                <meta property="og:site_name" content="Apple Support" />
++                <meta property="og:locale" content="en_US" />
++                <meta property="og:type" content="article" />
++                <meta name="ac-gn-search-field[locale]" content="en_US" /> 
++
++                
++                    <meta name="twitter:card" content="summary_large_image" />
++                    <meta name="twitter:site" content="@AppleSupport" />
++                    <meta name="twitter:title" content="Identify your iPad model" />
++                    <meta name="twitter:description" content="Find out which iPad model you have.
++
++"/>
++                    <meta name="twitter:image" content="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/social/ios12-ipad-pro-ipad-6-gen-lineup-social-card.jpg" />
++                    <meta property="og:image"  content="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/social/ios12-ipad-pro-ipad-6-gen-lineup-social-card.jpg" />
++                    <meta property="og:image:width" content="630" />
++                    <meta property="og:image:height" content="1200" />
++                
++
++                <script type="application/ld+json">{ "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld","@id":"https://support.apple.com/en-us/HT201471","appid": "1583465330249689","title":"Identify your iPad ","pubDate":"2014-11-05T05:11:09","upDate":"2019-10-26T01:02:44","images":"https://support.apple.com/library/content/dam/edam/applecare/images/en_US/social/ios12-ipad-pro-ipad-6-gen-lineup-social-card.jpg"}</script>
++
++            
++
++            
++
++            
++
++            
++                <link rel="stylesheet" href="https://support.apple.com/clientside/build/app-ht.css" type="text/css" />
++            
++                <link rel="stylesheet" href="https://www.apple.com/ac/globalnav/4/en_US/styles/ac-globalnav.built.css" type="text/css" />
++            
++                <link rel="stylesheet" href="https://www.apple.com/ac/globalfooter/3/en_US/styles/ac-globalfooter.built.css" type="text/css" />
++            
++                <link rel="stylesheet" href="//www.apple.com/wss/fonts?families&#x3D;SF+Pro,v1:200,300,400,500,600|SF+Pro+Icons,v1" type="text/css" />
++            
++            <script>
++    var _applemd = {
++        page: {
++            site_section: "kb",
++            content_type: "ht",
++            info_type: "reference",
++            topics: "identify models,pattern",
++            in_house: "2016fall_ios10,2015ios9,2016 spring ios and watch,domain,campaign,ios",
++            locale: "en-us",
++            friendly_content: {
++                title: "Identify your iPad model",
++                
++                    content_id: "HT201471",
++                    status: "unarchieved",
++                    version: "1.112.31"
++                
++            },
++            
++             testandtarget:{
++                throttle:"0.0" 
++            },
++            
++
++             
++                product: ["acs::kb::productcategory::ipad::ipad","acs::kb::productcategory::ipad","acs::kb::productcategory::ios",]
++            
++        },
++        eventName : "ht_link.click"
++    }
++</script>
++             
++                <script src="/clientside/build/nn.js" type="text/javascript" charset="utf-8"></script>
++<script>
++    
++     var neighborInitData = {
++        site: 'SS',
++        level1: "KB",
++        level2: "HT",
++        contentID: "HT201471",
++        endpoint: 'https://supportmetrics.apple.com/content/services/stats'
++    }
++
++</script>
++            
++            <script>
++                var data = {
++                    showHelpFulfeedBack: true,
++                    id: "HT201471",
++                    locale: "en_US",
++                    urlLocale: "en-us",
++                    isPreview : false,
++                    productCategories : "PF22,PL220,PF26",
++                    source : "",
++                    channel : "HOWTO_ARTICLES",
++                    bizChatLink : "https://bcrw.apple.com/urn:biz:b15ed773-9eed-11e7-baa2-7b88b04daa8e",
++                    bizChatIntentId : "ContactApple",
++                    bizChatGroupId : "%7B%22domain%22:%20%22AC%22,%22origin%22:%20%22OLS%22,%22page%22:%20%22acs::kb::ht::ARTICLEID::contact%20apple%20for%20support%20and%20service%20(en-us)%22%7D",
++                    bizChatBody : "%3Cstrong%3EChat using Messages%3C/strong%3E %3Cbr%3E Have a question? Ask now.",
++                    bizChatSupportedCountries : "US",
++                    bizChatthrottleValue : 0.0,
++                    bypassBizChat: false,
++                    akamaiEdgeScapeURL: "https://support.apple.com/edge-sight",
++                    isNeighborJsEnabled: true,
++                    isOkapiEnabled: false
++                }
++                window.appState = JSON.stringify(data);
++
++                document.cookie = 'POD=us~en; path=/; domain=.apple.com; expires='+new Date(Date.now() + (28 * 24 * 60 * 60 * 1000)).toGMTString();
++            </script>
++        </head>
++        <body class="ac-gn-current-support no-js"  itemscope itemtype="https://schema.org/TechArticle" >
++        
++        
++
++            <meta name="ac-gn-store-key" content="S2A49YFKJF2JAT22K" /><meta name="ac-gn-search-action" content="https://support.apple.com/kb/index" /><meta name="ac-gn-search-input" content="q" /><meta name="ac-gn-search-field[src]" content="globalnav_support" /><meta name="ac-gn-search-field[type]" content="organic" /><meta name="ac-gn-search-field[page]" content="search" /><meta name="ac-gn-search-field[locale]" content="en_US" /><link onerror="headerCssFallback()" rel="stylesheet" type="text/css" href="https://www.apple.com/ac/globalnav/4/en_US/styles/ac-globalnav.built.css"><aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" lang="en-US" dir="ltr" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }"></aside><input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate" /><nav id="ac-globalnav" class="no-js" role="navigation" aria-label="Global" data-hires="false" data-analytics-region="global nav" lang="en-US" dir="ltr" data-store-locale="us" data-store-api="//www.apple.com/[storefront]/shop/bag/status" data-search-locale="en_US" data-search-api="//www.apple.com/search-services/suggestions/"><div class="ac-gn-content"><ul class="ac-gn-header"><li class="ac-gn-item ac-gn-menuicon"><label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"><span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"><span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span></span><span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"><span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span></span></label><a href="#ac-gn-menustate" role="button" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"><span class="ac-gn-menuanchor-label">Global Nav Open Menu</span></a><a href="#" role="button" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"><span class="ac-gn-menuanchor-label">Global Nav Close Menu</span></a></li><li class="ac-gn-item ac-gn-apple"><a class="ac-gn-link ac-gn-link-apple" href="//www.apple.com/" data-analytics-title="apple home" id="ac-gn-firstfocus-small"><span class="ac-gn-link-text">Apple</span></a></li><li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"><a class="ac-gn-link ac-gn-link-bag" href="//www.apple.com/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with item count :"><span class="ac-gn-link-text">Shopping Bag</span><span class="ac-gn-bag-badge"></span></a><span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span></li></ul><div class="ac-gn-search-placeholder-container" role="search"><div class="ac-gn-search ac-gn-search-small"><a id="ac-gn-link-search-small" class="ac-gn-link" href="https://support.apple.com/kb/index?page=search&locale=en_US" data-analytics-title="search" data-analytics-click="search" data-analytics-intrapage-link aria-label="Search Support"><div class="ac-gn-search-placeholder-bar"><div class="ac-gn-search-placeholder-input"><div class="ac-gn-search-placeholder-input-text" aria-hidden="true"><div class="ac-gn-link-search ac-gn-search-placeholder-input-icon"></div><span class="ac-gn-search-placeholder">Search Support</span></div></div><div class="ac-gn-searchview-close ac-gn-searchview-close-small ac-gn-search-placeholder-searchview-close"><span class="ac-gn-searchview-close-cancel" aria-hidden="true">Cancel</span></div></div></a></div></div><ul class="ac-gn-list"><li class="ac-gn-item ac-gn-apple"><a class="ac-gn-link ac-gn-link-apple" href="//www.apple.com/" data-analytics-title="apple home" id="ac-gn-firstfocus"><span class="ac-gn-link-text">Apple</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-mac"><a class="ac-gn-link ac-gn-link-mac" href="//www.apple.com/mac/" data-analytics-title="mac"><span class="ac-gn-link-text">Mac</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"><a class="ac-gn-link ac-gn-link-ipad" href="//www.apple.com/ipad/" data-analytics-title="ipad"><span class="ac-gn-link-text">iPad</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"><a class="ac-gn-link ac-gn-link-iphone" href="//www.apple.com/iphone/" data-analytics-title="iphone"><span class="ac-gn-link-text">iPhone</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-watch"><a class="ac-gn-link ac-gn-link-watch" href="//www.apple.com/watch/" data-analytics-title="watch"><span class="ac-gn-link-text">Watch</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-tv"><a class="ac-gn-link ac-gn-link-tv" href="//www.apple.com/tv/" data-analytics-title="tv"><span class="ac-gn-link-text">TV</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-music"><a class="ac-gn-link ac-gn-link-music" href="//www.apple.com/music/" data-analytics-title="music"><span class="ac-gn-link-text">Music</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-support"><a class="ac-gn-link ac-gn-link-support" href="https://support.apple.com" data-analytics-title="support"><span class="ac-gn-link-text">Support</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"><a id="ac-gn-link-search" class="ac-gn-link ac-gn-link-search" href="https://support.apple.com/kb/index?page=search&locale=en_US" data-analytics-title="search" data-analytics-click="search" data-analytics-intrapage-link aria-label="Search Support"></a></li><li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"><a class="ac-gn-link ac-gn-link-bag" href="//www.apple.com/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with item count : {%BAGITEMCOUNT%}"><span class="ac-gn-link-text">Shopping Bag</span><span class="ac-gn-bag-badge" aria-hidden="true"></span></a><span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span></li></ul><aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search"><div class="ac-gn-searchview-content"><div class="ac-gn-searchview-bar"><div class="ac-gn-searchview-bar-wrapper"><form id="ac-gn-searchform" class="ac-gn-searchform" action="//www.apple.com/us/search" method="get"><div class="ac-gn-searchform-wrapper"><input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" aria-label="Search Support" placeholder="Search Support" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="true" aria-owns="quicklinks suggestions" /><input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav" /><button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="Submit Search"></button><button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="Clear Search"><span class="ac-gn-searchform-reset-background"></span></button></div></form><button id="ac-gn-searchview-close-small" class="ac-gn-searchview-close ac-gn-searchview-close-small" aria-label="Cancel Search"><span class="ac-gn-searchview-close-cancel" aria-hidden="true">Cancel</span></button></div></div><aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" data-string-noresults=""></aside></div><button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Cancel Search"><span class="ac-gn-searchview-close-wrapper"><span class="ac-gn-searchview-close-left"></span><span class="ac-gn-searchview-close-right"></span></span></button></aside><aside class="ac-gn-bagview" data-analytics-region="bag"><div class="ac-gn-bagview-scrim"><span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span></div><div class="ac-gn-bagview-content" id="ac-gn-bagview-content"></div></aside></div></nav><div class="ac-gn-blur"></div><div id="ac-gn-curtain" class="ac-gn-curtain"></div><div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
++
++            <div id="app">
++                <div >
++                    <section class="section section-content">
++                        <div>
++                            <div class="column small-12 medium-12 large-12 large-centered text-center">
++                                <div class="main" role="main" id="howto-section">
++                                    <div id="content" >
++                                        
++                                        <h1  id="howto-title" itemprop='headline'>Identify your iPad model</h1>
++                                        <div class="intro"><p>Find out which iPad model you have.</p>
++
++</div>
++                                        
++                                        <div itemprop='author' itemscope itemtype='http://schema.org/Organization'>
++                                            <meta itemprop='name' content='Apple' />
++                                        </div>
++                                        <div id="sections" itemprop="articleBody">
++                                            
++    
++        <div class="navbuttons">
++    
++
++    
++            
++            <div  ><p><a href="#ipadpro"><img alt="" src="/library/content/dam/edam/applecare/images/en_US/il/ipad-pros-4nav-icon-button.png" width="117">iPad Pro</a></p>
++<p><a href="#ipadair"><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad-air-4nav-icon-button.png" width="117">iPad Air</a></p>
++<p><a href="#ipadmini"><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad-mini-4nav-icon-button.png" width="117">iPad mini</a></p>
++<p><a href="#ipad"><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad-4nav-icon-button.png" width="117">iPad</a></p>
++<p>&nbsp;</p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p>To see if your Mac or PC is compatible with your iPad, check the&nbsp;<a href="http://support.apple.com/specs/ipad">system requirements</a>&nbsp;for your model.</p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><br>
++<img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ios12-ipad-pro-12-9-in.jpg" width="500">
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2 id="ipadpro">iPad Pro 12.9-inch (3rd generation)</h2>
++            <div  ><ul>
++<li>Year: 2018</li>
++<li>Capacity: 64 GB, 256 GB, 512 GB, 1 TB</li>
++<li>Model number (on the back cover):<br>
++A1876&nbsp;on the iPad Pro<br>
++A2014, A1895&nbsp;on the iPad Pro Wi-Fi + Cellular<br>
++A1983&nbsp;on the iPad Pro Wi-Fi + Cellular (China mainland only)</li>
++<li>Black front bezel</li>
++<li>12.9-inch Liquid Retina display</li>
++<li>ProMotion technology</li>
++<li>Wide color display (P3)</li>
++<li>True Tone display technology</li>
++<li>Silver or space gray aluminum housing</li>
++<li>Smart Connector</li>
++<li>USB-C&nbsp;connector</li>
++<li>The nano-SIM tray is on the right side on iPad Pro Wi-Fi + Cellular</li>
++<li>TrueDepth camera and 12MP back camera</li>
++<li>Face ID</li>
++<li>Four-speaker audio</li>
++<li><a href="https://support.apple.com/kb/ht205236">Apple Pencil (2nd generation)</a> support</li>
++<li>Smart Keyboard Folio&nbsp;support</li>
++</ul>
++<p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad-pro-3rd-gen-buttons-connectors.png" width="780"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><br>
++<img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ios12-ipad-pro-11-in.jpg" width="500">
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad Pro 11-inch</h2>
++            <div  ><ul>
++<li>Year: 2018</li>
++<li>Capacity: 64 GB, 256 GB, 512 GB, 1TB</li>
++<li>Model number (on the back cover):<br>
++A1980&nbsp;on the iPad Pro<br>
++A2013, A1934&nbsp;on the iPad Pro Wi-Fi + Cellular<br>
++A1979&nbsp;on the iPad Pro Wi-Fi + Cellular (China mainland only)</li>
++<li>Black front bezel</li>
++<li>11-inch Liquid Retina display</li>
++<li>ProMotion technology</li>
++<li>Wide color display (P3)</li>
++<li>True Tone display technology</li>
++<li>Silver or space gray&nbsp;aluminum housing</li>
++<li>Smart Connector</li>
++<li>USB-C&nbsp;connector</li>
++<li>The nano-SIM tray is on the right side on iPad Pro Wi-Fi + Cellular</li>
++<li>TrueDepth camera and 12MP back camera</li>
++<li>Face ID</li>
++<li>Four-speaker audio</li>
++<li><a href="https://support.apple.com/kb/ht205236">Apple Pencil (2nd generation)</a>&nbsp;support</li>
++<li>Smart Keyboard Folio&nbsp;support</li>
++</ul>
++<p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad-pro-3rd-gen-buttons-connectors.png" width="780"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><br>
++&nbsp; &nbsp; &nbsp;<img src="/library/content/dam/edam/applecare/images/en_US/ipad/ios11-ipad-pro-12-in.jpg" alt="iPad Pro 12.9-inch (2nd generation)" width="500">
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad Pro 12.9-inch (2nd generation)</h2>
++            <div  ><ul>
++<li>Year: 2017</li>
++<li>Capacity: 64 GB, 256 GB, 512 GB</li>
++<li>Model number (on the back cover):<br>
++A1670 on the iPad Pro<br>
++A1671 on the iPad Pro Wi-Fi + Cellular<br>
++A1821 on the iPad Pro Wi-Fi + Cellular (China mainland only)</li>
++<li>White or black front bezel</li>
++<li>12.9-inch Retina display</li>
++<li>ProMotion technology</li>
++<li>Wide color display (P3)</li>
++<li>True Tone display technology</li>
++<li>Space gray, gold, or silver aluminum housing</li>
++<li>Smart Connector</li>
++<li>Lightning connector</li>
++<li>The nano-SIM tray is on the right side on iPad Pro Wi-Fi + Cellular</li>
++<li>FaceTime HD camera and iSight camera with flash*</li>
++<li>Touch ID</li>
++<li>Four-speaker audio</li>
++<li>Apple Pencil support</li>
++<li>Smart Keyboard support</li>
++</ul>
++<p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipadpro/ipad-pro-2nd-gen-buttons-connectors.png" width="780"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p>&nbsp;<br>
++&nbsp; &nbsp;<img src="/library/content/dam/edam/applecare/images/en_US/ipad/ios11-ipad-pro-10-in.jpg" alt="iPad Pro (10.5-inch)" width="500"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad Pro (10.5-inch)</h2>
++            <div  ><ul>
++<li>Year: 2017</li>
++<li>Capacity: 64 GB, 256 GB, 512 GB</li>
++<li>Model number (on the back cover):<br>
++A1701 on the iPad Pro<br>
++A1709 on the iPad Pro Wi-Fi + Cellular<br>
++A1852 on the iPad Pro Wi-Fi + Cellular (China mainland only)</li>
++<li>White or black front bezel</li>
++<li>10.5-inch Retina display</li>
++<li>ProMotion technology</li>
++<li>Wide color display (P3)</li>
++<li>True Tone display technology</li>
++<li>Space gray, rose gold, gold, or silver aluminum housing</li>
++<li>Smart Connector</li>
++<li>Lightning connector</li>
++<li>The nano-SIM tray is on the right side on iPad Pro Wi-Fi + Cellular</li>
++<li>FaceTime HD camera and iSight camera with flash<a href="#notes">*</a></li>
++<li>Touch ID</li>
++<li>Four-speaker audio</li>
++<li>Apple Pencil support</li>
++<li>Smart Keyboard support</li>
++</ul>
++<p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipadpro/ipad-pro-2nd-gen-buttons-connectors.png" width="780"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p>&nbsp;</p>
++<p>&nbsp; &nbsp; &nbsp;<img src="/library/content/dam/edam/applecare/images/en_US/ipad/ipadpro/identify-ipad-pro-9-7.jpg" alt="iPad Pro 9.7 inch" width="500"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad Pro (9.7-inch)</h2>
++            <div  ><ul>
++<li>Year: 2016</li>
++<li>Capacity: 32 GB, 128 GB, 256 GB</li>
++<li>Model number (on the back cover):<br>
++A1673 on the iPad Pro<br>
++A1674 or A1675 on the iPad Pro Wi-Fi + Cellular<br>
++</li>
++<li>White or black front bezel</li>
++<li>9.7-inch Retina display</li>
++<li>True Tone display technology</li>
++<li>Silver, space gray, gold, or rose gold aluminum housing</li>
++<li>Smart Connector</li>
++<li>Lightning connector</li>
++<li>The nano-SIM tray is on the right side on iPad Pro Wi-Fi + Cellular</li>
++<li>FaceTime HD camera and iSight camera with flash*</li>
++<li>Touch ID</li>
++<li>Four-speaker audio</li>
++<li>Apple Pencil support</li>
++<li>Smart Keyboard support</li>
++</ul>
++<p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/ipad/ipadpro/ipad-pro-buttons-connectors.jpg" width="780"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><br>
++&nbsp; &nbsp; &nbsp;<img alt=" " src="/library/content/dam/edam/applecare/images/en_US/ipad/ipadpro/identify-ipad-pro.jpg" width="500">
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad Pro (12.9-inch)</h2>
++            <div  ><ul>
++<li>Year:&nbsp;2015</li>
++<li>Capacity:&nbsp;32 GB, 128 GB, 256 GB</li>
++<li>Model number (on the back cover):<br>
++A1584 on the iPad Pro<br>
++A1652 on the iPad Pro Wi-Fi + Cellular</li>
++<li>White or black front bezel</li>
++<li>12.9-inch&nbsp;Retina display</li>
++<li>Silver, space gray,&nbsp;or gold&nbsp;aluminum housing</li>
++<li>Smart Connector</li>
++<li>Lightning connector</li>
++<li>The nano-SIM tray is on the right side on iPad Pro&nbsp;Wi-Fi + Cellular</li>
++<li>FaceTime HD and iSight cameras*</li>
++<li>Touch ID</li>
++<li>Four-speaker audio</li>
++<li>Apple Pencil support</li>
++<li>Smart Keyboard support</li>
++</ul>
++<p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/ipad/ipadpro/ipad-pro-buttons-connectors.jpg" width="780"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><br>
++<img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/ipad-air-3gen.jpg" width="500">
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2 id="ipadair">iPad Air (3rd generation)</h2>
++            <div  ><ul>
++<li>Year: 2019</li>
++<li>Capacity: 64 GB, 256 GB</li>
++<li>Model number (on back cover):<br>
++A2152&nbsp;on&nbsp;iPad Air (3rd generation)<br>
++A2123, A2153&nbsp;on&nbsp;iPad Air (3rd generation)&nbsp;Wi-Fi + Cellular<br>
++A2154&nbsp;on iPad Air (3rd generation)&nbsp;Wi-Fi + Cellular (China mainland only)</li>
++<li>10.5&quot; Retina display</li>
++<li>Wide color display (P3)</li>
++<li>True Tone display technology</li>
++<li>Silver, space gray, or gold aluminum housing</li>
++<li>Lightning connector</li>
++<li>The nano-SIM tray is on the right side on&nbsp;iPad Air (3rd generation)&nbsp;Wi-Fi + Cellular</li>
++<li>Touch ID</li>
++<li>Apple Pencil (1st generation) support</li>
++<li>Smart Keyboard support</li>
++</ul>
++<p>&nbsp;</p>
++<p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/ipad-air-3gen-tech-specs.png" width="780"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><br>
++&nbsp; &nbsp; &nbsp;<img alt=" " src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/identify-ipad-air2.jpg" width="500">
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad Air 2</h2>
++            <div  ><ul>
++<li>Year:&nbsp;Late 2014</li>
++<li>Capacity:&nbsp;16 GB, 32 GB, 64 GB, 128 GB</li>
++<li>Model number (on the back cover):<br>
++A1566 on the iPad Air 2<br>
++A1567 on the iPad Air 2&nbsp;Wi-Fi + Cellular</li>
++<li>White or black front bezel</li>
++<li>9.7-inch Retina display</li>
++<li>Silver, space gray,&nbsp;or gold&nbsp;aluminum housing</li>
++<li>Lightning connector</li>
++<li>The nano-SIM tray is on the right side on iPad Air 2 Wi-Fi + Cellular</li>
++<li>FaceTime HD and iSight cameras*</li>
++<li>Touch ID</li>
++</ul>
++<p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/ipad_air_2-buttons_connectors.png" width="600"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><br>
++&nbsp; &nbsp; &nbsp;<img alt=" " src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/identify-ipad-air.jpg" width="500">
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad Air</h2>
++            <div  ><ul>
++<li>Year:&nbsp;Late 2013 and early 2014</li>
++<li>Capacity:&nbsp;16 GB, 32 GB, 64 GB, 128 GB</li>
++<li>Model number (on the back cover):<br>
++A1474 on the iPad Air Wi-Fi<br>
++A1475 on the iPad Air Wi-Fi + Cellular<br>
++A1476 on the iPad Air Wi-Fi + Cellular&nbsp;(TD-LTE)—released early 2014</li>
++<li>White or black front bezel</li>
++<li>9.7-inch Retina display</li>
++<li>Silver or space gray&nbsp;aluminum housing</li>
++<li>Lightning connector</li>
++<li>The nano-SIM tray is on the right side on iPad Air Wi-Fi + Cellular</li>
++<li>FaceTime HD and iSight cameras*</li>
++</ul>
++<p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/ipad_air_buttons.png" width="740"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><br>
++<img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipadmini/ipad-mini-5gen.jpg" width="500">
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2 id="ipadmini">iPad mini (5th generation)</h2>
++            <div  ><ul >
++<li>Year: 2019</li>
++<li>Capacity: 64 GB, 256 GB</li>
++<li>Model number (on back cover):<br>
++A2133&nbsp;on&nbsp;iPad mini (5th generation)<br>
++A2124, A2126 on&nbsp;iPad mini (5th generation)&nbsp;Wi-Fi + Cellular<br>
++A2125 on iPad mini (5th generation)&nbsp;Wi-Fi + Cellular&nbsp;(China mainland only)</li>
++<li>7.9&quot; Retina display</li>
++<li>Wide color display (P3)</li>
++<li>True Tone display technology</li>
++<li>Silver, space gray, or gold aluminum housing</li>
++<li>Lightning connector</li>
++<li>The nano-SIM tray is on the right side on&nbsp;iPad mini (5th generation)&nbsp;Wi-Fi + Cellular</li>
++<li>Touch ID</li>
++<li>Apple Pencil (1st generation) support</li>
++</ul>
++<p>&nbsp;</p>
++<p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipadmini/ipad-mini-5gen-tech-specs.png" width="780"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><br>
++&nbsp; &nbsp; &nbsp;<img alt=" " src="/library/content/dam/edam/applecare/images/en_US/ipad/ipadmini/identify-ipad-mini4.jpg" width="500">
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad mini 4</h2>
++            <div  ><ul>
++<li>Year:&nbsp;Late 2015</li>
++<li>Capacity:&nbsp;16 GB, 32 GB, 64 GB, 128 GB</li>
++<li>Model number (on the back cover):<br>
++A1538 on the iPad mini 4<br>
++A1550 on the iPad mini 4 Wi-Fi + Cellular</li>
++<li>White or black front bezel</li>
++<li>7.9-inch Retina display</li>
++<li>Silver, space gray, or gold aluminum housing</li>
++<li>Lightning connector</li>
++<li>The nano-SIM tray is on the right side on iPad mini 4 Wi-Fi + Cellular</li>
++<li>FaceTime HD and iSight cameras*</li>
++<li>Touch ID</li>
++</ul>
++<p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/ipad/ipadmini/ipad-mini4-buttons-connectors.jpg" width="780"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><br>
++&nbsp; &nbsp; &nbsp;<img alt=" " src="/library/content/dam/edam/applecare/images/en_US/ipad/ipadmini/identify-ipad-mini3.jpg" width="500">
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad mini 3</h2>
++            <div  ><ul>
++<li>Year:&nbsp;Late 2014</li>
++<li>Capacity:&nbsp;16 GB, 64 GB, 128 GB</li>
++<li>Model number (on the back cover):<br>
++A1599 on the iPad mini 3<br>
++A1600 on the iPad mini 3 Wi-Fi + Cellular</li>
++<li>White or black front bezel</li>
++<li>7.9-inch Retina display</li>
++<li>Silver, space gray,&nbsp;or gold&nbsp;aluminum housing</li>
++<li>Lightning connector</li>
++<li>The nano-SIM tray is on the left side on iPad mini 3 Wi-Fi + Cellular</li>
++<li>FaceTime HD and iSight cameras*</li>
++<li>Touch ID</li>
++</ul>
++<p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/ipad/ipadmini/ipad_mini_3-buttons_connectors.png" width="590"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><br>
++&nbsp; &nbsp; &nbsp;<img alt=" " src="/library/content/dam/edam/applecare/images/en_US/ipad/ipadmini/identify-ipad-mini2.jpg" width="500">
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad mini 2</h2>
++            <div  ><ul>
++<li>Year:&nbsp;Late 2013 and early 2014</li>
++<li>Capacity:&nbsp;16 GB, 32 GB, 64 GB, 128 GB</li>
++<li>Model number (on the back cover):<br>
++A1489 on the iPad mini&nbsp;2 Wi-Fi<br>
++A1490 on the iPad mini&nbsp;2 Wi-Fi + Cellular<br>
++A1491&nbsp;on the iPad mini&nbsp;2 Wi-Fi + Cellular (TD-LTE)–released&nbsp;early 2014<br>
++</li>
++<li>White or black front bezel</li>
++<li>7.9-inch Retina display</li>
++<li>Silver or space gray&nbsp;aluminum housing</li>
++<li>Lightning connector</li>
++<li>The nano-SIM tray is on the left side on iPad mini&nbsp;2&nbsp;with Retina display&nbsp;Wi-Fi + Cellular</li>
++<li>FaceTime HD and iSight cameras*</li>
++</ul>
++<p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipadmini/ipad_mini_retina_buttons.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><br>
++&nbsp; &nbsp; &nbsp;<img alt=" " src="/library/content/dam/edam/applecare/images/en_US/ipad/ipadmini/identify-ipad-mini.jpg" width="500">
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad mini</h2>
++            <div  ><ul>
++<li>Year:&nbsp;Late 2012</li>
++<li>Capacity: 16 GB, 32 GB, 64 GB</li>
++<li>Model number (on the back cover):<br>
++A1432 on the iPad mini Wi-Fi<br>
++A1454 on the iPad mini Wi-Fi + Cellular<br>
++A1455 on the iPad mini Wi-Fi + Cellular (MM)<br>
++</li>
++<li>White or black front bezel</li>
++<li>Silver or slate aluminum housing</li>
++<li>Lightning connector</li>
++<li>The nano-SIM tray is on the left side on iPad mini Wi-Fi + Cellular</li>
++<li>FaceTime HD and iSight cameras*</li>
++</ul>
++<p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipadmini/ipad_mini_buttons.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p>&nbsp;</p>
++<p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/ipad-7th-gen.jpg" width="500"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2 id="ipad">iPad (7th generation)</h2>
++            <div  ><ul>
++<li>Year: 2019</li>
++<li>Capacity:&nbsp;32 GB, 128 GB</li>
++<li>Model number (on the back cover):&nbsp;<ul>
++<li>A2197&nbsp;on the iPad (7th generation)&nbsp;Wi-Fi</li>
++<li>A2200, A2198 on the iPad (7th generation)&nbsp;Wi-Fi + Cellular</li>
++</ul>
++</li>
++<li>White or black front bezel</li>
++<li>10.2-inch Retina display</li>
++<li>Gold, silver, or space gray aluminum housing</li>
++<li>Smart Connector</li>
++<li>Lightning connector</li>
++<li>The nano-SIM tray is on the right side on iPad (7th generation)&nbsp;Wi-Fi + Cellular</li>
++<li>8 MP camera and FaceTime HD camera*</li>
++<li>Touch ID</li>
++<li>Apple Pencil (1st generation) support</li>
++<li>Smart Keyboard support</li>
++</ul>
++<p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/ipad-7gen-tech-specs.png" width="780"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><br>
++<img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/ios11-3-ipad-9-7-in-2018.jpg" width="500">
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad (6th generation)</h2>
++            <div  ><ul>
++<li>Year: 2018</li>
++<li>Capacity:&nbsp;32 GB, 128 GB</li>
++<li>Model number (on the back cover):&nbsp;<ul>
++<li>A1893&nbsp;on the iPad (6th generation)&nbsp;Wi-Fi</li>
++<li>A1954&nbsp;on the iPad (6th generation)&nbsp;Wi-Fi + Cellular</li>
++</ul>
++</li>
++<li>White or black front bezel</li>
++<li>9.7-inch Retina display</li>
++<li>Gold, silver, or space gray aluminum housing</li>
++<li>Lightning connector</li>
++<li>The nano-SIM tray is on the right side on iPad (6th generation)&nbsp;Wi-Fi + Cellular</li>
++<li>8 MP camera and FaceTime HD camera*</li>
++<li>Touch ID</li>
++<li>Apple Pencil (1st generation) support</li>
++</ul>
++<p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/ipad-9-7-2018-buttons-connectors.jpg" width="780"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ios11-ipad-5gen.jpg" width="500"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad (5th generation)</h2>
++            <div  ><ul>
++<li>Year: 2017</li>
++<li>Capacity: 32 GB, 128 GB</li>
++<li>Model number (on the back cover):&nbsp;<ul>
++<li>A1822 on the iPad (5th generation) Wi-Fi</li>
++<li>A1823 on the iPad (5th generation) Wi-Fi + Cellular</li>
++</ul>
++</li>
++<li>White or black front bezel</li>
++<li>9.7-inch Retina display</li>
++<li>Silver, gold, or space gray aluminum housing</li>
++<li>Lightning connector</li>
++<li>The nano-SIM tray is on the right side on iPad (5th generation) Wi-Fi + Cellular</li>
++<li>8 MP camera and FaceTime HD&nbsp;camera*</li>
++<li>Touch ID</li>
++</ul>
++<p>&nbsp;</p>
++<p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/ipad-5gen-buttons-connectors.jpg" width="780"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/identify-ipad-4gen.jpg" width="500"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad (4th generation)</h2>
++            <div  ><ul>
++<li>Year:&nbsp;Late 2012</li>
++<li>Capacity:&nbsp;16 GB, 32 GB, 64 GB, 128 GB</li>
++<li>Model number (on the back cover):<br>
++A1458 on the iPad (4th generation) Wi-Fi<br>
++A1459 on the iPad (4th generation) Wi-Fi + Cellular<br>
++A1460 on the iPad (4th generation) Wi-Fi + Cellular (MM)<br>
++</li>
++<li>White or black front bezel</li>
++<li>9.7-inch Retina display</li>
++<li>Lightning connector</li>
++<li>The micro-SIM tray is on the right side on iPad (4th generation) Wi-Fi + Cellular</li>
++<li>FaceTime HD and iSight cameras*</li>
++</ul>
++<p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/ipad_4th_buttons.png" width="707"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/identify-ipad-3gen.jpg" width="500"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad (3rd generation)</h2>
++            <div  ><ul>
++<li>Year:&nbsp;Early 2012</li>
++<li>Capacity: 16 GB, 32 GB, 64 GB</li>
++<li>Model number (on the back cover):<br>
++A1416 on the iPad (3rd generation) Wi-Fi<br>
++A1430 on the iPad (3rd generation) Wi-Fi + Cellular<br>
++A1403 on the iPad (3rd generation) Wi-Fi + Cellular (VZ)<br>
++</li>
++<li>White or black front bezel</li>
++<li>30-pin connector</li>
++<li>The micro-SIM tray is on the right side on iPad (3rd generation) Wi-Fi + Cellular</li>
++<li>FaceTime and iSight cameras*</li>
++</ul>
++<p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/ipad_3_buttons.png" width="389"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/identify-ipad-2gen.jpg" width="500"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad 2</h2>
++            <div  ><ul>
++<li>Year:&nbsp;2011</li>
++<li>Capacity: 16 GB, 32 GB, 64 GB</li>
++<li>Model number (on the back cover):<br>
++A1395 on the iPad 2 (Wi-Fi)<br>
++A1396 on the iPad 2 (GSM model)<br>
++A1397 on the iPad 2 (CDMA model)<br>
++</li>
++<li>White or black front bezel</li>
++<li>30-pin connector</li>
++<li>The micro-SIM tray is on the right side on iPad (GSM model only)</li>
++<li>FaceTime and rear cameras*</li>
++</ul>
++<p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/ipad_2_buttons.png" width="406"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  ><p><img alt=" " src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
++
++</div>
++            
++        </div>
++
++    
++        <div class="wrap">
++    
++
++    
++            
++            <div  ><p><br>
++&nbsp; &nbsp; <img alt="" src="/library/content/dam/edam/applecare/images/en_US/ipad/ipad/identify-ipad.jpg" width="500">
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            <h2>iPad</h2>
++            <div  ><ul>
++<li>Year:&nbsp;2010</li>
++<li>Capacity: 16 GB, 32 GB, 64 GB</li>
++<li>Model number (on the back cover):<br>
++A1219 on the iPad (Wi-Fi)<br>
++A1337 on the iPad (Wi-Fi + 3G)</li>
++<li>Black front bezel</li>
++<li>30-pin connector</li>
++<li>Standard SIM tray on the iPad (Wi-Fi + 3G)<br>
++</li>
++</ul>
++<p>&nbsp;</p>
++<p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/il/spacer.png"></p>
++<p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/il/spacer.png"></p>
++<p>&nbsp;</p>
++
++</div>
++            
++        </div>
++
++    
++        <div >
++    
++
++    
++            
++            <div  id="notes" ><p><span style="color: rgb(170, 170, 170);">* FaceTime is not available in all countries or regions.</span></p>
++
++</div>
++            
++        </div>
++
++
++                                        </div>
++                                        
++                                        
++                                            <div class='mod-date'>
++                                                <span>Published Date:</span>&nbsp;<time dateTime=2019-10-26 itemprop='datePublished'>October 26, 2019</time>
++                                            </div>
++                                        
++                                    </div>
++                                </div>
++                            </div>
++                        </div>
++                    </section>
++                </div>
++            </div>
++            
++            <div id='helpful-rating-wrapper'>
++                
++<div id='helpful' class='ratings okapi-enabled'>
++    <div id='question-state' class='show'>
++        <fieldset>
++            <legend>
++                <div id="okapi-a">
++                    <span>Helpful?</span>
++                </div>
++                
++            </legend>
++            <div class='helpful-btn-grp'>
++                <button class='button' id='yes-button' 
++                    data-ss-analytics-link-component_name='helpful'
++                    data-ss-analytics-link-component_type='helpful'
++                    data-ss-analytics-link-text='yes'
++                    data-ss-analytics-event=ht_link.click
++                    title='Solved my problem'>
++                    Yes
++                </button>
++                <button class='button' id='no-button'
++                    data-ss-analytics-link-component_name='helpful'
++                    data-ss-analytics-link-component_type='helpful'
++                    data-ss-analytics-link-text='no'
++                    data-ss-analytics-event=ht_link.click
++                    title='Not helpful'>
++                    No
++                </button>
++            </div>
++        </fieldset>
++    </div>
++
++    <div id='feedback-state' class="form-element form-textbox-labelbelow hide">
++        <form autocomplete="off">
++            <input type='hidden' id='form-counter-error-message' 
++                value="Maximum character limit is 250."
++            />
++            <label id='feedback-label' htmlFor='feedback' 
++                data-no-label="Thanks for letting us know."
++                data-yes-label="We’re glad this article helped."
++            ></label>
++            <div class='form-element form-textbox-labelbelow' id='feedback'>
++                <textarea
++                  class='form-textbox form-textbox-textarea form-counter-textarea form-textbox-entered'
++                  data-no-placeholder="How can we make this article more helpful? (Optional)"
++                  data-yes-placeholder="Anything else you’d like us to know? (Optional)"
++                  data-max-length='250'
++                  aria-labelledby='optional_label'
++                  aria-describedby='char_limit_counter'
++                ></textarea>
++                <div class='form-textarea-paddingcover'>
++                    <div class='form-textarea-paddingcover-color'></div>
++                </div>
++                <span class='form-label' id='optional_label' aria-hidden='true'></span>
++                <div class='form-textbox-counter' id='char_limit_counter'>
++                    <span class='visuallyhidden' id="char-limit-message">Character limit:</span>
++                    <span class='form-counter'>250</span>
++                </div>
++                <label htmlFor='feedback-note'>Please don’t include any personal information in your comment.</label>
++                <div class='form-message-wrapper'>
++                    <span class='form-message'>Maximum character limit is 250.</span>
++                </div>
++                <button type='submit' class='button' id="submit-feedback">
++                    Submit
++                </button>
++            </div>
++        </form>
++    </div>
++
++    <div id='rating-done' class="hide">
++        Thanks for your feedback.
++    </div>
++
++    <div id='results-helpful' class='show'>
++    
++    </div>
++</div>
++
++            </div>
++   
++            
++            <div id='ask-widget-wrapper' class='css-not-downloaded discussions'>
++                <div id='ask-widget'>
++    <div class='contentWrapper'>
++        <div class='sectionHeaderLayout'>
++            <div class='icon'></div> 
++            <div class='titleTextLayout'>
++                <h2 class='title'>Start a Discussion <span id='discussion-subtitle'>in Apple&nbsp;Support&nbsp;Communities</span></h2>
++            </div>
++        </div>
++
++        <div class='sectionFormInputLayout'>
++            <form 
++                action='https://discussions.apple.com/create/question'
++                id='question-form'
++                method='get'
++                data-ss-analytics-link-component_name='Start a Discussion'
++                data-ss-analytics-link-component_type="discussion"
++                data-ss-analytics-link-text='Submit my question to the community'
++                data-ss-analytics-link-url='https://discussions.apple.com/create/question'
++                data-ss-analytics-event=ht_link.click
++                data-ignore-tracking='true'
++                
++                >
++                <span class='fieldwrap'>
++                    <label htmlFor='interactiveQuestionSearchField' class='a11y'>
++                        Ask other users about this article
++                    </label>
++                    <input type='hidden' id='discussionFormArticleId' name='articleId' value=HT201471 />
++                    <input type='hidden' id='ols_discussion_error_no_question' value='Please enter your question!' />
++                   <div class="form-element">
++                        <input
++                            id='questionInputField'
++                            type='text'
++                            class='questionInputField form-textbox form-textbox-text'
++                            name='title'
++                            maxLength='255'
++                            aria-labelledby="placeholder-text"
++                            aria-invalid="false"
++                        />
++                        <span class="form-label" id="placeholder-text" aria-hidden="true">Ask other users about this article</span>
++                    </div>
++                </span>
++
++                <div class='jive-widget-question-div clearfix' id='question-submit'>
++                     <input type='submit' class='questionSubmitFormButton button button-secondary button-compact'
++                        value='Submit my question to the community' />   
++                        
++                </div>
++
++                <a data-ss-analytics-link-component_name='Start a Discussion'
++                    data-ss-analytics-link-component_type="discussion"
++                    data-ss-analytics-link-text='See all questions on this article'
++                    data-ss-analytics-link-url='https://discussions.apple.com/article/HT201471'
++                    data-ss-analytics-event=ht_link.click
++                    class='see-all-questions' href='https://discussions.apple.com/article/HT201471'>
++                    See all questions on this article
++                    <span class='icon icon-chevronright' aria-hidden='true' />
++                </a>
++
++            </form>
++        </div>
++    </div>
++</div>
++            </div>
++            
++
++            
++            <div id='cas'>
++                <div id='promo' class='one'></div>
++            </div>
++            
++            
++                <div class="footer-wrapper">
++    <footer
++            id="ac-globalfooter"
++            lang="en-us"
++            dir="ltr"
++            class="js no-touch svg no-ie7 no-ie8 footer-global"
++            data-analytics-region="global footer"
++            role="contentinfo"
++            aria-labelledby="ac-gf-label">
++        <div class="ac-gf-content">
++            <h2 class="ac-gf-label" id="ac-gf-label">Apple Footer</h2>
++            <nav class="ac-gf-breadcrumbs" aria-label="Breadcrumbs" role="navigation">
++                <a href="https://www.apple.com" class="home ac-gf-breadcrumbs-home">
++                    <span class="ac-gf-breadcrumbs-home-icon" aria-hidden="true"></span>
++                    <span class="ac-gf-breadcrumbs-home-label">Apple</span>
++                    <span class="ac-gf-breadcrumbs-home-chevron"></span>
++                    <span class="ac-gf-breadcrumbs-home-mask"></span>
++                </a>
++                <div class="ac-gf-breadcrumbs-path">
++                    <ol class="ac-gf-breadcrumbs-list" vocab="http://schema.org/" typeof="BreadcrumbList">
++                        <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem">
++                            <span property="name">
++                                <a href="https://support.apple.com">Support</a>
++                            </span>
++                            <meta property="position" content="1"/>
++                        </li>
++
++                        
++                        
++                        
++                            <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem">
++                                <span property="name">Identify your iPad model</span>
++                                <meta property="position" content="2" />
++                            </li>
++                        
++
++                    </ol>
++                </div>
++            </nav>
++            <section class="ac-gf-footer" vocab="https://schema.org/" typeof="Organization">             <div class="ac-gf-footer-shop" x-ms-format-detection="none"></div>             <div class="ac-gf-footer-locale">                 <a class="ac-gf-footer-locale-link" href="https://support.apple.com/en-us/HT201471/localeselector" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="https://support.apple.com/content/dam/edam/applecare/images/en_US/flags/footer_flags/us.png" alt="" width="16" height="16">United States</a>             </div>             <div class="ac-gf-footer-legal">                 <div class="ac-gf-footer-legal-copyright">Copyright © 2020 Apple Inc. All rights reserved.</div>                 <div class="ac-gf-footer-legal-links"> <a class="ac-gf-footer-legal-link analytics-exitlink" href="https://www.apple.com/legal/privacy/en-ww/">Privacy Policy</a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="https://www.apple.com/legal/internet-services/terms/site.html">Terms of Use</a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="https://www.apple.com/shop/goto/help/sales_refunds">Sales and Refunds</a> <a class="ac-gf-footer-legal-link" href="https://www.apple.com/sitemap/">Site Map</a></div>             </div>             <meta content="Apple" property="name">             <meta content="1-800-692-7753" property="telephone">         </section>
++        </div>
++    </footer>
++</div>
++            
++            
++                <script src="https://support.apple.com/clientside/build/app-ht-route.js" type="text/javascript" charset="utf-8"></script>
++            
++                <script src="/etc/designs/support/publish/JS/pattern/accsoffer.js" type="text/javascript" charset="utf-8"></script>
++            
++                <script src="https://www.apple.com/ac/globalnav/4/en_US/scripts/ac-globalnav.built.js" type="text/javascript" charset="utf-8"></script>
++            
++                <script src="https://km.support.apple.com/clientside/build/applesatellitelib.full.js" type="text/javascript" charset="utf-8"></script>
++            
++            <div id="apd-aria-live-region" aria-live="polite" role="status" class="a11y"></div>
++        </body>
++    </html>
++
+diff --git a/blank.png b/blank.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..e053c1eddbc96d5f7c62413acdfb3117dbe9e951
+GIT binary patch
+literal 224
+zc%17D@N?(olHy`uVBq!ia0vp^AT}2V8<6ZZI=>f4F%}28J29*~C-V}>aY>EvO!M_+
+z&;qhK7#Q0#8CXC{fLMwF1eg~vGBAThfMN@n;Ido`m=SD{LhFhhUxAcNri*_FkY-|l
+z09GK@fYKoBV9jyC3`p~Mx;Tbth$baSxPg@Y|8Me%&l_YGNIV%V$~cRG@#BeyYeDj!
+Lu6{1-oD!M<zz8F2
+
+literal 0
+Hc$@<O00001
+
+diff --git a/disk48.png b/disk48.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..f5ac6afd09b593d8cdd0cfd375ab5fc54ba673fd
+GIT binary patch
+literal 3644
+zc$`I-cQ_l~_s0`k5JF<ttWmX#nrX$VmS}D2W7eid>?pAsvn|@9)U0Za*nI3zYQ|`d
+zqDG8{8l|m@{Y`)0-}C#O=Q;Ov?m6e)f9~_V@4ZQPkp?UvUJw8PU@^R<Yf7Q~UuU4B
+zj8;@fSPFnBQv(D5H_E?BndrJ&8@d@A1EeT10|1Ei1kn6#p*Sz#uTd8Q0o4DKq2vmw
+z{;w)uNd5ou-^TgtKFk#Gd+M5)Q%D8)uW?gc@_$KjTD?EC{EsPw80u=9d(e(#qm8Cq
+zx%(#$=)HZl&mmu4X%EygbWhu=NL#r`$_&>{6Xe-a(Y&r??C6ja9YSVJz0t-6GubdQ
+z2~EF~c5)V_md8ixIg7gZ)A>W~2T`jls#{U6Mk_BZdi3y@<`U_rv%C9|&Bb(g4}mzi
+zTsw3q3D$UM&AI>1N@@4->?`jfyk*No<OI%s=zkWH+hZcMb^?w+`;ssqEjHbrnHHvz
+z<qFwdtn~+Xg3AgcRcY-L;+7QHh#;o;9Ad&db6vK5biGC5phfrkg3l>GZ<}<_@D0eQ
+zFs=Whu@F^tx6|+pbeV^pHG3*^sdM6e*n|7UqrPZF)mDXJ#LQu!{EZu3(mfJN^j9?x
+zc`U<pCo@bsXdOk<JBC0tt`5AGQn88yg85|y4>hv5@I#Fn(aUrEO&>plG>x5s%cW00
+z*FH2bJ^G08`=q&qJonx?Q5)Yn2vv@Vh`1SNiC>gJ`gL8weLZg};bp>`sQ~8ThW*4}
+zUcLWJ3ZDnELV=;xR45cG`}OO-krC#%Wo110@2pHRkDjp_w19k;3SvaNyt2uD)!%C$
+zTJ2ss?2?T1@&aXMW@cw+*HBf0Te^8?sT}92tD|4WRLgp$|HcYP;P{sJwRbPovo<Cn
+z%i=6667)-AY^xsME_I$*SReodL}1o{TZLMCm1zl!i3HtKF`3Rbx0}Z-qWKJ(==)cN
+z+;ZpQ-6JC-`CVLGxG!Dm8yH}CjKy*R{#Z*b%Te!%168AJ`s<?W2I3F2o9S;NRU4Dc
+z$>ZZ}boBHJ^74*MH#uLGNaJISF56ECH{uh``ozO_;OILtm*;f7U|t-hrb#%QY*0u@
+zaY;#>9vZDNH#au|DC$KtP^ADb+W?SR*~`X&hkYU(*G7Fs-16piN5UK&1S8OBC&e5`
+zC0-u<2PeHd)R)<rN}tie4W(*?RewYS?-C=KlY2_fzxAA)oCw2^hipsK-aT1>LgPGt
+zL+n~4wIWm69=KDDDajHd0cuW~l=>=ORaNET>8XuET}yfUR$NI%rMRdl#sV)^{KXC!
+z$U6834_4HFdWNH205-6mrzGg+?j?!L#hXC$edn?@SHFtW#l;-(n_w7BuGf0M0n}Ky
+zfjaa#ZNB>P@^=-xmpoV5H`Nk?jdDFzy|=;r9K>}-NEqG$+A7a|f#PM70oGhO%=oJX
+zZp$eSN^d|~4|q3;Ed$)^J>gAyM9q0qqG_}lg)8POmK+l7wEj<Jg#o|cH0855rEITf
+z2l1<yeN1Okr_<)j2^&dr5RVdG$PRS4ZBUfgrRQfBJu@>?g2RCu8ynxff3F=JtXy7R
+ze%Hn(DLEPRJS(dnBng*tYJSE6tl>vB0nXR*o)FB4<KZ%$?S%;jg-4t#voDd*3Gqni
+z&%O_5##M-Zq2{D)nkd=Cy})s3w&hK2sbzjUyuE83APW7NEwiLIreIPv3>nuyD0A69
+zzSy|;p5(#x#$-E}^ZQfe74`}}2}m{cwXPczOb)y!5^k#R9$ZUWJJ(be5S@9a${6<c
+zp&RqitnR3ktE;P|jLeyVJm6FBwjs}hN2YVO9;gQ(#8{AsR7Gw_3Jln?{k+sN-P>qF
+z-1(zk?jDVQSgpcllF(?B!m84ivp+y${(7wp#>5&Fiwt!f;}JU=i)Y_m(-wuvj{3nt
+z>!-#E!^+Jb9GwlE9HYV`0KJh5)=vf<g6PR>m@bNtUR+cvg~(8J*y*o060FhYgd>4Q
+zS?{!#tZ&KA?JlWA`)eQL>8vha8B=)7qn|boEmmT0NqnABoH1n=Acn}$M1(6x+&G9D
+zr08Oo;7Qb<X2mHr5-#V6w76u8e!aArXMv9HJgL7?;K0Ib?jR1{a=K*6I8Sg_&^qOB
+z{h~|Uo~>6!eM?2Sx{4tS;A#IovXaV5=F-wq$tzd10|FG1larw!CZ>CL?_y3*BiGi~
+ziIeZm1_%T_BobU#Uk|IRt9zD{bCj##s1JqbzfQIMj4UkOQHYcuVMVkR6o#{0&~-#J
+zcgK%|j6fRHTWRj&v+AJ3-GvVeZJ`0A(Mw-jgPE@TE%v7IUH3mb4z_CxVX?y5b*~R+
+z1#Es2vuh87aLL-?TTrA$#%h_?CdcG+twN0K6GIPW3mPK`kh4OGHWKc8sngc#i67#s
+z0+Dn(=oNp$e6yc7TUW$EIo<v*(wH~fOo(Y0HfZO^G=qoQfhuzu|CDSYc1N9=Rr<rb
+zU>G+?An!MUD|^W!dj3Abv4>Eh#Kb{^<z3B6SY;AC0rOAG-qWGJ@2}PN=F?f0c4qgI
+zMq&?}jKX{g7<XOumwtx*b^an%pxkwf<ytkEzy%I#d}WVKT1<s~(BCF2@nJ}ShhM?F
+zZ5MJJ7`WgQtI*p;!|6Tj#AE%0s14)hu`8mvXU;;dhy2X3aHM@a7>dPR!RAEs7@ggo
+zSZanovU<6k0_!9DghN{8WP1BAr11v3M;q<(tgkuq5M@U#@__{H{_xq2jf?~^>e|Gj
+z8ubq8P07NxQp4*Pu`1UxCq4=@R_&Oq=(IVMx64hHJ!1BKa&xT5>NDaWae60=U#$oN
+zp+hwURbvvqbx&Ey33ZgZ#M98qOkI(b%do#_-$(vh&#m<mRy3c12zqa_SjBl%(C{qO
+zNN+wz#8E#Gb|e_xjs46~k=r~3r&D1Z=PTF4OuV`Idta(23laZ<zor~Y%_!{gy&q&{
+zF*^{V74bz{$3esIcm6lp)%RD|7U|F2$V9;>K>1)$&vJ_}x1t<WhjhX8;j0QhP@B7w
+z^P%}N8g=ATgJPf?1tTtUyd9mpcsqPLiu@Yce%zPl2wOfY67Vp}mg{kNELUCL`K2Fk
+zi^Vi8;riT%K@)eRJft}tl~2O5B=6L;DsQNN1Z#wB<98R@AP`857+l*LvUiONA<D)p
+zkhb?u^^Mzl#ahHES;4+NEM}(KVRdJ|IqcUrmVEf5a=1%`!b_gE)X9JURZR`Gj@6Hw
+z_AYd~Xem5o>4no}t`@oPmUtFfuFkAv_8pOP$xT=T2pq;Y-mj&{=BvHed18&`SM>+b
+zvkK_?_(=2q3DGNwS`2plUc<vG2(Q%1r^>$({e)6|C+W7W_+Ao&BJL4CkUu)r(uIS(
+zRPh$!1yg?ek2GI_Cq(f6UwJ*7G=pr+3wf)zRuGXQ@V8msaa4bH=CNdQm>43x+Nx2z
+zK6G_3QzGo(`-^hTwTPpiVggzbZ=7?cNU6(!HOw7j<G%B=6NQl0HYCtuiVK(tPQko*
+zCE-X82B_b;9b_+=B>cX6jXdxVyDrU?ezO-)!X#hU+1c4*eT$J>Q$pXO;3ZLy=^h)s
+z2#G;LvrM%tC?cZuSZiWpf?I3KxEb^P`}Kk_24g}4gFN?^93-ox822ky6C(O-qk<LW
+zcyLWoaZ+$5ges1-9Zo{ql4k4Oy~<IsC|eYa*sA?QLQIS}kS<zYtv~;ra~#n=_IEcn
+z<B@h{6Z~?;RL0n>d`6y|WoTgL$aHMi(_Els0UBInjL9*ptOF0$C(W|j>HHg56VP%!
+zK<>7oVRx-d|8tnAsHnnE`pvS4GMmrTGMy4fI^!2e8s=${!oKXO4ar#_B{>5YUNE1i
+z)u1mp-<BNIBW>}>7ITs&3v2+RF^0V_;?W#jIyeTq-A|uB`LFac@~a2kI*J~CDO2-m
+zyV&d|%F<zA%Op`JQ``QP#JF=qfl(i`Sn;Zfq8KA`IAY^yfxpo+gSn&97|%xf5}H2f
+z`YdHh&E}_McA5UkK9qx<-Mm<VpyE46lVXT$rL8$$640&Rr*B~LfP2BzRm&<SM)wzE
+zT<q}y4tyQrY87;EE@g|)(TpQ5WE3fHwSeCn_g<VCDXI8-cu0<{1qItAuGu_Vpwd4c
+zf@eJbgRIN)zYYny%cd~e)nol6XUbjY)65)=e8L7Aw>&5Ei@d-3qmqMzql8ygUY_l(
+zgT@BuU1R%Z3<T~$%8m^YDSj<&X@`U6tu=BUe;F|&+;Ujzigu^~i~=)eU^zw#-{4go
+zFc|Ie(%2a5S-;WD6-=*pVI%!-gRmQ38drIIU5mWRgb)ujDp@nH{IWPO%x5Xzp`ja1
+zwtPWZp0|cR+_jjVZ4JKK)6=uOxyhIbX^OVHxpl9z*>?Vt#k`Q!oO*Unyvm<`=&_+C
+zN+@0P(L<H1R6e%H`O^x)sgFDSsL0Pst}1S#cTFi5fE9s{ot-K)G?e?k?L`2PP-#gR
+z7i^@f+KGQxS>HJENuBOTj`~W6HjaC@;r7loeq`$4E6-u{ai^QLXNu9TM#E^n7P<yS
+zLdIjU72ggH53wmJOcAe4PJOA2v<imm_p*ZXlh%z_Sw}bt-fk^Flg=5UC+WGQ#N+SZ
+zDlUhI@@0@}R?6{OSYyHvN?(4fW!3-ggkoFBPEV8XJam(VPen*omAkXE)4Db2y@;QS
+zOWZDXzb9yeWHvtjVAn=#`0fS^Q+oekVOg|FNc-i;6VPwkAGjNX|8T^lFEasQKL;<O
+zS=hw{U1E|j?c{n~?Aus%E<GjAQww~w&FKw{g}7ks;aaa%hTm^N0AQeQd#;D)?-$Kb
+L52=eoIL7`5Bi*eT
+
+literal 0
+Hc$@<O00001
+
+diff --git a/document.png b/document.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..398925e3314cc64c90f11b7cd255091e83f11503
+GIT binary patch
+literal 979
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z5HtE1
+zycgL7q$NCE978f#--I0GY<3XX(z<1W*d?c^4Xn`{ShWR0HZ*KW;LcRkz0owYQF`JN
+z7k;5HhKDw7uijm}`Eg<7v-4aLjM@pTYZ^p1FohjJ;w%qdaPa!Jw=B{we6Ow7gxo2;
+zt9<3mPJzwupD!yeubxm*Bw#wh;Lvp?y&1ti|M?#sikY`LyZ4w^%kO>ri+l|x>=RVr
+znev{=dQpdqtHeGYvxEuD*1hI_^l`HI>*Qs-Zrr;!$6!)Tz}_X#;|~O|^2rE3-|(}F
+zv!wUTwSQ6fjr4m|_#3#)KJD6Is9|5Iz&DYl%*D_%h*fL-=ZTNGzn0eSIDacd_+8li
+zSCedioYUu@T_`aBvKHGGSEX(Gb8g%-T5k1wv&IKtg#Z8l=1wIrVi{L}!szXEU#}w$
+z0<G*ZoK5TkF_k>|3Kh)$k7U!74WFc|?&#DGKeT3(P@1W^0E=V6>#VRS(<g@$X8Ebk
+zJz(&~;d9W{_4ih<YiWtpvDt5PzW!TgWt8oOwY9VMeJfg!{7pvt9^?6fN7GW7rnz&>
+zU8E7G`^Qk`>alczs51gv3Y;x|oM|&L-|9F)@2K69M2jQA4`X)C{TJhwIcuKhzsPH0
+zfsg$X{SPg@9sFs#??(Q_!-`>3?sU~OmsZ~|^4;4ieWXy*^WE&4=GzO^uJEtD{ZaFq
+z;-P{LQPu5A_Y>~k+a42~|B$UP#w~K%+|$;7T)&H$%4I#eWSSlD#`(wtf#|}WF><FL
+zzDup`I<|Yw?6S8Jcek~@tm>I~XJT;Xp3kh)|EMlYE?IdseaCls$&?*OYFA92KFhT9
+ze?f5Q)rnaX-e2avS1x%{C13Tw>TBO?%}2sLC(W6XTB%s5d)j=#>j%tVB;K5{w2bL3
+ztrD`IDBb)i!<J3H;hB!d<ldLEg$#8p@&}U6J$xYK-&*{#?APH8y*Cn3LetVN6z=8I
+m{pxm3YJNu{69i87dmw)1@qu59CM3QEC3sI)KbLh*2~7a>V|hIQ
+
+literal 0
+Hc$@<O00001
+
+diff --git a/document_ppt.png b/document_ppt.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..b990556dcb0ded0e981beaf3ed708846cbf6059b
+GIT binary patch
+literal 795
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z2;X*}
+zuPg$jmwUQ6hGek5nS7A*h=PD?v6uGC^L8zBM5Q-0#%yo6vU$0K5woRA!lq4!@67w)
+zSn}-r_r}8qniyCV7#KMm7?=bakeCh1jZ-e=O-$Zmm+f8g_U-IP5l5NV6nJY+4(M4F
+zx@GRA+AG$p_h;{K;aRl)#Y^Q^u?4&z`zzO$p0U)|KbX&dDe7(JS)u-ZSKagT(~Sz=
+z@z$^G)=dT)lw0}gCeY9S|F8JdRRHvUBFM>aL%p*O8wi|Tw$s(@t_agkKfb_SuMD{w
+z9nAk-S(Y8IkRn{vypE|gZqaIo0~2i8`81lBPSmkhEa5rq@#*tybN@}YQjzOSeA6SR
+zUF}FtxZ*j<$5Pi~o8iHqM=ZN^nOkS~>QyvKd_22(j{lrw_I=7yH#%9{*c|>SE^55L
+z@N4IvAZ8^-W|tX-cC&i?<}G^Azk0=)g3f}%pLcere4f$x<*uub$bpFcdX@9m^UV1<
+ziM_w`xV88EKqVomA0`C{7x^-Gs%tbK*v0MgB#S|9kH9;%ovT(A7W4S1XZSS9@aCM_
+zRHJgo*VtvB(l?cTCsjBeUn_6eoqzb}y5PO%c4~B~i$p8z6FA4F@Q?Rng4k!#tiv;7
+z_Vz^{G=27Y8xzm<UD<j*(&_ry^{)04<`+IwHw&6>F~8a@F804U--8)3|J|=G-+jwr
+zeqPzbUB6{tT-su{m~RF1s|KqDAnL#YzBvqU&aF5-LGf@HDB*az`njxgN@xNAh5;8p
+
+literal 0
+Hc$@<O00001
+
+diff --git a/document_xls.png b/document_xls.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..70409296515d09ed441c6b421719cfd0992cfbbc
+GIT binary patch
+literal 811
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z2*2$2
+zD4GJKw|crbhGek5ndHdT;2`2;U3GoN&YX*fBw{-pyCWrd>@UjezqY8_+Guux?UsXd
+z26OHL-Ysy>l>>7=-+Cz!qg2*ZA0d=>>I-Y#Kh~9ZU0#SwB+of{aNg-%JyjPtjZ-&t
+zyle>5Ke-#oW0}sOleBKaJ3BBBBDWwMA@|NmIPKIMCO*C<Zx%7b$#c~wKZ$j-y{dVf
+z`_orO&wHs?g4gO707K{h|GBT_Hvj`88RUVtle;sIIPkc{#+~w#{I{iif{_qUUH07@
+za+(4gIHfJzZdE>>S~@*($B)_1e_Ge+Z8&T=vssW&X7Rjl4-NOJbW~N9Ywt<Ea=C85
+z=1Pu5ocG>vy_fj9C0{(1_2BXhv-bz<PdzwOC}Ci&(2-_i_s7I{ez?4ZQQ+0fcAK`T
+zbwpXr_z-@0{c{7wYhFN231I>*#&Yue_8-_LD0Zmnl$XF-wuisXKU}}hFnh1}>irGJ
+z?wY>1x;J-2)<XVYx#vFG{C@MFrGL-2Im^8Se3_*K9wz?c-m!Mm(&Z~=f4x!-ve;^g
+zwMvJTS(WHL!&jN|?>Ct`UO9Ad&4<1~|K9~u^*I;KyLT7t-uwApT1^>E=DQDByV<_I
+z?HcJQaJJ$PSnBz_5Y9!J3Cvm`U+%Ly?f`U@Hk7@;qES5mKSS+QbAF4y$HzD6#Fz8$
+nKeyrBp_tg;Y`@s<nSWruy3?B>q?lO;l#o1K{an^LB{Ts5LIEpb
+
+literal 0
+Hc$@<O00001
+
+diff --git a/document_zip.png b/document_zip.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..baa16132fb28f9ba6cc2e61f5cbd4c858cf8cd78
+GIT binary patch
+literal 1238
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z5Hqf-
+zYzzJmq{}>A978f#-%Q)@#q221&fKKH(KK}`n3(#2`3YkUgX4y+TZLG5AAa`a-@XHp
+zoZA==vVUL<;%u6#utcckhwqJvswy*Dr=C8@(suIf+jDiFZ{K`cW&3+3)3OH51g;q<
+zREu^%=+(Sg%c36|PfuX`Fx$I9uy2CO$*6hHr@IFBeE9o;NB5k@=}#;l!gJo_+%P$t
+z)$Nh!9ekjdUEh`G^{#u|r!PIq;Co|rA^(PY*+tE-q2_$=6Vv$%rltPYus^`JWr1Hs
+z;GBQ^ng2*nzE}T_Wrq_}&FceSze##)zx=&o-tM0nR*D;W8P+`!@Y^5#B(kjGr*ila
+z;eY?5I-cm?;nQYPllxJeB)@4#OtamF1_A5O$)Eq7ws<q8=Jw}fE}h&OWjZH6@V|@P
+z{*T*K{l5MY?eBR)#g9wx%(vruvqr_?Z=QbE*R2d!s>NA1$|l|7<NCGYvD2S5Ul$)|
+z*v0<q*8BP-yAKCq`=ibrvSWM04~&HW|6d9#KLSROFDM4yPCxJN5-4(9SxG5sYgb2x
+zsNmW((TiFj_P^$T4T_6y`aXMZWYirdxHf8QZ^w*Km(>zVZ7a^37aw~$bNM~vz2%E7
+z&h1@ZeeZA0`Mt&WYn7EX|4H>8i&-1C`>>hL+;7!Eo9`&p1Xc8gD>gNVyGSuUne)Gt
+z@ow5?OZk=#6YUSrw@=WzZ!Pev-ErOOi7BG1uD()v+`mEZn&XL(bsx-r^1H?uy}Q}J
+z_WJAN-+J!sWtYCNPciJklec$2N}d+Ib5P>S_Ia!96Rp|S<)*$pQwuabhkMJ_tX`)5
+z?*AqCPqo~m=A-#wqUa5k@asa+8;=+5w3)b*gZ+b?x#iWlA0KDf3s`^McyC)&SM{;=
+zM{Qm1s01=D4a%JJ*4Qmix|((04DYY3bKD&C^O-+ncN#z3BRuV;e3ZTLd^ZNm@M-KH
+zcDX1#J96Bp@w$rH%9=Y%n7%w#%FSKe*KhdG?p>sF|L@M=Ez)oPX0EDF*ttbtYwD>(
+z7aSkUWeBT(42e*`u*f#}z?b}w*<zPhdCvJ-e^#Aw`$o3KliRz*J723<1=a+dImZ5U
+z<p-+^{%T(H{yCZ~o2;o((9BpNSY6DN*Koi0$h#Y1+S7#Ru>Xh<J^ttDx-O2pz28d0
+zx%h4|XYN0(qo#P^^*obo!(7E*4{MAiW_))L-|(-zsiBnX;ctC&d%G3e>@*we555W0
+z`rlRivxu9^ipzQH_qh$mE@yvAXcr2e<y>`t_sn^UixLuq9OIV<{C}GEpZnHtaY?3I
+wLh9U7w;tTkS{?D_=`#7E+sFR=4$%6*csx4Cdav(RaZsN3boFyt=akR{0F8|S-v9sr
+
+literal 0
+Hc$@<O00001
+
+diff --git a/favicon.ico b/favicon.ico
+new file mode 100644
+index 0000000000000000000000000000000000000000..f855e8e86fcbab59bbcd96ecc7943ed43a204d2e
+GIT binary patch
+literal 1718
+zc$}rwYfM{p7zXgCMl%@VkdT24!DzRTNz~xXh9VbR7;#BA2_(b}n*kyq#o^QtM>;NJ
+zA({zePREdeGErJK<}6U!RVs*#38+kE1y-hVzuDo&WhnJI<t*X{_hqMj^Y;0lALsPE
+zoE|`eyWr;L#(p>aCBP<t8O%;dxd%{i&0kn!Jp?$Mu$l4i=7!Z<j^mA-9N26&%+Jrm
+zVzDshz-%@nB{>NZ5i)F&ZbaP~Ep&Bt7#tjg-EIe5H5yGV|JK=P#M+g9*3mUJni}>s
+zU4@4&LRTnbwhMh`NbcxKiXlgri|dM=;(oCw%N3)-aXLFY+a1R{QCcc=7o$Nqu2X4g
+zX%=vG-JR8c=j7y=Mwn#PXjXl8T(3AMM-yJc=)^fuINpRSO?cT?=IiY240m^T`1$!E
+zARquiK|!2p1frv(p;Ri7o}P}ZtSl516riM}1Qit(&}y~N>-A`BYeP>@53E)zCMPGc
+zu&@Bzk{zciD`6fm!*;Qn=LliNv$9!bECWjzybV&R9Z^wsp2LpfVmov?ekl)nUwVJ~
+zK>A?%NcvcM6@3AHIek5S7yV}XQ2H49RC+c2QF;x11APm9H+>)d2z>~BJbgBO8NGp?
+z_Y`k1NI8@!RywPgr4xn}vY9@VK88M(UQK_LUPIqN-$LI_-$y?}??LZN&;MXqAbl`>
+zBz-KsioSrpoW7pE>vrRzm(oYkr_&eH>uxt5sOSsm%jxUsyXgOKJk8C`NKDv+<fH_o
+zrM!ZS^fbJ_Hv^fksqoet`(Wf;;^N{Ukx1a}>48W6rP%VsV|Xg?aXh_s3qqdRhL;l)
+z5Wjmj<YB?srPzT4<%@`meF4ddN@QlFA|*8unVBl=+pB`UssxQJleQeD+LI{EQzLu-
+z+vvU2jebinuFu+VZDJf#)&WfRTToJ5gh6W`Mn^|6Jw1)(<z+1K_dho=fw}Q<9O3>0
+zYBeUtM=?A+jH#(9EX~c~@VoCI=YSeBGc%6o#RB`>*cb{A9YQYGtyeB%jCo>Y1oJ%Z
+z!TfyW=jPzI--j^G<L2e&;$U7bM!0`*aS=Coe)aw=7^{z=y-|aXrqj5<-db0IH+fyE
+zS5pzTEf728p@<3(Ms`{Zo|lC{7Q7YVK~HiXG1#Mg2@h`YhOf^C_;`C_qx2DYt@ptF
+z>+XZ=y)KZ;WbpCw!~<OO@>~yhH&?j1x?ru-8iewGjozuicDW4EyA+6!h2y!fXAu=C
+zM^#mo@FVtJym@o!ufLb=;^UxbcJ|NfH|FLS#5_JRIW;}=hwYk}ul~x59Ud7S6SJkS
+ze_&wXigi%TKR5l-YcO6m{Uqied-VFQOQw!n`Mb`CyY$`Pn|=^;+qW(4hSm!m7scFc
+z{<_7`dfxPnnClw#O$Ot6(^t3h*)PtW`%+imAm$p4w)S+bR(nRwl^=gnb?VdV&psFP
+ghsR4#lzmiwvO>)76%`*TIr{#w4;&YBhtJu606v>N0{{R3
+
+literal 0
+Hc$@<O00001
+
+diff --git a/footer-pc.html b/footer-pc.html
+new file mode 100644
+index 0000000..bed5549
+--- /dev/null
++++ b/footer-pc.html
+@@ -0,0 +1,53 @@
++</table>
++</div>
++<div id="upload" class="hidden">
++  <form enctype="multipart/form-data" name="user" action="**PATH**" method="post">
++    <div id="tabletitle">Files</div>
++    <!-- This is where the output will appear -->
++    <div id="files_list"></div>
++    <!-- This is the form -->
++    <div class="uploadfile" id="addfile">
++      <input id="my_file_element" type="file" name="File1"  />
++    </div>
++    <input id="uploadbutton" type="submit" value="Upload All Files" name="submit" class="uploadbutton" />
++  </form>
++  <script>
++	<!-- Create an instance of the multiSelector class, pass it the output target and the max number of files -->
++	var multi_selector = new MultiSelector( document.getElementById( 'files_list' ), 20 );
++	<!-- Pass in the file element -->
++	multi_selector.addElement( document.getElementById( 'my_file_element' ) );
++</script>
++</div>
++</div>
++<div class="smallinfo"> Switch to <a href="**PATH**?simple=yes">iPhone optimized page</a>. </div>
++<br />
++<a href="http://www.**APPURL**.com/" class="bluelink">&copy; **APPURL**.com</a>
++<div id="helpwindow" class="hidden" onclick="hidehelp();return false;">
++  <div id="helpwindow-body" onclick="return false;">
++    <h2>**APPNAME** Web Access</h2>
++    <p><b>View &amp; Download Files</b><br />
++      Navigate files stored on your iPhone or iPod touch with **APPNAME**. <br />
++      <img src="image_doc.png" alt="Image" /><img src="plain_doc.png" alt="Document" /> Clicking on an icon or filename will view or download that file.<br />
++      <img src="dir.png" alt="Directory" /> Clicking on a directory navigates to it.<br />
++      <img src="left-arrow24.png" alt="Up Directory" /> Clicking this arrow will back up a directory.<br />
++      Files and directories can not be renamed or deleted using web access.<br />
++    </p>
++    <p><b>Upload Files</b><br />
++      Upload files to the current **APPNAME** directory.<br />
++      Click the
++      <input type="button" Value="Browse..." disabled />
++      or
++      <input type="button" Value="Choose File" disabled />
++      button to add a file.<br />
++      Up to 20 files can be queued for upload.<br />
++      Files are uploaded when the
++      <input type="button" Value="Upload All Files" disabled />
++      button is pressed--not when they are added to the upload queue.  Be sure to upload your list!<br />
++      <em>NOTE:  Navigating to a new directory or viewing a file will clear the upload queue!</em><br />
++    </p>
++    <p><b>iPhone Optimized Page</b><br />
++      A simpler version of this web access page designed for an iPhone or iPod touch. </p>
++    <a href="#" onclick="hidehelp();return false;" class="helplink">(Close this window)</a> <br />
++  </div>
++</div>
++</body></html>
+\ No newline at end of file
+diff --git a/footer.html b/footer.html
+new file mode 100644
+index 0000000..86b779d
+--- /dev/null
++++ b/footer.html
+@@ -0,0 +1,23 @@
++</table>
++</div>
++
++<br />
++<center>
++<div id="uploadblock">
++  Upload files to **IPHONENAME** **PATH**<br />
++  <form enctype="multipart/form-data" name="user" action="**PATH**" method="post">
++    <input type="file" name="File1" size="40" />
++    <br />
++    <input type="file" name="File2" size="40" />
++    <br />
++    <input type="file" name="File3" size="40" />
++    <br />
++    <input type="submit" value="Upload Files" name="submit" />
++  </form>
++</div>
++  <br />
++  Switch to <a href="**PATH**?simple=no" class="bluelink">computer optimized page</a>. <br />
++  <br />
++  <a href="http://www.**APPURL**.com/" class="bluelink">&copy; **APPURL**.com</a>
++</center>
++</body></html>
+\ No newline at end of file
+diff --git a/header-pc.html b/header-pc.html
+new file mode 100644
+index 0000000..6a2db2d
+--- /dev/null
++++ b/header-pc.html
+@@ -0,0 +1,35 @@
++<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
++<html xmlns="http://www.w3.org/1999/xhtml">
++<head>
++<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
++<title>**IPHONENAME**</title>
++<meta name="viewport" content="width=device-width">
++<meta name="description" content="**APPNAME** - **IPHONENAME**" />
++<meta name="generator" content="**APPNAME**, Xcode, PhotoShop, Visual Studio, Notepad, Dreamweaver" />
++<meta name="keywords" content="**APPNAME**" />
++<meta name="robots" content="noindex,nofollow" />
++<meta name="author" content="www.**APPURL**.com" />
++<meta name="copyright" content="www.**APPURL**.com" />
++<link rel="icon" href="/favicon.ico" type="image/x-icon" />
++<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
++<link rel="stylesheet" href="/styles-pc.css" type="text/css" />
++<script language="javascript" src="/scripts.js"></script>
++<script language="javascript" src="/multifile.js"></script>
++</head>
++<body onLoad="doOnLoaded();">
++<h2>**TITLE**: **IPHONENAME** </h2>
++<div class="smallinfo">
++  <!-- A few variables  are replaced with the correct text.  The **XX** items that are all pretty obvious. -->
++  <a href="#" onclick="showhelp();return false;">(help)</a> </div>
++<div id="tabnav"> <a id="tab-view" class="tab-on" href="#" onclick="show1();return false;">View &amp; Download files</a> <a id="tab-upload" class="tab-off" href="#" onclick="show2();return false;">Upload files</a> </div>
++<div id="mainbody">
++<div id="section">
++<div id="header">
++  <h1><span id="pathpre">Path </span>**PATH** <span id="uparrow">**UP**</span></h1>
++</div>
++<table id="filestable" cellpadding="0" cellspacing="0" border="0">
++<tr class="titlerow">
++  <td class="view">&nbsp;</td>
++  <td class="desctitle">Files&nbsp;</td>
++  <td class="sizetitle">Size&nbsp;</td>
++</tr>
+diff --git a/header.html b/header.html
+new file mode 100644
+index 0000000..cf128b6
+--- /dev/null
++++ b/header.html
+@@ -0,0 +1,31 @@
++<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
++<html xmlns="http://www.w3.org/1999/xhtml">
++<head>
++<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
++<title>**IPHONENAME**</title>
++<meta name="viewport" content="width=device-width">
++<meta name="description" content="**APPNAME** - **IPHONENAME**" />
++<meta name="generator" content="**APPNAME**, Xcode, PhotoShop, Visual Studio, Notepad" />
++<meta name="keywords" content="**APPNAME**, **APPURL**" />
++<meta name="robots" content="noindex,nofollow" />
++<meta name="author" content="www.**APPURL**.com" />
++<meta name="copyright" content="www.**APPURL**.com" />
++<link rel="icon" href="/favicon.ico" type="image/x-icon" />
++<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
++<link rel="stylesheet" href="/styles.css" type="text/css" />
++<script language="javascript" src="/scripts.js"></script>
++</head>
++<body onLoad="doOnLoaded();">
++<!-- A few variables  are replaced with the correct text.  The **XX** items that are all pretty obvious. -->
++<div id="header">
++  <h1>**TITLE**</h1>
++  <h2>**IPHONENAME** **PATH**</h2>
++  <div id="navigation"> </div>
++</div>
++<div id="section">
++<table id="filestable" cellpadding="0" cellspacing="0" border="0">
++<tr class="titlerow">
++  <td class="view">**UP**</td>
++  <td class="desctitle">File&nbsp;</td>
++  <td class="sizetitle">Size&nbsp;</td>
++</tr>
+diff --git a/image_doc.png b/image_doc.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..fc61fbe266b460e542b19ab78f3c16976b2422cb
+GIT binary patch
+literal 961
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z2)`0@
+zRMrF1+dN$yLo!(3Om*ZsY{0|vdD5R{_9t$0ZTlZ~V(WFA1)&RyBb;lvjy9RjaGmDT
+zwlgKNCg%VfCOYDfox6JLzDIRwyO=Dsn10y`Tj(gKz1(OJ&Glr(3|^Uef}6iYC@h`1
+zkYUc513EnolP{eKVDL*z5OX`=nVF`+pl)oyt^8n#$?io{HXWP)TXOU7{JQ?_pV!=d
+z@!#vf$<_MoKa|t>p6#+Z_wVXE+4u24hyVZ2tDtHI42>TkAG{6U=*8?P;H%2fq;P}l
+zUt_{k_9dc!*tDagwY7JfC{FV36KV3b($-d7dp|*x;|5z0Ys(L{du>k*tF1fV#2#Up
+zc6VlV{<E|1?%i8<k>gL*-g}4grF2ej5>8lV=O^jUy8PqhUlASCcxISAW-5z*tp0VQ
+zfUcy0@G;gmoyYuNB`Zc5B|PilzERve|H^TvEhz{7ycK=%{da%NiZpJ&*$qqV#1^SG
+zZwP*n)}vajW&u>>t|YcFMc}%QrqdB~=a|*<AI}RsuQ8C2iMHg;W)uoYlSr>^`xjhs
+zN&MR}<NI&R^aWn`mei<f9+0`hAj8*QEiiZThpX;a1s<^<Vmxyso?&BF`w8nuclPD-
+zy`P+tqn5{!vo-4XiD0cdUD;5vfSlRl=T_c)_A_zQ%pHsZ`hSg|bKiXSL1sbEjORZE
+zU1Cn34E~dMV871e9q9)m^;=Gh-~6~}?^cEf?=CvYZ#LxGb@|-;r1R@l<4jyztsT}h
+z_$@DPh^$YIIWW!pzDF4QU)>7+7i+(-xGJc%aqhkh{e=BLSvV$WA8G%;XVu2_i%ZTl
+z$wX{(j(y}h`Lf{KtxR3Dzt5dtwPo=k*#_56`F-l&!gH-_FV1Uq<-E;yLp0!f*9Weg
+z?%a9Pa|O>>ond{Dy!B7{QN~x>&ayhZ5WTe{@8F#KF$ef|%x<hVV!j_6HS<%oSCAJd
+Od3(D0xvX<aXaWE!*>5}m
+
+literal 0
+Hc$@<O00001
+
+diff --git a/iso_doc.png b/iso_doc.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..96e5aee16240f85acdfda2a1713ac0c06dc9feab
+GIT binary patch
+literal 812
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z2tRH6
+zXSW|nZ}fC=49Q@9Ga-=cfB}bd^?&6ro22VF9$t*N@%+RBA7SNB*G`EuDGFeq0+kKl
+z>wXnJST_B=(U&Umucx*jkG($c^o{RDu}37|ZoRhV^76f}ZvHy`Nb|AH^4E!T0?%LL
+z*|=U|>&o(Zm%kdETaljKb|ZYktt-~&Usg$^U)gNx{6^a&_to6zCAK}ruX;;af4@w~
+z{+0iK$z7Z2fqP%wn_SP)a=@Qs575p3|1V*BXbB9643OjBPRZ^%Y{1h3bo!G`u`IGb
+ztTNW@us^lwwbKL>eM`M3A0_Ipm)gF5neu3ke?@A?XPbxfwtlK`n-i?Tduc`2=bZ(|
+zm+kzl@jvV<YwQA(Rb1aHpWglGQN8+|%%QDz^Tl_RK2^K5)AjnVKUeD)O#6MfTzPx<
+zY3=#XRvlU;RNlAi@_cCv^AF+q4e^Zi?uDH1_ep)SnEv6E*z@XRJEI>h^K_n9`!pjg
+zbldqWUd5}cCY+DmkZrMfx%oqzCD|vA-t)ElEWlOBoBr*KTFlHVLejteo5JTEQJuqH
+z!n^av?vu}rthUV(o?ak##`MXwTFI{g8a<&k?Y=Re1lGq{E}sXoIX(|$b2`H2xWawE
+zbKgzd!x{JRNEpzpJw<aLuiIF@`TSj`>ji24`G;0Y^55nRJ9x=o>eHLb9WB9&Yokj=
+z*DL_K)RupGLDrW1)$5u>O)^hxe*RF%ulL*BU$^rfum?TvUZh_d4Ni5Qu6{1-oD!M<
+D4$wbu
+
+literal 0
+Hc$@<O00001
+
+diff --git a/left-arrow24.png b/left-arrow24.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..631292d0a281821ba5b488d74511b39158330b78
+GIT binary patch
+literal 1683
+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
+E8+}~T*#H0l
+
+literal 0
+Hc$@<O00001
+
+diff --git a/multifile.js b/multifile.js
+new file mode 100644
+index 0000000..65ffee3
+--- /dev/null
++++ b/multifile.js
+@@ -0,0 +1,64 @@
++/**
++* This script is based on & thanks to:
++* Convert a single file-input element into a 'multiple' input list
++*   Class by Stickman -- http://www.the-stickman.com
++*      with thanks to: [for Safari fixes]
++*         Luis Torrefranca -- http://www.law.pitt.edu
++*     and Shawn Parker & John Pennypacker -- http://www.fuzzycoconut.com
++*      [for duplicate name bug] 'neal'
++*
++*  a few additions and adjustments to the script by Michael Burford & Peter Burford -- www.ftponthego.com  - www.wifidisk.com
++*/
++function MultiSelector( list_target, max ){
++this.list_target = list_target;
++this.count = 0;
++this.id = 0;
++if( max ){
++this.max = max;
++} else {
++this.max = -1;
++};
++this.addElement = function( element ){
++if( element.tagName == 'INPUT' && element.type == 'file' ){
++element.name = 'file_' + this.id++;
++element.multi_selector = this;
++element.onchange = function(){
++var new_element = document.createElement( 'input' );
++new_element.type = 'file';
++this.parentNode.insertBefore( new_element, this );
++this.multi_selector.addElement( new_element );
++this.multi_selector.addListRow( this );
++this.style.position = 'absolute';
++this.style.left = '-1000px';
++};
++if( this.max != -1 && this.count >= this.max ){
++element.disabled = true;
++};
++this.count++;
++this.current_element = element;
++} else {
++alert( 'Error: not a file input element' );
++};
++};
++this.addListRow = function( element ){
++var new_row = document.createElement( 'div' );
++new_row.className = 'uploadfile';
++var new_row_button = document.createElement( 'input' );
++new_row_button.type = 'button';
++new_row_button.value = 'Delete';
++new_row_button.className = 'deletebutton';
++new_row.element = element;
++new_row_button.onclick= function(){
++this.parentNode.element.parentNode.removeChild( this.parentNode.element );
++this.parentNode.parentNode.removeChild( this.parentNode );
++this.parentNode.element.multi_selector.count--;
++this.parentNode.element.multi_selector.current_element.disabled = false;
++return false;
++};
++new_row.appendChild( new_row_button );
++var new_row_text = document.createElement('span');
++new_row_text.innerHTML = element.value;
++new_row.appendChild( new_row_text );
++this.list_target.appendChild( new_row );
++};
++};
+\ No newline at end of file
+diff --git a/npm.html b/npm.html
+new file mode 100644
+index 0000000..e80f4ce
+--- /dev/null
++++ b/npm.html
+@@ -0,0 +1,774 @@
++<!DOCTYPE html>
++<html lang="en-us">
++<head>
++    
++    <meta charset="UTF-8">
++    
++        <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
++    
++
++    <meta http-equiv="X-UA-Compatible" content="IE=edge">
++    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
++    
++
++    
++        <title> Manage your JavaScript in private registries | Bytesafe</title>
++    
++
++    
++
++    
++    
++        <meta name="description" content="Secure your JavaScript supply chain with Bytesafe! Free private npm registry">
++    
++
++   
++    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/bytesafeicon-32x32.png">
++    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/bytesafeicon-16x16.png">
++    
++
++    <meta name="msapplication-TileColor" content="#fa7070">
++    <meta name="theme-color" content="#fa7070">
++
++    
++    <link rel="stylesheet" href="/dependencies/bootstrap/css/bootstrap.min.css" type="text/css">
++    <link rel="stylesheet" href="/dependencies/swiper/css/swiper.min.css" type="text/css">
++    <link rel="stylesheet" href="/dependencies/wow/css/animate.css" type="text/css">
++    <link rel="stylesheet" href="/dependencies/magnific-popup/css/magnific-popup.css" type="text/css">
++    <link rel="stylesheet" href="/dependencies/components-elegant-icons/css/elegant-icons.min.css" type="text/css">
++    <link rel="stylesheet" href="/dependencies/simple-line-icons/css/simple-line-icons.css" type="text/css">
++
++    
++    <script src="https://kit.fontawesome.com/a13429fd0d.js" crossorigin="anonymous"></script>
++
++    
++    
++    
++    <link rel="stylesheet" href="/sass/app.e0e9e48ab7e260579ef90454c05186eee58431b20747c115fa7c294d8b7a74b7.css"  integrity="sha256-4OnkirfiYFee&#43;QRUwFGG7uWEMbIHR8EV&#43;nwpTYt6dLc=" media="screen" type="text/css">
++
++    
++    <link href="https://fonts.googleapis.com/css?family=Play|Poppins:300,400,500,600,700,800|Source+Code+Pro" rel="stylesheet">
++
++    
++
++    <meta property="og:title" content="Manage your JavaScript in private registries" />
++<meta property="og:description" content="Secure your JavaScript supply chain with Bytesafe! Free private npm registry" />
++<meta property="og:type" content="article" />
++<meta property="og:url" content="https://bytesafe.dev/npm/" />
++<meta property="og:image" content="https://bytesafe.dev/opengraph/default_image.png" />
++
++<meta itemprop="name" content="Manage your JavaScript in private registries">
++<meta itemprop="description" content="Secure your JavaScript supply chain with Bytesafe! Free private npm registry">
++
++<meta itemprop="wordCount" content="6">
++<meta itemprop="image" content="https://bytesafe.dev/opengraph/default_image.png">
++
++
++
++<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary_large_image"/>
++<meta name="twitter:image" content="https://bytesafe.dev/opengraph/default_image.png"/>
++
++<meta name="twitter:title" content="Manage your JavaScript in private registries"/>
++<meta name="twitter:description" content="Secure your JavaScript supply chain with Bytesafe! Free private npm registry"/>
++<link rel="canonical" href="https://bytesafe.dev/npm/">
++
++    
++        
++<script type="application/javascript">
++var doNotTrack = false;
++if (!doNotTrack) {
++	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
++	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
++	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
++	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
++	ga('create', 'UA-156576045-1', 'auto');
++	
++	ga('send', 'pageview');
++}
++</script>
++
++        <script type="text/javascript">
++    window._chatlio = window._chatlio||[];
++    !function(){ var t=document.getElementById("chatlio-widget-embed");if(t&&window.ChatlioReact&&_chatlio.init)return void _chatlio.init(t,ChatlioReact);for(var e=function(t){return function(){_chatlio.push([t].concat(arguments)) }},i=["configure","identify","track","show","hide","isShown","isOnline", "page", "open", "showOrHide"],a=0;a<i.length;a++)_chatlio[i[a]]||(_chatlio[i[a]]=e(i[a]));var n=document.createElement("script"),c=document.getElementsByTagName("script")[0];n.id="chatlio-widget-embed",n.src="https://w.chatlio.com/w.chatlio-widget.js",n.async=!0,n.setAttribute("data-embed-version","2.3");
++        n.setAttribute('data-widget-id','0e5f0290-54df-42db-5680-a7891ce7c691');
++        c.parentNode.insertBefore(n,c);
++    }();
++</script>
++    
++</head>
++
++<body id="home-version-1" class="home-version-4" data-style="default">
++
++
++
++
++<header class="site-header header_trans-fixed  " data-top="992">
++    <div class="container">
++        <div class="header-inner">
++            <div class="toggle-menu">
++                <span class="bar"></span>
++                <span class="bar"></span>
++                <span class="bar"></span>
++            </div>
++            
++
++            <div class="site-mobile-logo">
++                <a href="/" class="logo">
++                    <span>bytesafe</span>
++                </a>
++            </div>
++
++            <nav class="site-nav ">
++                <div class="close-menu">
++                    <span>Close</span>
++                    <i class="ei ei-icon_close"></i>
++                </div>
++
++                <div class="site-logo">
++                    <a href="/" class="logo">
++                        
++                            <span class="main-logo light-logo">bytesafe</span>
++                            <span class="sticky-logo dark-logo">bytesafe</span>
++                        
++                    </a>
++                </div>
++                
++
++                <div class="menu-wrapper" data-top="992">
++                    <ul class="site-main-menu">
++                        <li><a href="/" title="Bytesafe Home">Home</a></li>
++                        <li><a href="/posts/" title="Bytesafe Blog">Blog</a></li>
++                        <li><a href="https://login.bytesafe.dev" title="Login to Bytesafe">Login</a></li>
++
++
++                    </ul>
++
++                    <div class="nav-right">
++                        <a href="https://login.bytesafe.dev/signup" class="nav-btn" title="Sign up to Bytesafe">Sign Up</a>
++                    </div>
++                </div>
++                
++
++            </nav>
++        </div>
++    </div>
++</header>
++
++
++<a href="#main_content" data-type="section-switch" class="return-to-top">
++    <i class="fa fa-chevron-up"></i>
++</a>
++
++<div class="page-loader">
++    <div class="loader">
++        
++        <div class="blobs">
++            <div class="blob-center"></div>
++            <div class="blob"></div>
++            <div class="blob"></div>
++            <div class="blob"></div>
++            <div class="blob"></div>
++            <div class="blob"></div>
++            <div class="blob"></div>
++        </div>
++        <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
++            <defs>
++                <filter id="goo">
++                    <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur" />
++                    <feColorMatrix in="blur" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7" result="goo" />
++                    <feBlend in="SourceGraphic" in2="goo" />
++                </filter>
++            </defs>
++        </svg>
++
++    </div>
++</div>
++
++<div id="main_content">
++
++    
++
++
++<section class="banner banner-one">
++    <div class="circle-shape" data-parallax='{"y" : 230}'><img src="/media/banner/circle-shape.png" alt="circle"></div>
++    <div class="container">
++        <div class="banner-content-wrap">
++            <div class="row align-items-center">
++                <div class="col-lg-6">
++                    <div class="banner-content">
++                        <h1 class="banner-title wow pixFadeUp" data-wow-delay="0.3s">
++                            Free private npm registry
++                        </h1>
++
++                        <p class="description wow pixFadeUp" data-wow-delay="0.5s">
++                            Secure your javascript supply chain today
++                        </p>
++
++                        <a href="https://login.bytesafe.dev/signup" class="pxs-btn banner-btn wow pixFadeUp" data-wow-delay="0.6s" title="Sign Up - It&#39;s Free!">Sign Up - It&#39;s Free!</a>
++                    </div>
++                </div>
++
++                <div class="col-lg-6">
++                    <div class="promo-mockup wow pixFadeLeft">
++                        <img src="/media/banner/macbook-console-packages.png" alt="bytesafe">
++                    </div>
++                </div>
++            </div>
++        </div>
++    </div>
++
++    <div class="bg-shape">
++        <img src="/media/banner/shape-bg2560.png" alt="bg2560">
++    </div>
++</section>
++
++
++    
++
++
++<section class="featured">
++    <div class="container">
++        <div class="section-title text-center wow pixFade">
++            <h3 class="sub-title">Using Bytesafe as your private npm registry</h3>
++            <h2 class="title">Benefits</h2>
++        </div>
++
++        <div class="row">
++
++            
++
++            <div style="text-align: center" class="col-md-4">
++                <div class="saaspik-icon-box-wrapper wow pixFadeLeft" data-wow-delay="0.3s">
++                    <div class="saaspik-icon-box-icon">
++                        <i style="font-size: 500%" class="fas fa-shield-alt"></i>
++                    </div>
++                    <div class="pixsass-icon-box-content">
++                        <h3 class="pixsass-icon-box-title">Secure</h3>
++                        <p>Control packages and versions available to your organization</p>
++                    </div>
++                </div>
++            </div>
++
++            
++
++            <div style="text-align: center" class="col-md-4">
++                <div class="saaspik-icon-box-wrapper wow pixFadeLeft" data-wow-delay="0.3s">
++                    <div class="saaspik-icon-box-icon">
++                        <i style="font-size: 500%" class="fas fa-laptop-code"></i>
++                    </div>
++                    <div class="pixsass-icon-box-content">
++                        <h3 class="pixsass-icon-box-title">Compatible</h3>
++                        <p>Run npm as normal. No custom client. No impact on the development process</p>
++                    </div>
++                </div>
++            </div>
++
++            
++
++            <div style="text-align: center" class="col-md-4">
++                <div class="saaspik-icon-box-wrapper wow pixFadeLeft" data-wow-delay="0.3s">
++                    <div class="saaspik-icon-box-icon">
++                        <i style="font-size: 500%" class="fas fa-cloud"></i>
++                    </div>
++                    <div class="pixsass-icon-box-content">
++                        <h3 class="pixsass-icon-box-title">Hosted</h3>
++                        <p>No need to setup own infrastructure</p>
++                    </div>
++                </div>
++            </div>
++
++            
++
++            <div style="text-align: center" class="col-md-4">
++                <div class="saaspik-icon-box-wrapper wow pixFadeLeft" data-wow-delay="0.3s">
++                    <div class="saaspik-icon-box-icon">
++                        <i style="font-size: 500%" class="fas fa-user-lock"></i>
++                    </div>
++                    <div class="pixsass-icon-box-content">
++                        <h3 class="pixsass-icon-box-title">Private</h3>
++                        <p>Access management to ensure only authorized users have access</p>
++                    </div>
++                </div>
++            </div>
++
++            
++
++            <div style="text-align: center" class="col-md-4">
++                <div class="saaspik-icon-box-wrapper wow pixFadeLeft" data-wow-delay="0.3s">
++                    <div class="saaspik-icon-box-icon">
++                        <i style="font-size: 500%" class="fas fa-database"></i>
++                    </div>
++                    <div class="pixsass-icon-box-content">
++                        <h3 class="pixsass-icon-box-title">Resilient</h3>
++                        <p>Running in AWS with data stored in DynamoDB and S3 to ensure maximum availability</p>
++                    </div>
++                </div>
++            </div>
++
++            
++
++            <div style="text-align: center" class="col-md-4">
++                <div class="saaspik-icon-box-wrapper wow pixFadeLeft" data-wow-delay="0.3s">
++                    <div class="saaspik-icon-box-icon">
++                        <i style="font-size: 500%" class="fas fa-circle-notch"></i>
++                    </div>
++                    <div class="pixsass-icon-box-content">
++                        <h3 class="pixsass-icon-box-title">Agile</h3>
++                        <p>Adaptable to your workflow. Snapshot registries for each sprint</p>
++                    </div>
++                </div>
++            </div>
++
++            
++
++        </div>
++    </div>
++</section>
++
++    
++
++
++<section class="banner banner-one">
++    <div class="circle-shape" data-parallax='{"y" : 230}'><img src="/media/banner/circle-shape.png" alt="circle"></div>
++    <div class="container">
++        <div class="banner-content-wrap">
++            <div class="row align-items-center">
++                <div class="col-lg-5 align-self-end">
++                    <div class="banner-content">
++                        <h2 class="banner-title wow pixFadeUp" data-wow-delay="0.3s">
++                            Safe haven for your JavaScript
++                        </h2>
++
++                        <p class="description wow pixFadeUp" data-wow-delay="0.5s">
++                            Take control of what packages and versions are used by your team with hosted private npm registries. Manage both your own and third party code. You can have multiple private registries, each with its own selection of upstreams.
++                        </p>
++
++                        <div class="row">
++                            <a href="https://login.bytesafe.dev/signup" class="pxs-btn banner-btn wow pixFadeUp" data-wow-delay="0.6s" title="Get started now!">Get started now!</a>
++                        </div>
++                    </div>
++                </div>
++
++                <div class="col-lg-5 offset-lg-2">
++                    <div class="promo-mockup wow pixFadeLeft">
++                        <img src="/media/feature/console-pkg-react.png" alt="mockup">
++                    </div>
++                </div>
++            </div>
++        </div>
++    </div>
++
++    <div class="bg-shape">
++        <img src="/media/banner/shape-bg2560.png" alt="bg2560">
++    </div>
++</section>
++
++
++    
++
++
++<section class="genera-informes">
++    <div class="container">
++        <div class="row">
++            <div class="col-lg-6 pix-order-one">
++                <div class="section-title style-two">
++                    <h2 class="title wow pixFadeUp">
++                        Quick and easy setup
++                    </h2>
++
++                    <p class="wow pixFadeUp" data-wow-delay="0.3s">
++                        Get started with your own registry in minutes! 
++                    </p>
++                </div>
++
++                <ul class="list-items wow pixFadeUp" data-wow-delay="0.4s">
++                    
++
++                    <li>Create your account &amp; admin user</li>
++
++                    
++
++                    <li>Configure your Bytesafe registry and upstreams</li>
++
++                    
++
++                    <li>Invite your team members</li>
++
++                    
++
++                    <li>Work with your regular tools</li>
++
++                    
++                </ul>
++
++                <a href="https://login.bytesafe.dev/signup" class="pix-btn btn-outline wow pixFadeUp" data-wow-delay="0.5s" title="Sign Up - It&#39;s Free!">Sign Up - It&#39;s Free!</a>
++            </div>
++
++
++            <div class="informes-feature-image">
++                <div class="image-one" data-parallax='{"y" : 20}'>
++                    <img src="/media/feature/createaccount.png" style="border-radius: 10px" class="wow pixFadeDown" alt="informes">
++                </div>
++
++                <div class="image-two" data-parallax='{"y" : -20}'>
++                    <img src="/media/feature/terminal-login.png" style="border-radius: 10px" class=" mw-none wow pixFadeDown" data-wow-delay="0.3s" alt="informes">
++                </div>
++
++            </div>
++
++        </div>
++    </div>
++
++    <div class="shape-bg">
++        <img src="/media/background/shape.png" class="wow fadeInRight" alt="shape-bg">
++    </div>
++</section>
++
++
++    
++
++
++
++<section style="background-color: #fdf8f8" class="call-to-action-premise">
++    
++    <div class="container">
++        <div class="action-content text-center wow pixFadeUp">
++            <div class="row">
++                <div class="col">
++                    <h5 class="title">
++                        Need On-Premise hosting? 
++                    </h5>
++                </div>
++                <div class="col">
++                    <a href="mailto:sales@bytesafe.dev" class="pix-btn" title="Let&#39;s talk">Let&#39;s talk</a>
++                </div>
++            </div>
++        </div>
++        
++    </div>
++    
++
++    <div class="scroll-circle">
++        <img src="/media/background/circle13.png" data-parallax='{"y" : -130}' alt="circle">
++    </div>
++    
++</section>
++
++
++
++    
++
++
++<section class="featured-two">
++    <div id="features" class="container">
++        <div class="section-title text-center">
++            <h3 class="sub-title wow pixFadeUp">Bytesafe</h3>
++            <h2 class="title wow pixFadeUp" data-wow-delay="0.2s">Features</h2>
++        </div>
++
++        <div class="row">
++            
++            <div class="col-lg-4 col-md-6">
++                <div class="saaspik-icon-box-wrapper style-two wow pixFadeRight" data-wow-delay="0.4s">
++                    <div class="saaspik-icon-box-icon">
++                        <i style="font-size: 250%;color: #fa7070" class="fal fa-project-diagram"></i>
++                    </div>
++                    <div class="pixsass-icon-box-content">
++                        <h3 class="pixsass-icon-box-title">MULTIPLE REGISTRIES</h3>
++                        <p>
++                            Create multiple registries. Configure registries, policies and plugins to fit your workflow
++                        </p>
++                    </div>
++                </div>
++            </div>
++
++            
++            <div class="col-lg-4 col-md-6">
++                <div class="saaspik-icon-box-wrapper style-two wow pixFadeRight" data-wow-delay="0.4s">
++                    <div class="saaspik-icon-box-icon">
++                        <i style="font-size: 250%;color: #fa7070" class="fal fa-code-branch"></i>
++                    </div>
++                    <div class="pixsass-icon-box-content">
++                        <h3 class="pixsass-icon-box-title">MULTIPLE UPSTREAMS</h3>
++                        <p>
++                            Connect multiple upstream registries, both private and public (like registry.npmjs.org)
++                        </p>
++                    </div>
++                </div>
++            </div>
++
++            
++            <div class="col-lg-4 col-md-6">
++                <div class="saaspik-icon-box-wrapper style-two wow pixFadeRight" data-wow-delay="0.4s">
++                    <div class="saaspik-icon-box-icon">
++                        <i style="font-size: 250%;color: #fa7070" class="fal fa-door-closed"></i>
++                    </div>
++                    <div class="pixsass-icon-box-content">
++                        <h3 class="pixsass-icon-box-title">PRIVATE PACKAGES</h3>
++                        <p>
++                            Push packages into a private registry and share them with your team without having to make them public
++                        </p>
++                    </div>
++                </div>
++            </div>
++
++            
++            <div class="col-lg-4 col-md-6">
++                <div class="saaspik-icon-box-wrapper style-two wow pixFadeRight" data-wow-delay="0.4s">
++                    <div class="saaspik-icon-box-icon">
++                        <i style="font-size: 250%;color: #fa7070" class="fal fa-stream"></i>
++                    </div>
++                    <div class="pixsass-icon-box-content">
++                        <h3 class="pixsass-icon-box-title">PATCH PUBLIC PACKAGES</h3>
++                        <p>
++                            Push own version of a public package with the same name and version into your private registry
++                        </p>
++                    </div>
++                </div>
++            </div>
++
++            
++            <div class="col-lg-4 col-md-6">
++                <div class="saaspik-icon-box-wrapper style-two wow pixFadeRight" data-wow-delay="0.4s">
++                    <div class="saaspik-icon-box-icon">
++                        <i style="font-size: 250%;color: #fa7070" class="fal fa-chevron-square-up"></i>
++                    </div>
++                    <div class="pixsass-icon-box-content">
++                        <h3 class="pixsass-icon-box-title">PUSH</h3>
++                        <p>
++                            Push a package from one registry to an upstream registry
++                        </p>
++                    </div>
++                </div>
++            </div>
++
++            
++            <div class="col-lg-4 col-md-6">
++                <div class="saaspik-icon-box-wrapper style-two wow pixFadeRight" data-wow-delay="0.4s">
++                    <div class="saaspik-icon-box-icon">
++                        <i style="font-size: 250%;color: #fa7070" class="fal fa-chevron-square-down"></i>
++                    </div>
++                    <div class="pixsass-icon-box-content">
++                        <h3 class="pixsass-icon-box-title">PULL</h3>
++                        <p>
++                            Pull package from one or more upstream registries
++                        </p>
++                    </div>
++                </div>
++            </div>
++
++            
++            <div class="col-lg-4 col-md-6">
++                <div class="saaspik-icon-box-wrapper style-two wow pixFadeRight" data-wow-delay="0.4s">
++                    <div class="saaspik-icon-box-icon">
++                        <i style="font-size: 250%;color: #fa7070" class="fal fa-clone"></i>
++                    </div>
++                    <div class="pixsass-icon-box-content">
++                        <h3 class="pixsass-icon-box-title">CLONE REGISTRY</h3>
++                        <p>
++                            Copy an existing private registry, and all its contents, into a newly created one with a simple click
++                        </p>
++                    </div>
++                </div>
++            </div>
++
++            
++            <div class="col-lg-4 col-md-6">
++                <div class="saaspik-icon-box-wrapper style-two wow pixFadeRight" data-wow-delay="0.4s">
++                    <div class="saaspik-icon-box-icon">
++                        <i style="font-size: 250%;color: #fa7070" class="fal fa-browser"></i>
++                    </div>
++                    <div class="pixsass-icon-box-content">
++                        <h3 class="pixsass-icon-box-title">CONSOLE</h3>
++                        <p>
++                            Use the web console to visualize and manage your registries, upstreams and packages
++                        </p>
++                    </div>
++                </div>
++            </div>
++
++            
++            <div class="col-lg-4 col-md-6">
++                <div class="saaspik-icon-box-wrapper style-two wow pixFadeRight" data-wow-delay="0.4s">
++                    <div class="saaspik-icon-box-icon">
++                        <i style="font-size: 250%;color: #fa7070" class="fal fa-terminal"></i>
++                    </div>
++                    <div class="pixsass-icon-box-content">
++                        <h3 class="pixsass-icon-box-title">CLI</h3>
++                        <p>
++                            Live on the command line? All important actions on registries and packages are available in the Bytesafe CLI
++                        </p>
++                    </div>
++                </div>
++            </div>
++
++            
++
++        </div>
++    </div>
++</section>
++
++
++        <div class="scroll-circle wow pixFadeLeft">
++            <img src="../media/background/circle8.png" data-parallax='{"y" : 130}' alt="circle">
++        </div>
++    </section>
++
++    
++
++
++
++<section class="call-to-action">
++    <div class="overlay-bg"><img src="/media/background/ellipse.png" alt="bg"></div>
++    <div class="container">
++        <div class="action-content text-center wow pixFadeUp">
++            <h2 class="title">
++                Enterprise features
++            </h2>
++
++            <div>
++                <p>
++                    Free, hosted and reliable npm registries is only the start. Bytesafe&#39;s vision is to provide support for the whole code supply chain, supporting internal and remote teams of developers with infrastructure for collaboration and as a trusted partner for identifying compliance issues or vulnerabilities in third-party dependencies. Support for more ecosystems besides JavaScript are coming, as well as support for SAML, Auditing and Custom Integration.
++                </p>
++                <p>
++                    
++                </p>
++            </div>
++
++            <div class="row">
++                <div class="col">
++                    <h3>License compliance</h3>
++                </div>
++                <div class="col">
++
++                    <h3>Security scanning</h3>
++                </div>
++                <div class="col">
++                    <h3>Access management</h3>
++                </div>
++            </div>
++
++
++            <a href="mailto:sales@bytesafe.dev" style="margin-top: 50px" class="pix-btn btn-light" title="Learn More">Learn More</a>
++        </div>
++        
++    </div>
++    
++
++    <div class="scroll-circle">
++        <img src="/media/background/circle13.png" data-parallax='{"y" : -130}' alt="circle">
++    </div>
++    
++</section>
++
++
++
++</div>
++
++
++
++
++
++<footer id="footer">
++    <div class="container">
++        <div class="footer-inner wow pixFadeUp">
++            <div class="row">
++                <div class="col-lg-3 col-md-6">
++                    <div class="widget footer-widget">
++                        <h3 class="widget-title">Company</h3>
++
++                        <ul class="footer-menu">
++                            <li><a href="/#features" title="Bytesafe Features">Features</a></li>
++                            
++                           
++                        </ul>
++                    </div>
++                    
++                </div>
++                
++
++                <div class="col-lg-3 col-md-6">
++                    <div class="widget footer-widget">
++                        <h3 class="widget-title">Resources</h3>
++
++                        <ul class="footer-menu">
++
++
++
++                            <li><a href="/posts/" title="Bytesafe Blog">Blog</a></li>
++                            <li><a href="/tags/using-bytesafe/" title="Blog posts how to use Bytesafe">Using Bytesafe</a></li>
++                            <li><a href="/updates/" title="Recent updates to Bytesafe">Recent Updates</a></li>
++                        </ul>
++
++
++                    </div>
++                    
++                </div>
++                
++
++
++                <div class="col-lg-3 col-md-6">
++                    <div class="widget footer-widget">
++                        <h3 class="widget-title">Our Address</h3>
++                        <p>
++                            Drottninggatan 97, <nobr>113 60</nobr> Stockholm, Sweden
++                        </p>
++                    </div>
++                    
++                </div>
++
++                <div class="col-lg-3 col-md-6">
++                    <div class="widget footer-widget">
++                        <h3 class="widget-title">Social</h3>
++                        <ul class="footer-social-link">
++                            <li><a href=https://www.facebook.com/bytesafedev target="_blank" rel="noreferrer" title="Bytesafe on Facebook"><i class="fab fa-facebook-f"></i></a></li>
++                            <li><a href=https://twitter.com/bytesafedev target="_blank" rel="noreferrer" title="Bytesafe on Twitter"><i class="fab fa-twitter"></i></a></li>
++                            <li><a href=https://www.linkedin.com/showcase/bytesafe target="_blank" rel="noreferrer" title="Bytesafe on LinkedIn"><i class="fab fa-linkedin-in"></i></a></li>
++                        </ul>
++                    </div>
++                    
++                </div>
++
++                
++            </div>
++            
++
++        </div>
++
++        <div class="site-info">
++            <div class="copyright">
++                <p>© Copyright 2020 <a href="https://www.bitfront.se" target="_blank" rel="noreferrer" title="Bitfront Homepage">Bitfront AB</a>, all rights reserved </p>
++            </div>
++
++            <ul class="site-info-menu">
++                <li><a href="/privacy/" title="Bytesafe Privacy Policy">Privacy Policy </a></li>
++                
++                <li><a href="/terms/" title="Bytesafe Terms of Service">Terms of Service </a></li>
++            </ul>
++        </div>
++    </div>
++</footer>
++
++
++
++<script src="/dependencies/popper.js/popper.min.js"></script>
++<script src="/dependencies/jquery/jquery.min.js"></script>
++<script src="/dependencies/bootstrap/js/bootstrap.min.js"></script>
++<script src="/dependencies/swiper/js/swiper.min.js"></script>
++<script src="/dependencies/jquery.appear/jquery.appear.js"></script>
++<script src="/dependencies/wow/js/wow.min.js"></script>
++<script src="/dependencies/countUp.js/countUp.min.js"></script>
++<script src="/dependencies/isotope-layout/isotope.pkgd.min.js"></script>
++<script src="/dependencies/imagesloaded/imagesloaded.pkgd.min.js"></script>
++<script src="/dependencies/jquery.parallax-scroll/js/jquery.parallax-scroll.js"></script>
++<script src="/dependencies/magnific-popup/js/jquery.magnific-popup.min.js"></script>
++
++
++
++
++<script src="/assets/js/header.js"></script>
++<script src="/assets/js/app.js"></script>
++
++</body>
++
++</html>
+diff --git a/plain_doc.png b/plain_doc.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..96e5aee16240f85acdfda2a1713ac0c06dc9feab
+GIT binary patch
+literal 812
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z2tRH6
+zXSW|nZ}fC=49Q@9Ga-=cfB}bd^?&6ro22VF9$t*N@%+RBA7SNB*G`EuDGFeq0+kKl
+z>wXnJST_B=(U&Umucx*jkG($c^o{RDu}37|ZoRhV^76f}ZvHy`Nb|AH^4E!T0?%LL
+z*|=U|>&o(Zm%kdETaljKb|ZYktt-~&Usg$^U)gNx{6^a&_to6zCAK}ruX;;af4@w~
+z{+0iK$z7Z2fqP%wn_SP)a=@Qs575p3|1V*BXbB9643OjBPRZ^%Y{1h3bo!G`u`IGb
+ztTNW@us^lwwbKL>eM`M3A0_Ipm)gF5neu3ke?@A?XPbxfwtlK`n-i?Tduc`2=bZ(|
+zm+kzl@jvV<YwQA(Rb1aHpWglGQN8+|%%QDz^Tl_RK2^K5)AjnVKUeD)O#6MfTzPx<
+zY3=#XRvlU;RNlAi@_cCv^AF+q4e^Zi?uDH1_ep)SnEv6E*z@XRJEI>h^K_n9`!pjg
+zbldqWUd5}cCY+DmkZrMfx%oqzCD|vA-t)ElEWlOBoBr*KTFlHVLejteo5JTEQJuqH
+z!n^av?vu}rthUV(o?ak##`MXwTFI{g8a<&k?Y=Re1lGq{E}sXoIX(|$b2`H2xWawE
+zbKgzd!x{JRNEpzpJw<aLuiIF@`TSj`>ji24`G;0Y^55nRJ9x=o>eHLb9WB9&Yokj=
+z*DL_K)RupGLDrW1)$5u>O)^hxe*RF%ulL*BU$^rfum?TvUZh_d4Ni5Qu6{1-oD!M<
+D4$wbu
+
+literal 0
+Hc$@<O00001
+
+diff --git a/scripts.js b/scripts.js
+new file mode 100644
+index 0000000..91e4f69
+--- /dev/null
++++ b/scripts.js
+@@ -0,0 +1,54 @@
++// JavaScript Document
++/*
++ *  scripts.js
++ *  for WiFi Disk & FTP On The Go
++ *
++ *  Copyright 2008-2009 Headlight Software, Inc. All rights reserved.
++ *
++ */
++ 
++function doOnError() {
++   return true;
++}
++window.onerror = doOnError;
++
++//Hide upload items if it's an iPhone or iPod.
++function doOnLoaded() {
++	if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
++		if (document.getElementById("tab-view")) {
++			document.getElementById("tab-view").innerHTML = "Download";
++			document.getElementById("tab-upload").innerHTML = "Upload";
++			document.getElementById("uploadbutton").value = "Upload Unavailable";	
++			document.getElementById("uploadbutton").disabled = "disabled";	
++		} else if (document.getElementById("uploadblock")) {
++			document.getElementById("uploadblock").innerHTML = "";
++		}
++	}
++}
++
++
++//Switching Tabs.
++function show1() {
++	document.getElementById("filestable").className = "visible";
++	document.getElementById("upload").className = "hidden";
++	document.getElementById("tab-view").className = "tab-on";
++	document.getElementById("tab-upload").className = "tab-off";
++	document.getElementById("pathpre").innerHTML = "Path ";
++	document.getElementById("uparrow").className = "visible";
++}
++function show2() {
++	document.getElementById("filestable").className = "hidden";
++	document.getElementById("upload").className = "visible";
++	document.getElementById("tab-view").className = "tab-off";
++	document.getElementById("tab-upload").className = "tab-on";
++	document.getElementById("pathpre").innerHTML = "Upload to ";
++	document.getElementById("uparrow").className = "hidden";
++}
++
++//Showing Help
++function showhelp() {
++	document.getElementById("helpwindow").className = "visible";
++}
++function hidehelp() {
++	document.getElementById("helpwindow").className = "hidden";
++}
+diff --git a/sound_doc.png b/sound_doc.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..ab5dc8d2f59bc31ec319c2b8311ff83d8c89686a
+GIT binary patch
+literal 922
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z5Hl*x
+zdK&Q-$bRSP;uw;_nv@{Hx>(UbiU~hq!r2(PIqh%zBdb{v4%yBVZ8l85R(A17jSByt
+z`Ig1YcztyiE?t-*w_{`0RV}lqTkfTsC)zTkzJL4r_2VVGT(=krbhA6m{AFNZ`SJ28
+zzg4rk4>K$H&zWhQ-X{>MySO#6!iM4074wFOKCy2>XMJkq8cx~Hv8&x>a#d%^HpdLP
+z3XUhwnLqlQe4N~Dmb}>Vi=swD+L;-NoFeR%Y+>I2=i647S#M?T*LtRCE%YQ~#=_v`
+zep4Af<tv}8XXyHP;7R9FP{{rNFaP(&KVS&V1o`~!^!;AUjsnM+!<zU71lF*~AJAGW
+zAaH5fCq@><sR>W5W0a@=_Wz~b60$9`HKek+L4m``!9(?h`EflTv&4Su6KPD+5qaOr
+zzJL3Dw$AdI)m+>EmrVX9=bqet`tu*5<oi`No|72m#RanqU+rRaU{b6)^30}7;H;}b
+zVTn*QL!!jIhyV1?GM_Py*H&7`tS~WhTCG+CyWpao9cl~=J0E7d9w}uw<MdjA!_T$j
+znbIqU7iSkg^Z8+ASSZVoW4z3=Q0DuQj%Q9e3@MU5^$XAbkP6($+wiAfxT0&(i<l`H
+zddJufJn!u7=VF-l;*ikwD<y76nH_TE-|{-u^K8uivi#WIwLwnJR{K|Z73Fa}nfiQP
+z1Y5%<&(QrcvJ87aDO6nz*kRY(TD*FOw9^l7?~g1Wv+T}S%74pDp8JX=;QJj*@tnL4
+zoo!ps@6kCe{JHYnZ-yCLH(Utv+1aq_<2J<u)@zC%+Faho`_X;}yUSPE?8ZpPA1A)e
+zY3>tsEo5!vWU!Ms!t_z3!FghQIQ!Wd_wS@10K)`%$sg=5`*Ruozx%uqlx{s;{an^L
+HB{Ts5nMO&b
+
+literal 0
+Hc$@<O00001
+
+diff --git a/styles-pc.css b/styles-pc.css
+new file mode 100644
+index 0000000..bc95f87
+--- /dev/null
++++ b/styles-pc.css
+@@ -0,0 +1,274 @@
++@charset "utf-8";
++/* CSS Document */
++/*
++ *  styles-pc.css
++ *  for WiFi Disk and FTPOnTheGo
++ *
++ *  By Peter Burford for WiFi Disk and FTP On The Go 
++ *  Copyright 2009 Headlight Software, Inc. All rights reserved.
++ *
++ * The styles-pc is designed to look good on a Mac or Windows PC. 
++ */
++
++
++body {
++	font-family:Verdana, Arial, Helvetica, sans-serif;
++	font-size:12pt;
++	margin: 0;
++	background-color: #ddd;
++}
++
++a, a:visited, a:active {
++	color: #333;
++	text-decoration:none;
++}
++
++#header {
++padding-left: 1em;
++}
++
++#header h1 {
++	margin: 0;
++	padding: 0;
++	font-size: 14pt;
++	overflow:visible;
++	min-height:27px;
++}
++
++#header img {
++	border:none;
++	vertical-align:middle;
++}
++
++#header h2 {
++	width: 320px;
++	margin: 0;
++	padding: 0;
++	font-size: 9pt;
++}
++
++#pathpre {
++	color:#999999;
++}
++
++h2 {
++	margin: 0;
++	padding: .5em 0 0 1em;
++}
++
++#mainbody {
++	width: 80%;
++	margin: 0 auto 0 auto;
++	background-color: #ffffff;
++	border: 3px inset;
++		-webkit-border-radius: 15px;
++		-moz-border-radius: 15px;
++		border-radius: 15px;
++
++}
++
++#section {
++	overflow:auto;
++}
++
++#upload {
++}
++
++#resetbutton {
++	display:block;
++	width: 90px;
++	height: 90px;
++	margin: 20px auto 0 auto;
++}
++
++#tabnav {
++	width: 70%;
++	margin: 0 auto 0 auto;
++	text-align:right;
++}
++
++#tab-view, #tab-upload {
++	border-top: 1px inset;
++	border-left: 1px inset;
++	border-right: 1px outset;
++		-webkit-border-top-left-radius: 10px;
++		-webkit-border-top-right-radius: 10px;
++		-moz-border-radius-topleft: 10px;
++		-moz-border-radius-topright: 10px;
++		border-top-left-radius: 10px;
++		border-top-right-radius: 10px;
++	font-weight:normal;
++}
++
++.tab-on {
++	margin-top: 0px;
++	padding: 4px 5px 1px 5px;
++	position: relative;
++	top: 2px;
++	background-color: #ffffff;
++}
++
++.tab-off {
++	margin-top: 3px;
++	padding: 1px 5px 1px 5px;
++	position: relative;
++	top: -1px;
++	background-color: #eeeeee;
++}
++
++.hidden {
++	visibility: hidden;
++	display:none;
++}
++
++.visible {
++	visibility: visible;
++}
++
++#tabletitle {
++	padding: .4em .3em .2em 2.7em;
++	font-weight:bold;
++	background-color:#CCCCCC;
++	text-align:left;
++	font-size:10pt;
++	border-bottom: 1px solid #ccc;
++}
++
++files_list {
++	width:100%;
++}
++
++.uploadfile {
++	background-image: url(upload.png);
++	background-repeat: no-repeat;
++	background-position: 4px center;
++	padding: .4em .3em .2em 2em;
++	text-align:left;
++	font-size:14pt;
++	font-style: italic;
++	border-bottom: 1px solid #ccc;
++}
++
++#addfile {
++	background-image: url(upload-add.png);
++}
++
++.uploadbutton {
++	display:block;
++	text-algin:center;
++	font-size:16pt;
++	font-weight:bold;
++	margin: .5em auto 1em auto;
++}
++
++.deletebutton {
++	float:right;
++}
++
++a.helplink {
++	float:right;
++	margin: .5em;
++	font-size: 9pt;
++	font-weight: bold;
++	color:#336699;
++}
++
++#helpwindow {
++	position: absolute;
++	top: 1px;
++	left: 1px;
++	width: 90%;
++	height: 90%;
++}
++
++#helpwindow-body {
++	position: relative;
++	top: 20px;
++	width: 60%;
++	margin: 0 0 0 20%;
++	padding: 1em;
++	border: 5px solid #eeeeee;
++	background-color: #FFFFCC;
++		-webkit-box-shadow: 0px 0px 16px #000; 
++		-moz-box-shadow: 0px 0px 16px #000;
++		box-shadow: 0px 0px 16px #000; 
++}
++
++.smallinfo {
++	width: 80%;
++	margin: .2em auto 0 auto;
++	text-align:right;
++	font-size: 9pt;
++}
++
++.smallinfo a {
++	color:#336699;
++}
++
++a:hover {
++	text-decoration:underline;
++}
++
++/* Results Style*/
++
++#filestable {
++	width:100%;
++	border-bottom: 1px solid #ccc;
++	margin: 0;
++	padding: 0;
++	border: none;
++		-webkit-border-radius: 15px;
++		-moz-border-radius: 15px;
++		border-radius: 15px;
++}
++
++#filestable td {
++	padding: .3em .9em .3em .9em;
++}
++
++#filestable .titlerow td {
++	font-weight:bold;
++	background-color:#e0e0e0;
++}
++
++#filestable .stdrow1 td {
++	border-top: 1px solid #ccc;
++}
++
++.desctitle {
++	text-align:left;
++	font-size:10pt;
++}
++
++.sizetitle {
++	text-align:right;
++	font-size:10pt;
++}
++
++.desc {
++	text-align:left;
++	font-size:14pt;
++	font-style: italic;
++}
++
++.size, .size a {
++	text-align:right;
++	font-size:10pt;
++	color:#00f;
++}
++
++.bluelink {
++	color:#00f;
++	text-decoration:underline;
++}
++
++#filestable td.view {
++	text-align:center;
++	width:32px;
++	padding: 0;
++}
++
++#filestable img {
++	padding: 1px;
++	border:none;
++}
+diff --git a/styles.css b/styles.css
+new file mode 100644
+index 0000000..1fc5327
+--- /dev/null
++++ b/styles.css
+@@ -0,0 +1,99 @@
++@charset "utf-8";
++/* CSS Document */
++/*
++ *  styles.css
++ *  for WiFiDisk and FTP On The Go 
++ *
++ *  By Peter Burford for WiFi Disk and FTP On The Go 
++ *  Copyright 2009 Headlight Software, Inc. All rights reserved.
++ *
++ * The styles are designed to look good in Safari on an iPhone. 
++ * Looking much like the WiFiDisk file browser.
++*/
++
++body {
++	font-family:Verdana, Arial, Helvetica, sans-serif;
++	font-size:12pt;
++	margin: 5px 1px 1px 1px;
++}
++
++a, a:visited, a:active {
++	color: #333;
++	text-decoration:none;
++}
++
++#header {
++}
++
++#header h1 {
++	margin: 0;
++	padding: 0;
++	font-size: 12pt;
++}
++
++#header h2 {
++	margin: 0;
++	padding: 0;
++	font-size: 8pt;
++}
++
++/* PB: Results Styles */
++
++#filestable {
++	width: 100%;
++	border-bottom: 1px solid #ccc;
++	margin: 0;
++	padding: 0;
++	border: none;
++}
++
++#filestable td {
++	padding: .3em .3em .3em .3em;
++}
++
++#filestable .titlerow td {
++	font-weight:bold;
++	background-color:#CCCCCC;
++}
++
++#filestable .stdrow1 td {
++	background-color:#FFF;
++	border-bottom: 1px solid #ccc;
++}
++
++.desctitle {
++	text-align:left;
++	font-size:10pt;
++}
++
++.sizetitle {
++	text-align:right;
++	font-size:10pt;
++}
++
++.desc {
++	text-align:left;
++	font-size:16pt;
++}
++
++.size, .size a {
++	text-align:right;
++	font-size:10pt;
++	color:#00f;
++}
++
++.bluelink {
++	color:#00f;
++	text-decoration:underline;
++}
++
++#filestable td.view {
++	text-align:center;
++	width:32px;
++	padding: 0;
++}
++
++#filestable img {
++	padding: 1px;
++	border:none;
++}
+diff --git a/text_doc.png b/text_doc.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..7c2849d97bb2b19c1128821336e64abdd005528a
+GIT binary patch
+literal 788
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z2&ZPd
+z?VS&#4Lw~PLo!(3TxbNTI=tX#u>6zOfW!k0jLd925(Wuqj6J+O3=IGO_g!0E19Zp*
+zkmk2xw{s60@O<HlU8tSXy5@rDuBPx4ENofKk_)s`Sl3Sw-P2U9{(&cK;vbKkE%ICn
+z0SkXv$Z4vEhT63@K9<P1{jDc7SZ?~#RkM~=ZniP~zWb@u1;*?pcXTt9CN!qYt+Pt}
+zH0Kmk+kx}05zj-pIx3lz=hW(Lof@=DVg2>jyZ=~hkN<Jt*|Mvpcg?>}n13lSsK0cP
+zezHTk+5HKpzwIy5Jg?Q+uxE>0MV|d#?xqtz0?sdbB$0S-;dR;W^N-)Ze$U#Jr+1)q
+zL3u*;^+pDcH}`7U`7|4Hof5WQFjkD6z%o5clW`Tt8&f;wgU9W%-8>#oJGFI%u)rzT
+zWMc)78^8S~v?TIzoU6Tlz5le32GjMZO<$jfwakAX8SsA{!~azhjP>^$E9y>K9I*X!
+z^uvR<d>L~#xw^>i_>ot1e)psKZ-3bQmTg>a$RH8tx9_Gro6(%Y^9)yJ_r}ff<hSot
+zs(mHFQ+n?h*Yjk@y&MwB`*jLrB?45>pFA*w+2AJQ3C>?v-XHL_)Zo;4D*v+WENekd
+zTGxw{QyNqn+FCBeD=FxFco?*~IpTZETL+%m2f1gcF!}Fiz9g%-R$B4;=>`1^5lLcf
+pT+FSFha3_Y7z9XY@Vq&GfZt10?d{d<R~JEP!PC{xWt~$(6953)6I=iQ
+
+literal 0
+Hc$@<O00001
+
+diff --git a/upload.png b/upload.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..b1b0c55ff8a0c407c2f59509e4bda132041a56ec
+GIT binary patch
+literal 792
+zc%17D@N?(olHy`uVBq!ia0vp^5+KaM1|%Pp+x`GjjKx9jP7LeL$-D$|Tv8)E(|mmy
+zw18|52FCVG1{RPKAeLeP0p<ma49s8=px6Q?xU9qiW&|6g@R4chS|BBp>Ea&(q?s5X
+zfCq>*pfnIOa?BE}Py({Ac)B=-c<^qSWXacRz{9#z^{l<tZzZupAuBJ32j?R;X=`zK
+z_%lvAqvE${-~0N^S*OHb?$YaHh!^q=6cJK7*1WdqMb!_^J?pYFXSv<lwwJfIrEtkA
+zEzQ$Glb`Q2N;p{3DCxXLuI*!tf$!v=#~P<Mo!Iw&)4J8$ju)P&oF}!j@<lRF@wVK{
+zV#f@4q{MGbbLL!AqqiZdPHjW8(LtN@pH!xBvDrMbejrw0p;l4NR<=6kz}HiobY?Uh
+zJygP2V3))0f9kM|_C(zqtb0^EA2n@PO*;7D!9QSF{Qqy-yQ~uE&nl4r)=oO!)#ND9
+zQrlX)rM9`&mH(NH!xxPgfrd>@5(i|ezH7fojIrrt{(9b^zVvE|#}qGBZ4s_%=bz{9
+zzI*Fy)z;5H*Zi&9fBW%Afj37V$;%|^P46x<={mZ|<f7k)lTV9`UX)lFHGa|Cb$8vC
+z3pGX$4mrBb^f`9v<(6+bX4wbc?_ggU;`P9XwZd}uYZhj`WQUyXxAPYUtz=o7(2&4$
+zq<r^X?>FD8ul}m{o^*0aoZp&kR%Sj!g|p9#7hZoYdGO8ZtEc$do26bcHwd0>bI$DS
+z-FoFo(as!01>fbtjSg`xuTqY-+|Ap*{N$l4l}C1kooIL<G2z(bjSm|CxOYr^@^zoY
+z`L9*F%q*RyYZC%iU)5n-axp_Cfnnl;%P&<5y$&7fSfinCV*%7?u;Th_G3HAtMuLyz
+z0%ldn_Pa;xO*fO^NeNgRmU<z>gy+PA_aDwKyqUw6upvUH<z`OW;fDddeMdD#moA+0
+tx9-0tbNw0~v)N~-&o21rxg~1t{CEqY`%!`smBFCo=jrO_vd$@?2>@<GLCXLD
+
+literal 0
+Hc$@<O00001
+
+diff --git a/video_doc.png b/video_doc.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..debb9ac2507b5843dda6bad0f3b839489e6b2b2f
+GIT binary patch
+literal 1131
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z5Hn`*
+zy!ns}q)j|s978f#-%Q@^cO-zv<@4hUPMoTqN6P{>^47@psQQ^~)a!I?*!IEe+KtEQ
+zX_GTw#cN;S+QPKf0fWjBneqJR-$^;eF{(S3Jbpaw)Y;imatBVz^L}DvwSO;hH&DXZ
+zckwZsJti+^yH*~5(Ray1%J|YAozv3GW`*nQcyqXMUOHRxRO!0vC#Ne+Jbq4(-&B0&
+z;fBR~ugEGj?=i4Q()_;W$I7I|x6T+|FJ}=ie7555(ZI$0lm5?mvqg9^_mS`agpX_N
+z?-GeQGIMd6c;*?8%ZH!)|CFq6nOAO~Wt+Bc$N!&fU%2jM-;7oG7j9_d(f|GLO=bg&
+z0QNQY>!;n<*vEUuF2-&BdD}N1W#62U*}7Z8cjv|Ay^P_BkJcT&Q=WIE+P1PUFi&*l
+zCkA<75dQzqw`4^ZFnCo!;rDj>-aKhXo|eB2e$v~$vbTFmZufdQW!jY^bAwfT|5lv5
+zaH3pJaCdd}rfVGxoC<9+lbqkZV&B!>eJXqN%|DuwPfyk6-7MSv_tL57b6%P~4>IqT
+zx*!ttZ&zB>zh%=_f7Dr0Q><6IxnqJjo4ZcEX}Z;k<r{YHIx+j5iL%AhI6jws(%!uX
+z6&3z3o-MZbQ^mRSUzb^*<?yr0w`O2cXfE4*m%VVh?(3Bc<zt_vsNC<3Y}gU~;DFP!
+zlo*}%26MLOA35yLYrMT^y8Q}=xm2xVn&tJUmw)U}xPB=vB>GOa+Yk5I-4paB=Nwo5
+zW3zaR`}I3Pi@RT!|B)2_-@-b**5bnFj15zYs;7$p<0Dt8S29!R|7(wL)+IjQchsw9
+zv0pg*H{{*M<6c{5N|!OTFh4dp@~K{>I^)O_rjL97A1qlec_!q%oO`bDVomd^n*Z-r
+z^P1zG&hM7rDz~|3$KF)sb23|fml!Jh{^F<!f2Sv~U+i%6mkRk^t17p@KM-|zUuI|N
+zjNb*4#l6Q5^EDJKVDrmgZ^sya_{iP1o$q5hzgK-a6PP#a;F&Xlw~u6;>Xkb!|IOoN
+z_tbA6YOXFfROWr;|9Il2!iK3uzL(1%EO0+%W1OV7PFnCIoA{)9ss1TjnZMZReY^5P
+zDNfFN=Huz$bhWM1BrV5GR&nNYLH%jV3?C;gY~`(#`{*?DQ*`@{j4!D(pT<m&&uWqG
+o-KVg5j`i>7(iZm*yypGG+AnMCxI6XB8&F2{boFyt=akR{01PnL#{d8T
+
+literal 0
+Hc$@<O00001
+
+diff --git a/windows_app.png b/windows_app.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..96e5aee16240f85acdfda2a1713ac0c06dc9feab
+GIT binary patch
+literal 812
+zc%17D@N?(olHy`uVBq!ia0vp^20-k<!3HE_6u!6tDaPU;cPEB*=VV?2ITfi9o@u_m
+z3|c@o2LlVE6ay<r2@u;cO2gT1j2aBgU^Wv2LwhCz3sl^X0RkpK`4F0U0V7m3P;3Dc
+zT(!XhW;ojcr0qk7NfMCaEbxddW?&Fg1z|?dAe9e5L77Y!{}3R}1hql|h&7-z2tRH6
+zXSW|nZ}fC=49Q@9Ga-=cfB}bd^?&6ro22VF9$t*N@%+RBA7SNB*G`EuDGFeq0+kKl
+z>wXnJST_B=(U&Umucx*jkG($c^o{RDu}37|ZoRhV^76f}ZvHy`Nb|AH^4E!T0?%LL
+z*|=U|>&o(Zm%kdETaljKb|ZYktt-~&Usg$^U)gNx{6^a&_to6zCAK}ruX;;af4@w~
+z{+0iK$z7Z2fqP%wn_SP)a=@Qs575p3|1V*BXbB9643OjBPRZ^%Y{1h3bo!G`u`IGb
+ztTNW@us^lwwbKL>eM`M3A0_Ipm)gF5neu3ke?@A?XPbxfwtlK`n-i?Tduc`2=bZ(|
+zm+kzl@jvV<YwQA(Rb1aHpWglGQN8+|%%QDz^Tl_RK2^K5)AjnVKUeD)O#6MfTzPx<
+zY3=#XRvlU;RNlAi@_cCv^AF+q4e^Zi?uDH1_ep)SnEv6E*z@XRJEI>h^K_n9`!pjg
+zbldqWUd5}cCY+DmkZrMfx%oqzCD|vA-t)ElEWlOBoBr*KTFlHVLejteo5JTEQJuqH
+z!n^av?vu}rthUV(o?ak##`MXwTFI{g8a<&k?Y=Re1lGq{E}sXoIX(|$b2`H2xWawE
+zbKgzd!x{JRNEpzpJw<aLuiIF@`TSj`>ji24`G;0Y^55nRJ9x=o>eHLb9WB9&Yokj=
+z*DL_K)RupGLDrW1)$5u>O)^hxe*RF%ulL*BU$^rfum?TvUZh_d4Ni5Qu6{1-oD!M<
+D4$wbu
+
+literal 0
+Hc$@<O00001
+
+--
+Working Copy 5.0.0

@@ -1,0 +1,42 @@
+
+parse_expenses.py
+
+
+addresses.rb
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+#!/usr/bin/env ts-node
+
+import { fetch } from "fetch-h2";
+
+// Determine whether the sentiment of text is positive
+// Use a web service
+async function isPositive(text: string): Promise<boolean> {
+  const response = await fetch(`http://text-processing.com/api/sentiment/`, {
+    method: "POST",
+    body: `text=${text}`,
+    headers: {
+      "Content-Type": "application/x-www-form-urlencoded",
+    },
+  });
+  const json = await response.json();
+  return json.label === "pos";
+}
+
+Replay
+Copilot

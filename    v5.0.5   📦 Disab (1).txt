@@ -1,0 +1,829 @@
+
+
+
+v5.0.5 
+
+📦 Disable LFS (Large File Storage) when cloning repository.
+
+v5.0.4 February 4th, 2022
+
+🐛 Fix such that renaming linked repositories renames the name inside Working Copy and not the external directory.
+
+📦 Export zip archive of .git folder from repository context menu.
+
+🔐 Fix commit signing with Ed25519 keys.
+
+v5.0.3 January 27th, 2022
+
+📝 Markdown lists automatically continue on next line.
+
+🔐 Support for SSH encrypt-then-mac (etm) modes where message authentication code is calculated on encrypted data instead of plain text data. Some hardened SSH servers refuse connections from clients that don't support this.
+
+⌨️ Fix line numbers in editor sometimes being truncated.
+
+☕️ Update icon for Gitea hosting providers.
+
+🐛 Fixed bug where tag list had no back button on iPad.
+
+v5.0.2 January 15th, 2022
+
+🔖 Tags are listed from the Repository status page. Create new tags, Delete existing ones and open the website for tags on GitHub, GitLab and BitBucket.
+
+✍️ Use elliptic-curve keys for commit signing.
+
+v5.0.0 January 4th, 2022
+
+🌲 Improved check for whether a GitHub PR already exists between branches before creating new one. 
+
+🐛 Fix bug that could happen when setting up linking between existing repository inside Working Copy and external folder/package where external directory had previously been linked to Working Copy.
+
+v4.9.9 December 17th, 2021
+
+🥶 Fix freeze that would happen when ignoring files or directories in external repositories.
+
+v4.9.8 December 17th, 2021 
+
+📋 Support creating files from clipboard where file type is unknown.
+
+🐛 Fix bug where .gitignore negate rules inside directories didn't fully override more general ignore patterns.
+
+☑️ Improvements to committing and updating of submodules.
+
+v4.9.7 November 30th, 2021  
+
+🐛 Fix such that more than 100 personal repositories are listed from GitHub.
+
+📂 Moving linked repositories into folders is now working.
+
+v4.9.6 November 25th, 2021 
+
+💥 Fix crash that could happen in commit dialog.
+
+📂 Correctly sort linked repositories with .git folder outside Working Copy in repository lists.
+
+v4.9.5 November 16th, 2021
+
+🐛 Fix problem where Working Copy thinks GitHub has the wrong SSH hostkey fingerprint.
+
+v4.9.4 November 11th, 2021 
+
+📂 Convert regular repositories to linked external repositories. 
+
+Invoke the share sheet for repositories and tap "Link Repository to Folder" or "Link Repository to Document" where the latter works for directory-like documents such as Swift Playgrounds and Codea projects.
+
+v4.9.3 November 5th, 2021
+
+🔐 Updated libssh2 to support RSA public key authentication with latest versions of OpenSSH.
+
+🐛 Fix problem rebasing linked external repositories.
+
+📂 Moving linked repositories in and out of folders works correctly.
+
+v4.9.1 October 28th, 2021
+
+📂 Configure linked external repositories by dragging from Files app into the list of repositories in Working Copy.
+
+v4.9.0 October 21st, 2021 
+
+📂 Control whether linked repositories store .git directory inside Working Copy or in the external directory from Repository Configuration screen.
+
+🎬 Audio & Video files stop playing when you navigate away and will only auto-play when enabled from the file mode popup.
+
+🐛 Improved behaviour when you Sync or Pull repository in the unborn HEAD state, which is when there has never been any commits.
+
+📺 Smoother hiding of top and bottom bars during file Preview.
+
+v4.8.8 October 18th, 2021
+
+ ⌨️ Editor can draw whitespace characters (space, tab, newline) which is configured by tapping the file mode above the text. Python and Makefiles draw whitespace by default.
+
+🎨 Fixed color glitches on iOS 15.
+
+v4.8.7 October 7th, 2021
+
+🐛 Fix scrolling glitch in editor that could happen right after making changes.
+
+📂 Fix that renaming repository folders would sometimes make them fail to open until next app launch.
+
+v4.8.6 September 29th, 2021
+
+🐛 Fixes bad scrolling performance in repositories linked from external directories.
+
+🤖 Control how the Write Repository Files action in the Shortcuts app behaves when the file already exists. There was a bug where the setting couldn't be changed on iOS 15.
+
+⌨️ Using Tab and Shift+Tab to indent and uindent is working again on iPadOS 15.
+
+v4.8.5 September 27th, 2021 
+
+🔗 Manage repositories outside the Working Copy location keeping them on iCloud Drive, locally on your device or on remote servers via Secure ShellFish.
+
+When adding repositories you tap "Link external directory" and pick a folder in the Files app. This will appear as any other repository inside Working Copy and as you edit, commit, push and pull the changes are made to the original linked directory.
+
+📂 Since Working Copy needs folder-level access this can only work with Files app locations that support picking folders. Unfortunately the major cloud storage solutions only support granting file-level access.
+
+A .git folder is created if the directory you pick isn't a repository but kept inside Working Copy to not confuse other apps.
+
+This is a pro feature available to users that purchased or upgraded their pro unlock after September 2020.
+
+v4.8.0 September 20th, 2021 
+
+⌨️ Improved navigation on iPadOS 15 with external keyboard.
+
+v4.7.8 September 13th, 2021
+
+📺 Scrolling down in Preview mode hides navigation and tab bars giving much more space for file content. Scrolling up shows the bars again.
+
+🤖 Shortcuts actions for Merge and Checkout are better at resolving remote branches.
+
+List Repositories action in Shortcuts app includes HEAD in results. Combined with filtering this can be used to check the current branch of a repository.
+
+🐛 Fix bug where file listings inside directories with Chinese names would sometimes show as empty.
+
+v4.7.7 August 23rd, 2021
+
+📊 Added anonymous and optional usage analytics keeping track of how often key features of the app are used. This is opt-in for old installs and opt-out for new installs with additional details in the privacy policy.
+
+🚀 Working Copy now requires iOS 14 as a minimum to focus testing on the current and future versions of iOS.
+
+🏎 Major under-the-hood changes to commit dialog making it faster and more reliable.
+
+🏷 Commit lists truncate long branch names in a way that respects popular naming conventions such that feature/frontend/broken-link-detection is truncated to fe../fr../..etection
+
+🤖 Merge Repository action in Shortcuts app will detect if the merge would end up with conflicts in smulation mode.
+
+v4.7.6 July 19th, 2021
+
+📖 Pick one of the last ten commit messages in commit dialog by tapping button to the left of summary field.
+
+🏎 Performance improvements in commit dialog.
+
+🔌 Improved integration with Gitea hosting providers.
+
+👩‍👧‍👦 Commits returned in Repository History action in Shortcuts app include parent commit identifiers.
+
+
+v4.7.5 July 3rd, 2021  
+
+🐛 Fix problem where staging files from the commit dialog would sometimes uncheck files.
+
+
+v4.7.4 June 25th, 2021 
+
+🔄 Directory Sync is faster and more robust for large directories.
+
+📋 Copy from share sheet of Content tab works again when pasting into Working Copy itself.
+
+
+v4.7.3 June 16th, 2021 
+
+🐛 Fix bug where staging files wouldn't always stick in commit dialog especially when other apps changed the files.
+
+📃 Improvements to word highlighting when diff has many special characters.
+
+✍️ Edit Message works for commits without parents.
+
+📋 Copy from share sheet of Content tab works when pasting into other apps.
+
+⬆️ Pull Request creation is possible before the local branch has been pushed and you will be asked to push during PR creation. 
+
+
+v4.7.2 June 3rd, 2021 
+
+💥 Fix crash when swiping or showing context menu for commit inside submodule.
+
+v4.7.1 May 28th, 2021
+
+🐛 Improved check for whether history rewriting is required when making changes to local branches.
+
+v4.7.0 May 24th, 2021
+
+✍️ Gracefully clean up your commit history on individual branches. 
+
+Long tap commits and Edit Message from the context menu to improve commit messages or Delete Commit to rewrite the branch without the changes applied by this commit. Drag one or several consecutive commits to change the order in which commit changes are applied. The built-in resolve tool makes it fast and easy to fix conflicts and you can Undo changes to the branch with 3-finger swipe or Command+Z.
+
+These are pro features available to everyone that purchased or upgraded less than 12 months ago. Learn more in the Branch Editing section of the Users' Guide.
+
+💥 Fix crash that could happen when trying to create Digital Ocean droplets when authentication had expired.
+
+🗝 Improved how SSH host key is dictated on Digital Ocean droplet creation to make them ready 15-30 seconds faster.
+
+📖 Popup from commit graph supports showing file differences side-by-side.
+
+🐛 Fix bug where staging files for commit by tapping checkbox would sometimes not stick in commit dialog.
+
+Fix bug where long tapping back button would sometimes show empty entries when deep in directory hierarchy.
+
+v4.6.7 May 18th, 2021  
+
+📃 Support for PDF screenshots on iOS 14 in the editor and when previewing Markdown, AsciiDoc, org-mode and Jupyter Notebooks. Take a regular screenshot and switch from Screen to Full Page.
+
+📦 Syntax highlighting for Terraform.
+
+⚠️ Improved behaviour when repository has conflict in submodule entries.
+
+🐛 Fixed problem where ingesting logs with Process in Working Copy from the share sheet didn't work with latest versions of iOS.
+
+v4.6.6 May 4th, 2021 
+
+⬆️ Previously branches configured to allow "History Rewriting" would Force Push as this might be needed. Now a regular non-forced push is attempted first and only when this fails is the user asked to Force Push. This will be "forced with lease" such that it only completes if the head of the remote branch on the server is unchanged since the last Fetch.
+
+You can still explicitly Force Push through the "Push To..." mechanism which doesn't attempt a regular push first and isn't "forced with lease".
+
+🔄 Fix problems with Folder Sync when filenames contained diacritics.
+
+✍️ Renaming repositories from context menu works correctly inside folders.
+
+📜 Avoid weird scrolling if you made edits and quickly scrolled away from the cursor.
+
+v4.6.5 April 23rd, 2021
+
+✍️ Rename from the context menu in repository lists.
+
+🚚 Commit dialog works better for large binary files not handled by LFS making it clear when staging is not instant.
+
+🕵️‍♀️ Repositories created from the remote detail screen default to being private.
+
+💾 Write Repository File shortcuts action is better at staging large files.
+
+🖥 Improved auto-detection of hosting providers.
+
+v4.6.4 April 6th, 2021 
+
+⚙️ Ignore configuration when .lfsconfig points at LFS server with non-https scheme.
+
+⬆️ It is possible to disable Push for submodule remotes.
+
+🔎 Improvements to fuzzy search of Markdown headlines.
+
+v4.6.3 March 27th, 2021
+
+⏳ Nicer deletion of large repositories making it clear the app is busy.
+
+⚙️ Digital Ocean droplet creation only allows images and plans supported by the selected region.
+ 
+v4.6.2 March 24th, 2021 
+
+🚅 Quickly start working on Pull Requests by picking Process in Working Copy from the share sheet of BitBucket, GitHub or GitLab links. A repository is configured with relevant remotes, checking out the head branch of the PR ready to review and make changes.
+
+This works from Pull Request screens inside the GitHub app for an efficient mobile workflow. 
+
+Long tap the repository to jump back to the Pull Request page on the hosting provider website.
+
+📒 Improved syntax highlight of shell scripts inside Markdown.
+
+Syntax highlighting for Nim.
+
+v4.6.0 March 8th, 2021 
+
+🐛 Fix bug where dragging repositories into folders would show error message for folder until next app launch.
+
+Create files or directories starting with .git such as .github and have them appear right away. It still isn't possible to create files or directories named .git as this will damage your repository.
+
+💾 Fix problem where Save + Commit from share sheet wouldn't always commit.
+
+v4.5.9 March 1st, 2021
+
+⬇️ Update your repositories from Files app listings with Pull from the context menu.
+
+🔐 SSH Command and SSH Upload supports multi-step authentication requiring both public key and password.
+
+✉️ Support email from settings respects default Mail app.
+
+🐛 Fix bug where Commit prompt wasn't always shown when saving from share sheet.
+
+v4.5.8 February 22nd, 2021
+
+🥶 Fix bug where editing files containing Chinese characters with word wrap disabled could cause crashes or freezing.
+
+⌨️ Syntax highlighting for GDScript.
+
+v4.5.7 February 15th, 2021
+
+⌨️ Disable Word Wrap in the editor and scroll text files horizontally. 
+
+Tap file mode in the upper right corner to change Word Wrap and other editor settings.
+
+This requires iOS 14.4 or iPadOS 14.4
+
+v4.5.5 February 5th, 2021
+
+🤖 Merge Branch action in Shortcuts app outputs information about what it did. It has a new Method parameter where you can switch to rebase, only allow fast-forward or simulate merge to get information about what would happen without changing repository. 
+
+🏋️‍♂️ Fixed excessive memory usage that prevented committing when saving through the sharesheet.
+
+🌐 Directory creation in WebDAV server no longer fails when directory already existed.
+
+🐛 Fix bug where following links from Markdown or HTML preview into submodules didn't always work.
+
+🔗 Symlinks created with "Link from Clipboard" point relatively.
+
+v4.5.4 January 18th, 2021
+
+📝 Commit dialog updated to make it easier to show changes and faster to make partial commits. 
+
+Tap checkbox to stage or unstage entire file and tap filename to show modified lines. Tap modified lines to select them or long tap or mouse-click and drag to start multi line selection. Stage and unstage selected lines with popup menu or with S and U on external keyboard.
+
+📺 Preview is supported for xhtml files.
+
+🤖 New Shortcuts "Details of Repository Files" action that takes one or more files and returns details about them including repository, path in repository, status and full path. This makes it easy to make logic based on file locations and works well with the Open Repository File action.
+
+Pass in results from Get Repository Files or other actions producing files but note that many of these properties only make sense for files inside Working Copy and will be empty for outside files.
+
+
+v4.5.2 December 30th, 2020
+
+📒 History below Repository status & configuration includes commits for all branches.
+
+🐛 Fixes error listing repositories on some BitBucket accounts.
+
+v4.5.1 December 9th, 2020
+
+📦 Stash and Unstash from the context menu of repositories. This requires iOS 14 and Pro unlock purchased less than 12 months ago.
+
+⚙️ When submodule configuration points to missing commit and clone would otherwise fail it will automatically fix HEAD to match current branch.
+
+🐛 Fixed layout glitch when filtering branch list.
+
+v4.5.0 December 3rd, 2020
+
+🧾 Drag "Compare to HEAD" dialog into a new window on iPad.
+
+🚮 Context menu for repository folders with more than 25 entries have a new "Delete Content" choice for deleting rather than collapsing the folder. This can be useful if you accidentally imported a large directory that would be hard to delete manually.
+
+v4.4.9 November 23rd, 2020
+
+⌨️ Open text files in Textastic from the context menu. You will be asked to pick the outermost Working Copy folder the first time to grant Textastic access but after this it should be much faster than using the share sheet. 
+
+🧾 Compare to HEAD from context menu of commits is useful for comparing differences with other branches or old versions of a project.
+
+v4.4.8 November 17th, 2020
+
+🌎 Only datacenter regions available for new projects are shown when creating Digital Ocean droplets.
+
+🖲 Button to import new fonts at the top of font list for editor looks more like a button.
+
+◀️ Fix missing back button on Signing Key screen on iPad.
+
+v4.4.7 October 29th, 2020
+
+⌨️ Improved performance when editing on iPad with external keyboard.
+
+🔏 When importing GPG keys with multiple users the wrong user would sometimes be picked causing the commit signature to be invalid. Correct user is picked if you import the key again.
+
+v4.4.6 October 24th, 2020
+
+🐹 Improved GoGS authentication.
+
+🐛 Fix problem where back button wasn't always shown on iPad.
+
+Fix bug where internal rather than external IP address was sometimes read for Digitial Ocean droplets.
+
+v4.4.5 October 19th, 2020
+
+🌐 Context menu for commits and files can open the corresponding page on the hosting provider website or their app when available.
+
+🔎 Full branch list available from the Repository status & configuration supports filtering by name.
+
+Improvements to word diff highlighting.
+
+🐛 Configuration when creating Digital Ocean droplets is now always used.
+
+💥 Fix crash when using Working Copy from the share sheet.
+
+
+v4.4.3 October 9th, 2020
+
+◀️ Fix bug where back button would not reappear after searching in editor.
+
+v4.4.2 October 4th, 2020
+
+📖 Recently open files are available by tapping the bookmark button in the upper right corner of repository or directory lists. Long tapping the back button now has standard behaviour on iOS 14 allowing you to step out multiple screens.
+
+Logs can be opened from list of recently open files.
+
+🐛 Links in commit messages to websites, issues or pull requests work properly.
+
+v4.4.1 September 27th, 2020 
+
+🐛 Fix swiping from left screen edge to make it correctly go back a level.
+
+v4.4.0 September 16th, 2020 
+
+🌐 Start or Stop the internal WebDAV server from shortcuts on iOS 14 without opening Working Copy. The custom action to control WebDAV is available on iOS 13 as well but needs to open the app.
+
+🔗 Universal links can be used in HTML and Markdown preview to jump to files in other repositories inside the app. Generate universal links from the share sheet.
+
+🐛 Fixed issue where preview on external display would sometimes start out wrong when connecting display while a file was being shown.
+
+v4.3.7 September 6th, 2020
+
+📺 Preview Markdown, HTML, AsciiDoc, org-mode or Jupyter Notebooks on external displays connected through AirPlay or HDMI.
+
+When you have an external display connected a small TV button on the top of the screen when viewing files that can be previewed. Toggle preview, adjust text size and control scrolling from there.
+
+This is part of the External Preview pro feature that is available to everyone that purchased the unlock after January 2018.
+
+v4.3.5 August 28th, 2020
+
+⚙️ Submodules can be configured inside Working Copy. All existing submodules are available from the Repository status screen where you can add new submodules and remove the configuration for non-cloned submodules.
+
+Submodule configuration is a Pro feature available to everyone that purchased or upgraded their Pro unlock less than 12 months ago.
+
+Context menu for submodules has distinct choices to Commit or Revert Submodule content or the pointer to the HEAD from parent repository.
+
+🚀 Push to… from repository context menus makes it easier to just enter a branch name for the remote reference asking you to add refs/heads/ as needed.
+
+🐛 Fix bug where "Pull to Fetch all" didn't work for new folders.
+
+v4.3.3 August 1st, 2020
+
+🤖 Automate creating Pull Requests with new Shortcuts action.
+
+🗒 Secret GitHub gists are listed alongside public gists when cloning.
+
+🐛 Fix bug where opening files in preview mode from Shortcuts would sometimes fail.
+
+📦 Setup Package Sync used with Codea is working again.
+ 
+v4.3.2 July 6th, 2020
+
+📖 Scroll location is remembered for the most recently previewed PDF, Markdown, HTML, AsciiDoc and org-mode documents.
+
+🤖 Shortcuts action to write repository files supports appending and prepending to existing files.
+
+✨ Updated to latest libgit2 v1.0.1 for Git operations.
+
+🐛 Fix bug where SSH Command would upload to a truncated version of the filename when it contained certain characters.
+
+⌨️ New keyboard shortcut for SSH Command that should not conflict with any system shortcuts for any keyboard layouts.
+
+v4.3.0 June 24th, 2020
+
+🐛 Fixed problem checking GitHub student status.
+
+v4.2.9 June 18th, 2020
+
+📺 Preview mode for .csv and .tsv files.
+
+📭 Write non-empty commit messages in your empty commits.
+
+🐛 Fix problem where changing editor mode right after app launch didn't work.
+
+v4.2.8 June 15th, 2020
+
+⌨️ Editor detects characters in right-to-left (RTL) scripts and adjusts alignment accordingly.
+
+📭 Setting inside repository configuration allowing empty commit messages now enables entirely empty commits without files. In the commit dialog you still have to verify empty commits to avoid accidents.
+
+🐛 Fix problem using BitBucket LFS when remote has SSH scheme.
+
+🖱 Adjust margin for global scroll gesture.
+
+v4.2.7 June 8th, 2020
+
+👩‍💻 SSH Command that allows you to use command line tools from a server on the files in your repository has significant improvements for long-running commands. Tapping Stop will send a signal equivalent to ^C in the terminal, giving the command a chance to stop voluntarily and changes to be downloaded. Tapping Stop again will close the SSH connection and skip downloading.
+
+📂  Configure how SSH Command shares files between device and server by tapping the button with the up/down arrows where you also enable port forwarding. The Sync mode is the old behaviour where files are uploaded, command is run and changed files are downloaded. Switch File Sharing to Off such that the command runs without any file transfers or switch to the new Mount mode.
+
+Mount makes your local directory available on the server through a WebDAV share such that it appears as a regular directory. This way commands can run immediately without having to upload any files and changed files are immediately available inside Working Copy before the command completes. This WebDAV share is tunnelled through the existing SSH connection making it fully secure. The app can help you install davfs2 used to mount this WebDAV share on Debian/Ubuntu style Linux distributions.
+
+📘 SSH Command remembers previous commands used for certain files and filetypes, but is could be difficult to get started. Now Working Copy recognises shell, perl, ruby and python scripts and includes suggestions on how to execute these on your server. Dockerfiles are recognised as well suggesting a command to build a container. 
+
+You will see the top suggestion in the context menu for files and additional suggestions in the little bookmark button when using SSH Command.
+
+Remember that you can spin up servers at Digital Ocean and easily shut them down again for fast, cost efficient access to servers.
+
+🐛 Fix error saving attachments from the Mail app into Working Copy from the share sheet.
+
+Fixed bug where port forwarding during SSH Command didn't work.
+
+🔎 When searching in the editor the empty file scope search is presented differently to work better as an outline of the file.
+
+
+v4.2.5 June 1st, 2020
+
+🐛 Fix such that dragging document packages (such as Swift Playgrounds) into Working Copy correctly imports directory.
+
+Using Working Copy from the share sheet works correctly with document packages.
+
+🐚 Configure and open your Digital Ocean servers in the Files app when Secure ShellFish is installed from the context menu where your servers are listed. 
+
+🏎 Sheet to create Digital Ocean servers will present it itself much faster.
+
+📂 SSH Command asks to create missing remote directories.
+
+v4.2.4 May 25th, 2020
+
+💥 Fix lockup when showing commit graph on iOS 13.5
+
+🧑‍🦱 When resolving conflicts the avatar images of the commit authors on each side are shown.
+
+⌨️ Keyboard shortcuts to Fetch/Pull/Push show progress on repository status sheet.
+
+📒 Better display of errors in Jupyter notebooks.
+
+Updated special Netlify LFS instructions to work with latest configurations.
+
+🐛 Fix bug where Markdown and HTML preview sometimes refused to refresh until you left and entered the file again.
+
+Fix problem where Write to Repository action in the Shortcuts app didn't always stage files with certain characters in filename.
+
+Fix bug where submodules that got replaced by regular directories when switching branches didn't properly refresh.
+
+v4.2.3 May 12th, 2020
+
+🖼 Relative links are inserted when picking images during Markdown or LaTeX editing on iPad.
+
+📦 When enabling zip archive output in the Get Repository Files action in Shortcuts you can configure how zip archive retains directory hierarchy from repository.
+
+🔐 Added confirmation step when deleting SSH keys.
+
+🏎 Performance improvements to port forwarding for SSH Command.
+
+🐛 .editorconfig files are working again.
+
+Fix layout glitch for navigation bar title after state restoration.
+
+v4.2.2 May 4th, 2020
+
+📂 Jump directly from repositories or directories inside Working Copy to the Files app from the context menu on iOS 13.
+
+Pick Working Copy from the context menu of directories & files in the Files app to jump back.
+
+🐛 Improvements in Files app to avoid "Content unavailable" errors for very large directories.
+
+Fix such that dragging directories into Textastic always works.
+
+Lists of branches in Shortcuts custom actions update when you make changes from inside the main app.
+
+v4.2.1 May 1st, 2020
+
+Improvements to how your repositories can be recloned when you restore from backup.
+
+v4.2.0 April 29th, 2020
+
+☁️ Working Copy is able to create Digital Ocean droplets on demand for use with the SSH features of the app. Go to Settings > Hosting Providers > Digital Ocean and sign in with your Digital Ocean account for a list of droplets and the ability to configure a SSH key with a single tap.
+
+Tap + to create new droplets with your choice of operating system, hardware/price and datacenter region. Droplets created by the app are tagged with working_copy and can be stopped, started and destroyed from within the app. Host keys of new servers are generated by Working Copy and applied through #cloud-config for operating systems supporting this such that connections can be made without having to prompt to verify the host key.
+
+Tap the small button to the right of the server field on the SSH Command screen itself for a list that includes previously used servers and now Digital Ocean droplets with buttons to configure or create new servers.
+
+You might be using another cloud provider than Digital Ocean and wondering when I will support AWS, Alibaba Cloud, Azure, Linode et cetera. I plan to eventually support additional cloud providers but this isn't my top priority and I suggest you sign up with Digital Ocean as it will make some of my coming features more flexible. You can keep down costs by destroying servers when you are done with them which is easy from within the app.
+
+Digital Ocean integration requires iOS 13 or iPadOS.
+
+🧳 Custom actions in the Shortcuts app clears cached data for all but the most recently used 3 repositories. This avoids excessive memory usage when running through all repositories.
+
+🐛 Preview of AsciiDoc that included other documents no longer causes the app to crash.
+
+🖲 Popup shown when long-tapping back button is shown on right click as well when a pointing device is attached on iPadOS 13.4 
+
+You can no longer invoke the share sheet by sliding left on files and directories on iOS 13 as it conflicted with other gestures. Long tap to share from the context menu.
+
+v4.1.8 April 16th, 2020
+
+🐛 Fix problem where opening commit graph on iPad would sometimes freeze the app.
+
+📦 Get Repository Files action in the Shortcuts app can be configured to output a zip archive instead of individual files.
+
+📝 When entering commits from the Status tab of a file the changes from this file are shown at the top.
+
+Auto stashing when rebasing changes didn't properly include Added (never committed) files and now it does.
+
+⌨️ Shift + Tab properly unindents files using tab for indentation.
+
+Keyboard shortcut to Delete File from directory listing is deactivated while editing files as it conflicted with standard shortcut to Delete Line.
+ 
+v4.1.7 April 10th, 2020
+
+📱 8 new app icons designed by the amazing Michael Flarup. Tap the small icon at the top of app settings for the list of icons. Using the new icons require a pro unlock purchased within the last year. 
+
+⌨️ Pinch to change text size in editor is no longer available when editing as it made it very hard to perform 3-finger gestures to undo, cut and paste. 
+
+🔼 SSH Upload properly detects file changes happening while Working Copy is in the background uploading as needed.
+
+🐛 Fix such that repository status button works from commit graph.
+
+v4.1.6 April 3rd, 2020
+
+🔗 Open repositories on BitBucket, GitHub & GitLab in Safari from the context menu on iOS 13.
+
+📃 Updated syntax highlighting definitions for Markdown.
+
+🐛 Fix crash that could happen when filtering in directory listings would hide all files.
+
+v4.1.5 March 31st, 2020
+
+🌐 Server Persistence is a new feature that can track your location while server features of Working Copy are in use. You will be able to see where you have been while WebDAV, SSH Command, SSH Upload or External Preview was running and this allows the app to keep working in the background. 
+
+This is a pro feature available to anyone that unlocked the app in the last 12 months. If you purchase or upgrade the pro unlock today you get access to Server Persistence and any pro features added the next year. You do not lose access to existing pro features after 12 months but new ones will be locked.
+
+There are distinct settings for WebDAV, External Preview and each of the servers you use with SSH Upload / Command. These locations are remembered for 10 days and never leaves your device.
+
+⌨️ When editing in Natural mode the modern quotes and dashes are no longer converted to plain ones. Switching between Natural and Programming mode is done by tapping the button with the file type in the upper right corner and is remembered for each type of file.
+
+🏎 Reading of commit lists is much faster in large repositories.
+
+🐛 Fix bug where resetting a local branch to the head of the remote branch would require history rewriting to be allowed. Now this is correctly considered a non-rewriting reset.
+
+
+v4.1.4 March 25th, 2020
+
+🖱 UI elements respond to the cursor on iPadOS 13.4 when connecting a mouse or trackpad.
+
+⏩ SSH Command has support for port forwarding where it listens for local connections and forwards these through the remote server. Tap the new button at the top of your SSH Command to configure this.
+
+🐛 Fixed memory leak that could cause the app to run out of memory and quit after extended use.
+
+v4.1.2  March 20th, 2020
+
+Long tap repositories and pick "Push to…" for a powerful and flexible way to Push. You can push local references such as branches or tags to any remote reference (branch, tag, pull request, gerrit issue) in any remote repository. To make this efficient there is autocomplete on source reference, remote repository and remote reference.
+
+This is a pro feature available to anyone that unlocked the app from April 2019 or later. If you purchase or upgrade the pro unlock today you get access to this new feature, all other pro features and any added the next 12 months. You do not lose access to pro features when these 12 months are gone.
+
+Fixed problem when doing SSH transfers with GitLab where the app failed to try a new SSH key when the first one was recognised but didn't grant access to the repository.
+
+Files starting with . are included in the Files app.
+
+Fixed bug where it was impossible to enter new login/username on authentication errors when username was baked into hosting provider server field.
+
+v4.1.0 March 16th, 2020
+
+Added keyboard shortcuts to Copy, Delete, Duplicate, Paste & Rename the file currently selected with arrow keys. Hold down Command on your external keyboard to list available shortcuts.
+
+Fix such that attachments dragged from Mail and dropped into Working Copy are correct on iOS 13.
+
+Context menu for files include Copy Path action.
+
+Fix crash that could happen when listing commits on iOS 12.
+
+List of SSH keys updates immediately when a new SSH key has been generated.
+
+Fix bug where content of repository folders was sometimes wrong after renaming until next app launch.
+
+v4.0.9 March 5th, 2020
+
+Added Shortcuts action to Fetch from remote.
+
+Improved color consistency when using Increase Contrast.
+
+Fix bug where renaming repository folders from the context menu would sometimes fail.
+
+Fix bug where fetching all repositories inside folder would often popup the log thumbnail even when nothing exciting was logged.
+
+v4.0.8 February 21st, 2020
+
+When cloning repositories from BitBucket, GitHub or GitLab the repositories with recent changes are at the top.
+
+Support for previewing RAW images.
+
+Fix SSH connection issues that could happen on some IPv6 networks or when using a VPN.
+
+Copy remote URL to clipboard from context menu on repository status screen.
+
+New Revert Commit action from the share sheet on the commit detail screen. This applies the reverse change to your current working directory.
+
+Create branches from the branch picker show when tapping the button next to the current branch name on iOS 13.
+
+Fix such that creating pull requests is allowed between upstream and downstream repositories and not just the more common direction from downstream to upstream.
+
+Improved detection of branch changes from outside the main app.
+
+Fix glitch where it was possible to show commit graph when it was already shown on iPad.
+
+Fix such that saving files into Working Copy works from the Photos app share sheet.
+
+Fix bug where image picker in markdown files would sometimes make weird changes to the text.
+
+v4.0.7 February 9th, 2020
+
+Create Markdown links from within the editor by selecting a link or title and tapping Insert Link from the Copy/Paste menu. If you have a url on the clipboard this will be used for the href part and if you end up with an empty title this will be read from the target page.
+
+Added syntax highlighting for OpenGL Shading Language.
+
+Improved detection of GB2312 encoding.
+
+Suggestions when writing commit messages better respect casing of text typed by the user.
+
+Support for previewing HEIC images.
+
+Cloning would sometimes fail when url had _ in the hostname. Now they are allowed.
+
+Fix bug where Pull Repository in Shortcuts app didn't work on repositories configured to rebase changes from remote.
+
+v4.0.5 January 31st, 2020
+
+Context menu for files in directory listings include a new Duplicate action. 
+
+When configuring Files app sync from the share sheet of directories inside Working Copy there is a new Setup Package Sync action. Use this for Codea projects and other document types that are directories but appear as files.
+
+Full branch list will again include remote branches with a local counterpart. It was a mistake not to include these in v4.0.3
+
+Commit identifiers use a monospace font on iOS 13.
+
+Under some circumstances there could be confusion about directories inside Working Copy that didn't look like folders of repositories but wasn't repositories either. To better handle such situations you will now be able to enter these directories, to export or delete files inside and to convert the directory to a repository.
+
+v4.0.3 January 13th, 2020
+
+When a repository has merge or rebase conflicts a Resolve button is available instead of the Commit button on the new repository action and at the top of the screen on iPad.
+
+New Shortcuts action "Repository References" can be used to list all branches for a repository or other references such as tags by changing the Pattern parameter.
+
+Branch parameter for Repository History shortcuts action accepts full references for the Branch parameter, to make it work better with the new Repository References action.
+
+Markdown preview supports mathematical formula.
+
+iPhone users on iOS 13 have a tab button just above the keyboard when editor is in "Programming" mode that you enable from the dropdown in the upper right corner. This tab button respects .editorconfig files in the repository.
+
+Better syntax highlighting for JSX.
+
+Fix that number of lines shown as -removed and +added for each file is correct in commit dialog.
+
+Deep links didn't work on iPad when the screen was wide enough for two panels but the left one was hidden. Now they work.
+
+v4.0.1 January 5th, 2020
+
+Fix bug where Fetch/Merge/Pull/Push buttons on the new repository status sheet would not properly update when finishing operations.
+
+v4.0.0 January 3rd, 2020
+
+This release has a number of design improvements when running iOS 13 or iPadOS. 
+
+Directory listings have a new look and you checkout other branches by tapping the button to the right of the branch name instead of the previous button at the top.
+
+All screens showing a repository or content from a repository allow you to perform repository wide operations such as Commit, Revert, Fetch, Pull & Push. On iPad or iPhones in landscape mode these buttons are available at the very top of the screen.
+
+A floating button is available in the lower right corner on iPhone for easy one-handed access to the repository status sheet showing modified files and easy access to Commit, Revert, Fetch, Pull & Push. You tap and hold this floating button to move it to the lower left or to disable the floating button entirely.
+
+When there is no floating button a smaller but similar fingerprint button is shown at the top of the screen. You tap and hold this to enable the floating button which makes it available on iPad as well. On iPad you can drag this button into a new window to show the repository status sheet and since this displays modified files and updates as files change, this can be very useful when using external editors such as Textastic.
+
+Added new Clone Repository action for the Shortcuts app allowing you to pick a target folder. Since cloning is time consuming the work happens inside Working Copy opening Shortcuts when done. You can use the "Wait to return" action to pause your shortcut while Working Copy is cloning.
+
+Added Shortcuts action to list repositories.
+
+When dragging down repository list to fetch all repositories the repositories inside folders are fetched as well. When fetching completes you can merge in new commits but this didn't include repositories inside folders. Now it does.
+
+.tsx files are recognised as TypeScript and .hh files as C/C++ by default.
+
+Long tap the app icon from the home screen to Pull All repositories with fast-forward only merging.
+
+When looking at changes for files or commits words that are deleted or added will be highlighted. This highlighting is better at handling punctuation.
+
+Fix problem where it would be impossible to Fetch if a remote branch such as "feature" got replaced by "feature/new" because pruning of deleted branches wasn't done until fetch completed and fetch couldn't complete when old branch blocked the new one. 
+
+Fix syntax highlighting for strings in SQL.
+
+Fix for error where font setting for markdown preview wasn't respected.
+
+Better error messages when importing GPG keys fail.
+
+v3.9.9 December 10th, 2019
+
+Fixes crashes that could happen when browsing repository files or previewing HTML files with Javascript console enabled.
+
+v3.9.8 November 26th, 2019
+
+The libssh2 library handling secure shell is updated to v1.9.0 which enables a number of improvements.
+
+Support for importing ECDSA and Ed25219 private keys in PEM or OpenSSH format.
+
+The app still generates RSA keys but at 4096 bits instead of the previous 2048 bits.
+
+Elliptic Curve Cryptography is used to verify hosts that support this. You will need to verify your ssh host keys again due to this change.
+
+New shortcuts actions to Create Branch, Merge Branch & Delete Branch.
+
+Fixed bug where creation of new branches was refused when repository had modified files.
+
+
+v3.9.7 November 20th, 2019
+
+Release notes can be accessed from app settings.
+
+Create branches from commit detail screen or from the context menu shown on iOS 13 when long tapping commits.
+
+When creating/importing files from directory listing the new files is automatically shown on iPad.
+
+Fix bug where rebasing commits from remote would discard untracked files.
+
+Fix problem copy/pasting text files from directory listing.
+
+Fix UI glitch on iOS 13 when picking Working Copy from action sheets to save files into repositories.
+
+
+v3.9.6 November 4th, 2019
+
+Fixes problems with new Rebase Pull behaviour when resolving conflicts.
+
+Get Repository Files in the Shortcuts app allows paths with leading slash such as /README.md and includes added files as nodified.
+
+Copy is available in i0S 13 context menu for files and directories.
+
+Reset is available in i0S 13 context menu for commits in the current branch.
+
+Working Copy share sheet action properly saves files from Mail attachments on i0S 13.
+
+SSH Upload and SSH Command supports keyboard-interactive authentication and fixes problem running commands on FreeBSD 12.
+
+Improvements to rendering of differences for files and commits.
+

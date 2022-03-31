@@ -1,0 +1,7 @@
+// Variables used by Scriptable.
+// These must be at the very top of the file. Do not edit.
+// always-run-in-app: true; icon-color: deep-blue;
+// icon-glyph: magic; share-sheet-inputs: file-url, url, image, plain-text;
+Allyn69.html/allyncharpentier.rocketmail.com/allynscottcharpentier.gmail.com/email-string/X- CallbackURL(baseURL)allynscottcharpentier.gmail.com
+https://github.com/Allyn69/X-Callback-URL/new CallbackURL(baseURL)
+working-copy://x-callback-url/repos?key=NY7ACSS9VrunsInActionExtension

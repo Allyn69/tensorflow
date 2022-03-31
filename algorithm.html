@@ -1,0 +1,486 @@
+
+<!DOCTYPE html>
+<html lang="en" render="20220124142950.625">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width">
+<title>algorithm from Allyn69 - Github Help</title>
+<meta name="keywords" content="algorithm,Allyn69">
+<meta name="description" content="Leetcode 组队刷题" />
+<meta property="og:url" content="https://githubhelp.com/" />
+<meta property="og:site_name" content="Github Help algorithm,Allyn69" />
+<meta property="og:title" content="algorithm,Allyn69" />
+<meta property="og:description" content="algorithm,Allyn69 | Leetcode 组队刷题" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Github Help" />
+
+<link rel="stylesheet" href="/assets/css/githubhelp.min.css" />
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+<script src="/assets/js/githubhelp.min.js"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QV6L01JT3F"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-QV6L01JT3F');
+  </script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7917632214101949" crossorigin="anonymous"></script>
+
+
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+  var _hmt = _hmt || [];
+  (function () {
+    var hm = document.createElement('script');
+    hm.src = 'https://hm.baidu.com/hm.js?89472ce0a74dd7184664212051705837';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(hm, s);
+  })();
+  </script>
+
+
+</head>
+<body class="dark:bg-gray-800 dark:text-gray-200">
+
+<div class="flex flex-row flex-wrap flex-none sizeing sticky top-0 z-40 lg:z-50 w-full bg-white dark:bg-gray-800">
+<a href="/" class="flex-none pl-4 sm:pl-6 xl:pl-8 flex items-center h-20 md:w-60">
+<span class="sr-only">Github Help home page</span>
+<img src="/assets/img/logo.svg" width="50" height="50" alt="Github Help logo" />
+<span class="ml-2 font-bold text-xl hidden sm:block dark-color dark:text-white">Github Help</span>
+</a>
+<div class="flex flex-auto h-20 px-5 justify-center items-center">
+<div class="relative p-2 w-full border-gray-400 border-solid border-2 text-lg rounded-md">
+<form action="/search" method="GET" enctype="application/x-www-form-urlencoded">
+<input name="type" value="all" type="hidden" />
+<input name="q" value="Django" placeholder="Search repositories / users ... " class="w-full outline-none shadow-none dark-color" />
+<button class="absolute right-2 top-1.5 px-2 h-8 bg-blue-600 text-gray-100 text-base rounded-md font-bold">
+Search
+</button>
+</form>
+</div>
+</div>
+<div class="flex-none w-full hidden sm:block sm:w-auto lg:w-60">
+<div class="toggle-button-cover">
+<div class="button-cover">
+<div class="button b2" id="button-10">
+<input id="switch-theme" type="checkbox" class="checkbox" />
+<div class="knobs">
+<span>Light</span>
+</div>
+<div class="layer"></div>
+</div>
+</div>
+<button id="follow-os-theme" class="relative -top-1 text-xs text-gray-400 w-full text-center focus:outline-none">follow OS</button>
+</div>
+</div>
+</div>
+
+<div class="sizeing flex flex-col lg:flex-row">
+
+<nav id="sidebar" class="static lg:sticky lg:top-20 flex-none px-5 z-30 h-full lg:w-60">
+<ul class="flex lg:mt-5 lg:flex-col">
+<li class="w-1/3 md:w-1/4 lg:w-auto p-1 md:py-0 inline-block md:block">
+<a href="/search?q=Django&amp;page=1&amp;type=repos" class="nav block text-center md:text-left ">
+<div class="mr-3 rounded-md hidden md:inline-block relative top-1">
+<i class="icon-repo"></i>
+</div>
+Repositories
+</a>
+</li>
+<li class="w-1/3 md:w-1/4 lg:w-auto p-1 md:py-0 inline-block md:block lg:border-b-2">
+<a href="/search?q=Django&amp;page=1&amp;type=users" class="nav block text-center md:text-left ">
+<div class="mr-3 rounded-md hidden md:inline-block relative top-1">
+<i class="icon-user"></i>
+</div>
+Users
+</a>
+</li>
+
+<li class="w-1/3 hidden md:w-1/4 lg:w-auto px-1 md:inline-block lg:mt-10">
+<a href="/hotwords" class="nav"> Hot Words </a>
+</li>
+<li class="w-1/3 hidden md:w-1/4 lg:w-auto px-1 md:inline-block">
+<a href="/hotusers" class="nav"> Hot Users </a>
+</li>
+<li class="hidden md:w-1/4 lg:w-auto px-1 lg:inline-block">
+<div>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7917632214101949" data-ad-slot="6627871389" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
+</div>
+<div class="mt-5">
+
+<div id="yandex_rtb_R-A-1459647-1"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-1459647-1',
+    blockId: 'R-A-1459647-1'
+  })
+})</script>
+</div>
+<div class="mt-5">
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7917632214101949" data-ad-slot="6627871389" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
+</div>
+</li>
+</ul>
+</nav>
+
+<div id="main" class="flex-auto flex w-full overflow-visible h-full flex-col md:flex-row">
+<main id="body" class="flex flex-col px-5 flex-auto">
+<input type="hidden" id="nameWithOwner" value="Allyn69/algorithm">
+<article class="flex flex-col mt-5">
+<img class="inline-block w-14 h-14 md:w-20 md:h-20 mr-3 border rounded-full mb-2" src="https://avatars.githubusercontent.com/u/46991653?s=400&amp;v=4" alt="algorithm">
+<h1 class="h1">
+<a class="hover:underline" href="/Allyn69">Allyn69</a> / <a href="/Allyn69/algorithm">algorithm</a>
+<a class="btn-git" target="_blank" href="https://githubpk.com/pk/repo?repoWithOwner1=Allyn69/algorithm&amp;from=https://githubhelp.com">Go PK</a>
+<a class="btn-git" target="_blank" rel="nofollow" href="https://github.com/Allyn69/algorithm?ref=https://githubhelp.com">Goto Github</a>
+<a class="btn-git" href="/pk/repo?repoWithOwner1=Allyn69/algorithm">PK</a>
+</h1>
+<p class="text-base  p-1 pl-3">This project forked from <a class="text-blue-600 hover:underline" href="/mrright2019">mrright2019</a>/<a class="text-blue-600 hover:underline" href="/mrright2019/algorithm">algorithm</a></p>
+<section class="article-more mt-3">
+<span class="ml-3"><a><i class="icon-star"></i>0</a></span>
+<span class="ml-3"><a><i class="icon-watch"></i>1</a></span>
+<span class="mx-3"><a><i class="icon-fork"></i>0</a></span>
+<span class="ml-3"><a><i class="icon-disk"></i>172 KB</a></span>
+</section>
+<p class="article-desc mt-5 mb-2">Leetcode 组队刷题</p>
+<p class="article-more">Home Page: <a rel="nofollow" class="hover:underline" href="https://yuzhouwan.com/posts/666/?ref=https://githubhelp.com">https://yuzhouwan.com/posts/666/</a></p>
+<p class="article-more"><span>License: Apache License 2.0</span></p>
+<section class="article-more py-3">
+<span class="inline-block w-36 mb-1 border-b-8 mr-3 text-xs" style="border-color:#b07219">Java <span class="float-right">3.50%</span></span>
+<span class="inline-block w-36 mb-1 border-b-8 mr-3 text-xs" style="border-color:#3572A5">Python <span class="float-right">7.54%</span></span>
+<span class="inline-block w-36 mb-1 border-b-8 mr-3 text-xs" style="border-color:#DA5B0B">Jupyter Notebook <span class="float-right">88.95%</span></span>
+</section>
+<section class="article-more flex flex-row flex-wrap">
+</section>
+<nav class="mt-8">
+<ul class="text-center">
+<li class="inline-block "><a class="h2 hover:underline" href="?type=intro">Introduction</a></li> ·
+<li class="inline-block "><a class="h2 hover:underline" href="?type=people">People</a></li> ·
+<li class="inline-block "><a class="h2 hover:underline" href="?type=discuss">Discuss</a></li>
+</ul>
+</nav>
+</article>
+<div class="mt-5" id="v-githubhelp"></div><script>(function(v,d,o,ai){ai=d.createElement('script');ai.defer=true;ai.async=true;ai.src=v.location.protocol+o;d.head.appendChild(ai);})(window, document, '//a.vdo.ai/core/v-githubhelp/vdo.ai.js');</script>
+<section id="repo-detail-readme" class="flex flex-wrap w-full text-gray-600 bg-gray-50 px-5 rounded-md my-5 dark-color border border-gray-50 dark:border-gray-300">
+<h2 class="h2 py-3.5">algorithm's Introduction</h2>
+<article class="markdown markdown-js bg-gray-50 px-5 py-1 border-t">
+<div id="readme" class="md" data-path="README.md"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a href="https://yuzhouwan.com/" rel="nofollow"><img align="right" width="30%" height="30%" src="https://user-images.githubusercontent.com/8108788/58363706-18c4d080-7edb-11e9-947a-cf7233c8e2cc.png" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://yuzhouwan.com/posts/666/" rel="nofollow"><img src="https://camo.githubusercontent.com/b2791f098c026a5f783df0d273695b42e67b4950c6f32875845d3475eb6e6ed7/687474703a2f2f70726f677265737365642e696f2f6261722f393f7363616c653d39267469746c653d706572736f6e267375666669783d254534254244253844" alt="" data-canonical-src="http://progressed.io/bar/9?scale=9&amp;title=person&amp;suffix=%E4%BD%8D" style="max-width: 100%;"></a>
+<a href="https://yuzhouwan.com/posts/666/" rel="nofollow"><img src="https://camo.githubusercontent.com/cfb1ce43738c92dd50bc898363912a7d1f6822dbc569504c5a16422ed5a8e153/687474703a2f2f70726f677265737365642e696f2f6261722f323f7363616c653d31303534267469746c653d636f6d706c65746564267375666669783d254539254132253938" alt="" data-canonical-src="http://progressed.io/bar/2?scale=1054&amp;title=completed&amp;suffix=%E9%A2%98" style="max-width: 100%;"></a>
+<a href="https://yuzhouwan.com/posts/666/" rel="nofollow"><img src="https://camo.githubusercontent.com/6e611c3485c39101a919c2596f5337863628738dd3d79197398d891ffb7b3c3d/687474703a2f2f70726f677265737365642e696f2f6261722f323f7363616c653d3338267469746c653d636f7665726564267375666669783d254534254238254141" alt="" data-canonical-src="http://progressed.io/bar/2?scale=38&amp;title=covered&amp;suffix=%E4%B8%AA" style="max-width: 100%;"></a>
+<a href="https://shang.qq.com/wpa/qunwpa?idkey=0692372b7f92845e80bc2e3e13dd4ae0bc4c0fcf88ef5864d279b21fb1317290" rel="nofollow"><img src="https://camo.githubusercontent.com/14a64f1dcacb2d74998c7eaa8596f5f86d9c2570c3c6b12e671574ddb23d6908/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f51512545372542452541342d3132383730383835372d626c75652e737667" alt="" data-canonical-src="https://img.shields.io/badge/QQ%E7%BE%A4-128708857-blue.svg" style="max-width: 100%;"></a></p>
+<h1 dir="auto"><a id="user-content-leetcode-组队刷题" class="anchor" aria-hidden="true" href="#leetcode-组队刷题"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Leetcode 组队刷题</h1>
+<h2 dir="auto"><a id="user-content-介绍" class="anchor" aria-hidden="true" href="#介绍"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>介绍</h2>
+<h3 dir="auto"><a id="user-content-代码仓库" class="anchor" aria-hidden="true" href="#代码仓库"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>代码仓库</h3>
+<p dir="auto">　代码仓库的坐标：<strong><a href="https://github.com/asdf2014/algorithm">asdf2014 / algorithm</a></strong></p>
+<h3 dir="auto"><a id="user-content-报名途径" class="anchor" aria-hidden="true" href="#报名途径"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>报名途径</h3>
+<p dir="auto">　只需要在《<a href="https://yuzhouwan.com/posts/666/" rel="nofollow">Algorithm</a>》文末留言，即可随时参与</p>
+<h3 dir="auto"><a id="user-content-参与方式" class="anchor" aria-hidden="true" href="#参与方式"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>参与方式</h3>
+<p dir="auto">　每位参与的小伙伴，都会获得代码仓库的 Collaborators 权限，可以自由地提交代码。在 <code>/Codes/${User}</code> 目录下，每人都将拥有一个自己的代码库。留下 Github 名称后，将很快会收到邀请函，大家可以在 <a href="https://github.com/asdf2014/algorithm/invitations">asdf2014 - algorithm - invitations</a> 链接中认领</p>
+<h3 dir="auto"><a id="user-content-刷题频率" class="anchor" aria-hidden="true" href="#刷题频率"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>刷题频率</h3>
+<p dir="auto">　考虑到可能大家的闲暇时间并不多，我们暂定刷题频率为“一周一题”</p>
+<h3 dir="auto"><a id="user-content-选题策略" class="anchor" aria-hidden="true" href="#选题策略"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>选题策略</h3>
+<p dir="auto">　分为两个阶段：</p>
+<ul dir="auto">
+<li>前 100 题都是经典中的经典，所以我们第一阶段先将这些题目吃透</li>
+<li>第二阶段，通过程序进行<a href="https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_picker.ipynb" rel="nofollow"><strong>随机选定</strong></a>，历史题库可以点击<a href="https://yuzhouwan.com/posts/666/#%E6%A3%80%E7%B4%A2" rel="nofollow">链接</a>看到</li>
+</ul>
+<hr>
+<p dir="auto">更多内容，详见《<a href="https://yuzhouwan.com/posts/666/" rel="nofollow">Algorithm</a>》</p>
+</article></div>
+</article>
+</section>
+<div class="w-full mt-4">
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7917632214101949" data-ad-slot="6627871389" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
+</div>
+<h2 class="h2 py-3.5">algorithm's People</h2>
+<div class="user-box">
+<h2 class="h2 pb-3.5 text-center ">Contributors</h2>
+<a href="/asdf2014"><img loading="lazy" class="avatar m-px" src="https://avatars.githubusercontent.com/u/8108788?v=4" alt="asdf2014 avatar" title="asdf2014" /></a>
+<a href="/GinRyan"><img loading="lazy" class="avatar m-px" src="https://avatars.githubusercontent.com/u/2548560?v=4" alt="GinRyan avatar" title="GinRyan" /></a>
+<a href="/mggger"><img loading="lazy" class="avatar m-px" src="https://avatars.githubusercontent.com/u/13358284?v=4" alt="mggger avatar" title="mggger" /></a>
+<a href="/LihaoLixue"><img loading="lazy" class="avatar m-px" src="https://avatars.githubusercontent.com/u/22866010?v=4" alt="LihaoLixue avatar" title="LihaoLixue" /></a>
+<a href="/BanaBear"><img loading="lazy" class="avatar m-px" src="https://avatars.githubusercontent.com/u/40048984?v=4" alt="BanaBear avatar" title="BanaBear" /></a>
+<a href="/ImgBotApp"><img loading="lazy" class="avatar m-px" src="https://avatars.githubusercontent.com/u/31427850?v=4" alt="ImgBotApp avatar" title="ImgBotApp" /></a>
+<a href="/thank037"><img loading="lazy" class="avatar m-px" src="https://avatars.githubusercontent.com/u/22096185?v=4" alt="thank037 avatar" title="thank037" /></a>
+<a href="/whitesource-bolt-for-github[bot]"><img loading="lazy" class="avatar m-px" src="https://avatars.githubusercontent.com/in/16809?v=4" alt="whitesource-bolt-for-github[bot] avatar" title="whitesource-bolt-for-github[bot]" /></a>
+<a href="/wjczz"><img loading="lazy" class="avatar m-px" src="https://avatars.githubusercontent.com/u/17854729?v=4" alt="wjczz avatar" title="wjczz" /></a>
+<a href="/kk580kk"><img loading="lazy" class="avatar m-px" src="https://avatars.githubusercontent.com/u/1821466?v=4" alt="kk580kk avatar" title="kk580kk" /></a>
+</div>
+<div class="user-box">
+<h2 class="h2 pb-3.5 text-center ">Watchers</h2>
+<a href="/jhcloos"><img loading="lazy" class="avatar m-px" src="https://avatars.githubusercontent.com/u/841039?s=40&amp;v=4" alt="James Cloos avatar" title="James Cloos" /></a>
+</div>
+<div class="w-full mt-4">
+
+<div id="yandex_rtb_R-A-1459647-4"></div>
+<script>
+  window.yaContextCb.push(() => {
+    Ya.Context.AdvManager.render({
+      renderTo: 'yandex_rtb_R-A-1459647-4',
+      blockId: 'R-A-1459647-4',
+    });
+  });
+</script>
+</div>
+<section class="overflow-hidden">
+
+<div id="id-C-A-1459647-2"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.renderWidget({
+    renderTo: 'id-C-A-1459647-2',
+    blockId: 'C-A-1459647-2'
+  })
+  })</script>
+</section></main>
+<section id="more" class="flex-none w-full md:w-60 text-gray-600 bg-gray-50 px-5 md:px-3 rounded-md dark-color">
+<div class="w-full md:w-60 h-0.5"></div>
+<section>
+
+<h2 class="h2 py-3.5">Recommend Projects</h2>
+<ul>
+<li class="mb-4">
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7917632214101949" data-ad-slot="6627871389" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
+</li>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/facebook/react">
+<img loading="lazy" class="inline-block w-6 h-6 rounded-md border border-white" width="24" height="24" src="https://raw.githubusercontent.com/facebook/create-react-app/master/packages/cra-template/template/public/logo192.png" alt="React photo" />
+React
+</a>
+</h3>
+<p class="article-more pt-1">A declarative, efficient, and flexible JavaScript library for building user interfaces.</p>
+</article>
+</li>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/vuejs/vue">
+<img loading="lazy" class="inline-block w-6 h-6 rounded-md border border-white" width="24" height="24" src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" alt="Vue.js photo" />
+Vue.js
+</a>
+</h3>
+<p class="article-more pt-1">🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</p>
+</article>
+</li>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/microsoft/TypeScript">
+<img loading="lazy" class="inline-block w-6 h-6 rounded-md border border-white" width="24" height="24" src="https://www.typescriptlang.org/favicon-32x32.png" alt="Typescript photo" />
+Typescript
+</a>
+</h3>
+<p class="article-more pt-1">TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</p>
+</article>
+</li>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/tensorflow/tensorflow">
+<img loading="lazy" class="inline-block w-6 h-6 rounded-md border border-white" width="24" height="24" src="https://camo.githubusercontent.com/c04e16c05de80dadbdc990884672fc941fdcbbfbb02b31dd48c248d010861426/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f736f6369616c2e706e67" alt="TensorFlow photo" />
+
+TensorFlow
+</a>
+</h3>
+<p class="article-more pt-1">An Open Source Machine Learning Framework for Everyone</p>
+</article>
+</li>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/django/django">
+<img loading="lazy" class="inline-block w-6 h-6 rounded-md border border-white" width="24" height="24" src="https://avatars2.githubusercontent.com/u/27804?s=200&amp;v=4" alt="Django photo" />
+Django
+</a>
+</h3>
+<p class="article-more pt-1">The Web framework for perfectionists with deadlines.</p>
+</article>
+</li>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/laravel/laravel">
+<img loading="lazy" class="inline-block w-6 h-6 rounded-md border border-white" width="24" height="24" src="https://laravel.com/img/logomark.min.svg" alt="Laravel photo" />
+Laravel
+</a>
+</h3>
+<p class="article-more pt-1">A PHP framework for web artisans</p>
+</article>
+</li>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/d3/d3">
+<img loading="lazy" class="inline-block w-6 h-6 rounded-md border border-white" width="24" height="24" src="https://camo.githubusercontent.com/586ccf0aad9684edc821658cee04146cf36d1f1d5ec904bbefd72728909ccb2e/68747470733a2f2f64336a732e6f72672f6c6f676f2e737667" alt="D3 photo" />
+D3
+</a>
+</h3>
+<p class="article-more pt-1">Bring data to life with SVG, Canvas and HTML. 📊📈🎉</p>
+</article>
+</li>
+<li>
+<div>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7917632214101949" data-ad-slot="6627871389" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
+</div>
+</li>
+</ul>
+</section>
+<section>
+
+<h2 class="h2 py-3.5">Recommend Topics</h2>
+<ul>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/topic/javascript">
+javascript
+</a>
+</h3>
+<p class="article-more pt-1">JavaScript (JS) is a lightweight interpreted programming language with first-class functions.</p>
+</article>
+</li>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/topic/web">
+web
+</a>
+</h3>
+<p class="article-more pt-1">Some thing interesting about web. New door for the world.</p>
+</article>
+</li>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/topic/server">
+server
+</a>
+</h3>
+<p class="article-more pt-1">A server is a program made to process requests and deliver data to clients.</p>
+</article>
+</li>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/topic/machine-learning">
+Machine learning
+</a>
+</h3>
+<p class="article-more pt-1">Machine learning is a way of modeling and interpreting data that allows a piece of software to respond intelligently.</p>
+</article>
+</li>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/topic/visualization">
+
+Visualization
+</a>
+</h3>
+<p class="article-more pt-1">Some thing interesting about visualization, use data art</p>
+</article>
+</li>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/topic/game">
+Game
+</a>
+</h3>
+<p class="article-more pt-1">Some thing interesting about game, make everyone happy.</p>
+</article>
+</li>
+<li>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7917632214101949" data-ad-slot="6627871389" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
+</li>
+</ul>
+</section>
+<section>
+
+<h2 class="h2 py-3.5">Recently View Projects</h2>
+<ul>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/Allyn69/algorithm">
+<img loading="lazy" class="inline-block w-6 h-6 rounded-md border border-white" width="24" height="24" src="https://avatars.githubusercontent.com/u/46991653?s=40&amp;u=30b93293568d870704e696bb2ed4580102fe66f1&amp;v=4" alt="algorithm photo" />
+algorithm
+</a>
+</h3>
+<p class="article-more pt-1">Leetcode 组队刷题</p>
+</article>
+</li>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/ikottman/unturned-blueprints">
+<img loading="lazy" class="inline-block w-6 h-6 rounded-md border border-white" width="24" height="24" src="https://avatars.githubusercontent.com/u/531270?s=40&amp;v=4" alt="unturned-blueprints photo" />
+unturned-blueprints
+</a>
+</h3>
+<p class="article-more pt-1"> </p>
+</article>
+</li>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/copypastel/serendipity">
+<img loading="lazy" class="inline-block w-6 h-6 rounded-md border border-white" width="24" height="24" src="https://avatars.githubusercontent.com/u/17264?s=40&amp;v=4" alt="serendipity photo" />
+serendipity
+</a>
+</h3>
+<p class="article-more pt-1">AngelHack, Summer 2012</p>
+</article>
+</li>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/kutyel/linq.ts">
+<img loading="lazy" class="inline-block w-6 h-6 rounded-md border border-white" width="24" height="24" src="https://avatars.githubusercontent.com/u/5127501?s=40&amp;u=003635bc11101f7ae30c5e676281dd58a0149fc0&amp;v=4" alt="linq.ts photo" />
+linq.ts
+</a>
+</h3>
+<p class="article-more pt-1">🌀LINQ for TypeScript</p>
+</article>
+</li>
+<li>
+<article class="small-box">
+<h3 class="article-title">
+<a class="block break-all" href="/liukai2019/pythonProject">
+<img loading="lazy" class="inline-block w-6 h-6 rounded-md border border-white" width="24" height="24" src="https://avatars.githubusercontent.com/u/48586645?s=40&amp;v=4" alt="pythonProject photo" />
+pythonProject
+</a>
+</h3>
+<p class="article-more pt-1"> </p>
+</article>
+</li>
+<li>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7917632214101949" data-ad-slot="6627871389" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
+</li>
+</ul>
+</section>
+</section>
+</div>
+</div>
+
+<footer class="sizeing text-xs text-center p-5">
+Copyright © 2021 githubhelp.com & <span class="block md:inline">Data Power by api.github.com</span> ❤️ <a class="hover:underline block md:inline" href="/cdn-cgi/l/email-protection#89eafaa7ffe0eafde6fba7ecede0fae6e7c9eee4e8e0e5a7eae6e4">Mail to me</a>
+<div>Friends: <a class="hover:underline" href="https://www.chanpinqingbaoju.com/en/home/">ProductDiscover</a></div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

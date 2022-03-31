@@ -1,0 +1,9 @@
+[submodule "AIPro"]
+	path = AIPro
+	url = https://Allyn69.users.github.com@github.com/InitialDLab/AIPro
+[submodule "Allyn69"]
+	path = Allyn69
+	url = git@github.com:Allyn69/Allyn69.git
+[submodule "888.DEV"]
+	path = 888.DEV
+	url = https://Allyn69@github.com/888devs/888.DEV
