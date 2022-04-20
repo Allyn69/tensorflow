@@ -1,0 +1,80 @@
+id: my-first-flow
+namespace: my.company.teams
+
+inputs:
+  - type: FILE
+    name: uploaded
+    description: A Csv file to be uploaded through API or UI
+
+tasks:
+  - id: archive
+    type: io.kestra.plugin.gcp.gcs.Upload
+    description: Archive the file on Google Cloud Storage bucket
+    from: "{{ inputs.uploaded }}"
+    to: "gs://my_bucket/archives/{{ execution.id }}.csv"
+
+  - id: csvReader
+    type: io.kestra.plugin.serdes.csv.CsvReader
+    from: "{{ inputs.uploaded }}"
+
+  - id: fileTransform
+    type: io.kestra.plugin.scripts.nashorn.FileTransform
+    description: This task will anonymize the contactName with a custom nashorn script (javascript over jvm). This show that you able to handle custom transformation or remapping in the ETL way
+    from: "{{ outputs.csvReader.uri }}"
+    script: |
+      if (row['contactName']) {
+        row['contactName'] = "*".repeat(row['contactName'].length);
+      }
+
+  - id: avroWriter
+    type: io.kestra.plugin.serdes.avro.AvroWriter
+    description: This file will convert the file from Kestra internal storage to avro. Again, we handling ETL since the conversion is done by Kestra before loading the data in BigQuery. This allow you to have some control before loading and to reject wrong data as soon as possible.
+    from: "{{ outputs.fileTransform.uri }}"
+    schema: |
+      {
+        "type": "record",
+        "name": "Root",
+        "fields":
+          [
+            { "name": "contactTitle", "type": ["null", "string"] },
+            { "name": "postalCode", "type": ["null", "long"] },
+            { "name": "entityId", "type": ["null", "long"] },
+            { "name": "country", "type": ["null", "string"] },
+            { "name": "region", "type": ["null", "string"] },
+            { "name": "address", "type": ["null", "string"] },
+            { "name": "fax", "type": ["null", "string"] },
+            { "name": "email", "type": ["null", "string"] },
+            { "name": "mobile", "type": ["null", "string"] },
+            { "name": "companyName", "type": ["null", "string"] },
+            { "name": "contactName", "type": ["null", "string"] },
+            { "name": "phone", "type": ["null", "string"] },
+            { "name": "city", "type": ["null", "string"] }
+          ]
+      }
+
+  - id: load
+    type: io.kestra.plugin.gcp.bigquery.Load
+    description: Simply load the generated from avro task to BigQuery
+    avroOptions:
+      useAvroLogicalTypes: true
+    destinationTable: kestra-prd.demo.customer_copy
+    format: AVRO
+    from: "{{outputs.avroWriter.uri }}"
+    writeDisposition: WRITE_TRUNCATE
+
+  - id: aggregate
+    type: io.kestra.plugin.gcp.bigquery.Query
+    description: Aggregate some data from loaded files
+    createDisposition: CREATE_IF_NEEDED
+    destinationTable: kestra-prd.demo.agg
+    sql: |
+      SELECT k.categoryName, p.productName, c.companyName, s.orderDate, SUM(d.quantity) AS quantity, SUM(d.unitPrice * d.quantity * r.exchange) as totalEur
+      FROM `kestra-prd.demo.salesOrder` AS s
+      INNER JOIN `kestra-prd.demo.orderDetail` AS d ON s.entityId = d.orderId
+      INNER JOIN `kestra-prd.demo.customer` AS c ON c.entityId = s.customerId
+      INNER JOIN `kestra-prd.demo.product` AS p ON p.entityId = d.productId
+      INNER JOIN `kestra-prd.demo.category` AS k ON k.entityId = p.categoryId
+      INNER JOIN `kestra-prd.demo.rates` AS r ON r.date = DATE(s.orderDate) AND r.currency = "USD"
+      GROUP BY 1, 2, 3, 4
+    timePartitioningField: orderDate
+    writeDisposition: WRITE_TRUNCATE
